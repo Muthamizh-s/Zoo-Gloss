@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Physiology",
+        "description": "The study of the functions and mechanisms in living organisms.\nExample: Human circulatory system maintaining blood flow."
+    },
+    {
+        "title": "Biochemistry",
+        "description": "The study of chemical processes within living organisms.\nExample: Glycolysis as a biochemical process."
+    },
+    {
+        "title": "Metabolism",
+        "description": "The chemical processes that occur within a living organism to maintain life.\nExample: Breaking down glucose for energy."
+    },
+    {
+        "title": "Homeostasis",
+        "description": "The regulation of stable internal conditions.\nExample: Body temperature regulation at 37°C in humans."
+    },
+    {
+        "title": "Enzymes",
+        "description": "Biological molecules that speed up chemical reactions.\nExample: Amylase breaking down starch."
+    },
+    {
+        "title": "ATP",
+        "description": "Adenosine triphosphate, the energy currency of the cell.\nExample: ATP powering muscle contractions."
+    },
+    {
+        "title": "Respiration",
+        "description": "The process of breaking down glucose to produce energy.\nExample: Cellular respiration in mitochondria."
+    },
+    {
+        "title": "Aerobic Respiration",
+        "description": "Respiration using oxygen to produce energy.\nExample: Energy production in human cells."
+    },
+    {
+        "title": "Anaerobic Respiration",
+        "description": "Respiration without oxygen.\nExample: Lactic acid fermentation in muscles."
+    },
+    {
+        "title": "Basal Metabolic Rate (BMR)",
+        "description": "The rate at which the body uses energy while at rest.\nExample: Higher BMR in active individuals."
+    },
+    {
+        "title": "Digestive System",
+        "description": "The system responsible for breaking down food and absorbing nutrients.\nExample: Stomach and intestines digesting food."
+    },
+    {
+        "title": "Peristalsis",
+        "description": "Wave-like muscle contractions moving food through the digestive tract.\nExample: Esophagus moving swallowed food."
+    },
+    {
+        "title": "Bile",
+        "description": "A digestive fluid produced by the liver aiding fat digestion.\nExample: Bile emulsifying fats in the intestine."
+    },
+    {
+        "title": "Liver",
+        "description": "An organ involved in detoxification and metabolism.\nExample: Processing nutrients absorbed from the gut."
+    },
+    {
+        "title": "Pancreas",
+        "description": "An organ producing digestive enzymes and hormones.\nExample: Secreting insulin to regulate blood sugar."
+    },
+    {
+        "title": "Kidney",
+        "description": "An organ filtering waste products from the blood.\nExample: Producing urine to excrete waste."
+    },
+    {
+        "title": "Nephrons",
+        "description": "The functional units of the kidney.\nExample: Filtering blood to form urine."
+    },
+    {
+        "title": "Hormones",
+        "description": "Chemical messengers regulating physiological processes.\nExample: Insulin regulating blood sugar levels."
+    },
+    {
+        "title": "Thyroid Gland",
+        "description": "A gland regulating metabolism and growth.\nExample: Secreting thyroxine."
+    },
+    {
+        "title": "Pituitary Gland",
+        "description": "The master gland controlling other endocrine glands.\nExample: Releasing growth hormone."
+    },
+    {
+        "title": "Adrenal Glands",
+        "description": "Glands producing stress hormones like adrenaline.\nExample: Adrenaline increasing heart rate during stress."
+    },
+    {
+        "title": "Insulin",
+        "description": "A hormone regulating blood glucose levels.\nExample: Insulin lowering high blood sugar."
+    },
+    {
+        "title": "Glucagon",
+        "description": "A hormone raising blood glucose levels.\nExample: Glucagon stimulating glucose release from the liver."
+    },
+    {
+        "title": "Excretory System",
+        "description": "System removing waste products from the body.\nExample: Kidneys and bladder excreting urine."
+    },
+    {
+        "title": "Urea",
+        "description": "Nitrogenous waste product excreted in urine.\nExample: Urea formed in the liver."
+    },
+    {
+        "title": "Osmoregulation",
+        "description": "The process of maintaining water and ion balance.\nExample: Kidneys conserving water in dehydration."
+    },
+    {
+        "title": "Respiratory System",
+        "description": "System responsible for gas exchange in the body.\nExample: Lungs exchanging oxygen and carbon dioxide."
+    },
+    {
+        "title": "Alveoli",
+        "description": "Tiny air sacs in the lungs where gas exchange occurs.\nExample: Oxygen entering blood in alveoli."
+    },
+    {
+        "title": "Diaphragm",
+        "description": "A muscle aiding breathing by contracting and relaxing.\nExample: Diaphragm moving during inhalation."
+    },
+    {
+        "title": "Hemoglobin",
+        "description": "A protein in red blood cells binding and transporting oxygen.\nExample: Oxygen carried by hemoglobin to tissues."
+    },
+    {
+        "title": "Sensory Organs",
+        "description": "Organs that detect stimuli from the environment.\nExample: Eyes, ears, and skin as sensory organs."
+    },
+    {
+        "title": "Neuron",
+        "description": "The basic unit of the nervous system transmitting signals.\nExample: Sensory neurons detecting stimuli."
+    },
+    {
+        "title": "Synapse",
+        "description": "The junction between two neurons for signal transmission.\nExample: Neurotransmitter release at synapse."
+    },
+    {
+        "title": "Reflex Arc",
+        "description": "A neural pathway for reflex actions.\nExample: Knee-jerk reflex during a tap."
+    },
+    {
+        "title": "Neurotransmitters",
+        "description": "Chemical messengers transmitting signals across synapses.\nExample: Dopamine affecting mood."
+    },
+    {
+        "title": "Cerebrum",
+        "description": "The part of the brain responsible for voluntary activities.\nExample: Decision-making and memory in humans."
+    },
+    {
+        "title": "Cerebellum",
+        "description": "The part of the brain coordinating movement and balance.\nExample: Cerebellum controlling posture."
+    },
+    {
+        "title": "Medulla Oblongata",
+        "description": "Brain structure regulating involuntary functions.\nExample: Medulla controlling heart rate and breathing."
+    },
+    {
+        "title": "Endocrine System",
+        "description": "A system of glands secreting hormones into the bloodstream.\nExample: Thyroid and adrenal glands in humans."
+    },
+    {
+        "title": "Pineal Gland",
+        "description": "A gland regulating sleep cycles.\nExample: Melatonin secretion regulating sleep."
+    },
+    {
+        "title": "Hypothalamus",
+        "description": "Brain region controlling the endocrine system.\nExample: Hypothalamus regulating body temperature."
+    },
+    {
+        "title": "Axon",
+        "description": "The long projection of a neuron carrying impulses.\nExample: Axons transmitting motor signals."
+    },
+    {
+        "title": "Dendrites",
+        "description": "The branches of a neuron receiving signals.\nExample: Dendrites transmitting sensory input."
+    },
+    {
+        "title": "Nervous System",
+        "description": "The system transmitting signals between different body parts.\nExample: Brain and spinal cord in humans."
+    },
+    {
+        "title": "Peripheral Nervous System",
+        "description": "Nerves outside the brain and spinal cord.\nExample: Nerves in arms and legs."
+    },
+    {
+        "title": "Autonomic Nervous System",
+        "description": "Part of the nervous system controlling involuntary actions.\nExample: Heart rate controlled by the autonomic system."
+    },
+    {
+        "title": "Sympathetic Nervous System",
+        "description": "Division of the autonomic system activating the fight-or-flight response.\nExample: Increased heart rate during stress."
+    },
+    {
+        "title": "Parasympathetic Nervous System",
+        "description": "Division of the autonomic system promoting rest and digestion.\nExample: Slowing heart rate after stress."
+    },
+    {
+        "title": "Cochlea",
+        "description": "A spiral structure in the inner ear detecting sound.\nExample: Cochlea converting sound waves to signals."
+    },
+    {
+        "title": "Retina",
+        "description": "The layer in the eye converting light to neural signals.\nExample: Retina detecting light and colors."
+    },
+    {
+        "title": "Hormonal Regulation",
+        "description": "Control of physiological activities by hormones.\nExample: Insulin regulating blood sugar levels."
+    },
+    {
+        "title": "Feedback Mechanism",
+        "description": "Biological process regulating homeostasis through feedback.\nExample: Negative feedback in blood sugar control."
+    },
+    {
+        "title": "Thyroxine",
+        "description": "Hormone regulating metabolism.\nExample: Thyroxine secreted by the thyroid gland."
+    },
+    {
+        "title": "Adrenaline",
+        "description": "Hormone increasing heart rate during stress.\nExample: Adrenaline released during a fight-or-flight response."
+    },
+    {
+        "title": "Cortisol",
+        "description": "Hormone regulating metabolism and stress response.\nExample: Cortisol levels rising under prolonged stress."
+    },
+    {
+        "title": "Hypoglycemia",
+        "description": "Low blood sugar levels.\nExample: Symptoms include dizziness and weakness."
+    },
+    {
+        "title": "Hyperglycemia",
+        "description": "High blood sugar levels.\nExample: Occurs in uncontrolled diabetes."
+    },
+    {
+        "title": "Cellular Respiration",
+        "description": "Process of producing ATP by breaking down glucose.\nExample: Occurs in mitochondria."
+    },
+    {
+        "title": "Krebs Cycle",
+        "description": "A series of chemical reactions in cellular respiration.\nExample: Krebs cycle producing ATP and CO2."
+    },
+    {
+        "title": "Electron Transport Chain",
+        "description": "A process generating ATP in cellular respiration.\nExample: Occurs in mitochondrial membranes."
+    },
+    {
+        "title": "Glycolysis",
+        "description": "First step in glucose breakdown for energy.\nExample: Glycolysis producing pyruvate."
+    },
+    {
+        "title": "Lactic Acid Fermentation",
+        "description": "Anaerobic process producing energy in muscles.\nExample: Occurs during vigorous exercise."
+    },
+    {
+        "title": "Exhalation",
+        "description": "Process of expelling air from the lungs.\nExample: Releasing carbon dioxide during exhalation."
+    },
+    {
+        "title": "Inhalation",
+        "description": "Process of drawing air into the lungs.\nExample: Oxygen entering the body during inhalation."
+    },
+    {
+        "title": "Myelin Sheath",
+        "description": "Insulating layer around neurons speeding signal transmission.\nExample: Myelin sheath in motor neurons."
+    },
+    {
+        "title": "Action Potential",
+        "description": "Electrical impulse traveling along a neuron.\nExample: Triggered by stimuli."
+    },
+    {
+        "title": "Neuroplasticity",
+        "description": "Ability of the brain to reorganize and adapt.\nExample: Neuroplasticity aiding recovery after brain injury."
+    },
+    {
+        "title": "Spinal Reflex",
+        "description": "Automatic response mediated by the spinal cord.\nExample: Pulling hand away from a hot object."
+    },
+    {
+        "title": "Hippocampus",
+        "description": "Brain region involved in memory formation.\nExample: Hippocampus storing long-term memories."
+    },
+    {
+        "title": "Amygdala",
+        "description": "Brain structure processing emotions.\nExample: Amygdala involved in fear responses."
+    },
+    {
+        "title": "Photoreceptors",
+        "description": "Cells in the retina detecting light.\nExample: Rods and cones in the human eye."
+    },
+    {
+        "title": "Olfactory Bulb",
+        "description": "Structure processing smell information.\nExample: Olfactory bulb detecting scents."
+    },
+    {
+        "title": "Taste Buds",
+        "description": "Structures on the tongue detecting taste.\nExample: Taste buds sensing sweet and salty flavors."
+    },
+    {
+        "title": "Mechanoreceptors",
+        "description": "Receptors detecting mechanical stimuli like pressure.\nExample: Mechanoreceptors in the skin sensing touch."
+    },
+    {
+        "title": "Thermoreceptors",
+        "description": "Receptors detecting temperature changes.\nExample: Thermoreceptors sensing cold or heat."
+    },
+    {
+        "title": "Endothermy",
+        "description": "Ability to regulate internal body temperature.\nExample: Mammals maintaining constant temperature."
+    },
+    {
+        "title": "Ectothermy",
+        "description": "Dependence on external environment for body heat.\nExample: Reptiles basking in the sun."
+    },
+    {
+        "title": "Hypothalamic Control",
+        "description": "Regulation of bodily functions by the hypothalamus.\nExample: Hypothalamus controlling hunger and thirst."
+    },
+    {
+        "title": "Cardiac Cycle",
+        "description": "Sequence of events in one heartbeat.\nExample: Systole and diastole phases."
+    },
+    {
+        "title": "Stroke Volume",
+        "description": "Amount of blood pumped per heartbeat.\nExample: Higher stroke volume during exercise."
+    },
+    {
+        "title": "Cardiac Output",
+        "description": "Total blood volume pumped by the heart per minute.\nExample: Increased cardiac output during physical activity."
+    },
+    {
+        "title": "Pulmonary Circulation",
+        "description": "Blood flow between the heart and lungs.\nExample: Oxygenated blood returning to the heart."
+    },
+    {
+        "title": "Systemic Circulation",
+        "description": "Blood flow between the heart and the rest of the body.\nExample: Delivering oxygenated blood to tissues."
+    },
+    {
+        "title": "Bohr Effect",
+        "description": "Hemoglobin's decreased affinity for oxygen in high CO2.\nExample: Facilitating oxygen release in active tissues."
+    },
+    {
+        "title": "Plasma Proteins",
+        "description": "Proteins in blood plasma performing various functions.\nExample: Albumin maintaining osmotic pressure."
+    },
+    {
+        "title": "Hemostasis",
+        "description": "Process of stopping bleeding.\nExample: Platelets forming a clot at the injury site."
+    },
+    {
+        "title": "Blood pH Regulation",
+        "description": "Maintaining blood pH within a narrow range.\nExample: Buffer systems keeping pH stable."
+    },
+    {
+        "title": "Permeability",
+        "description": "Ability of membranes to allow substances through.\nExample: Cell membranes controlling ion passage."
+    },
+    {
+        "title": "Ion Channels",
+        "description": "Protein channels facilitating ion movement across membranes.\nExample: Calcium ion channels in muscle cells."
+    },
+    {
+        "title": "Lymphatic Vessels",
+        "description": "Vessels carrying lymph in the immune system.\nExample: Lymphatic vessels draining interstitial fluid."
+    },
+    {
+        "title": "Antibodies",
+        "description": "Proteins targeting specific pathogens.\nExample: Antibodies neutralizing viruses."
+    },
+    {
+        "title": "Macrophages",
+        "description": "Immune cells engulfing pathogens.\nExample: Macrophages removing bacteria."
+    },
+    {
+        "title": "T-Cells",
+        "description": "Immune cells mediating adaptive immunity.\nExample: T-cells attacking infected cells."
+    },
+    {
+        "title": "B-Cells",
+        "description": "Immune cells producing antibodies.\nExample: B-cells neutralizing toxins."
+    },
+    {
+        "title": "Cilia",
+        "description": "Hair-like structures aiding movement or fluid flow.\nExample: Cilia moving mucus in respiratory pathways."
+    },
+    {
+        "title": "Gas Exchange",
+        "description": "Exchange of oxygen and carbon dioxide in lungs.\nExample: Gas exchange in alveoli."
+    },
+    {
+        "title": "Blood Pressure",
+        "description": "The force exerted by blood on vessel walls.\nExample: Measured as systolic and diastolic pressure."
+    },
+    {
+        "title": "Edema",
+        "description": "Swelling caused by fluid accumulation in tissues.\nExample: Edema in legs due to poor circulation."
+    },
+    {
+        "title": "Hyperventilation",
+        "description": "Excessive breathing leading to low CO2 levels.\nExample: Hyperventilation during anxiety."
+    },
+    {
+        "title": "Hypoxia",
+        "description": "Low oxygen levels in tissues.\nExample: Hypoxia at high altitudes."
+    }
+]

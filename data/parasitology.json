@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Endoparasite",
+        "description": "A parasite that lives inside the host\nExample: Tapeworm"
+    },
+    {
+        "title": "Ectoparasite",
+        "description": "A parasite that lives on the host's surface\nExample: Fleas"
+    },
+    {
+        "title": "Facultative Parasite",
+        "description": "A parasite that can live independently\nExample: Naegleria"
+    },
+    {
+        "title": "Obligate Parasite",
+        "description": "A parasite that must live in a host\nExample: Malaria Parasite"
+    },
+    {
+        "title": "Definitive Host",
+        "description": "The host where a parasite reaches maturity\nExample: Mosquito for Plasmodium"
+    },
+    {
+        "title": "Intermediate Host",
+        "description": "A host that supports a larval stage\nExample: Snail for Schistosoma"
+    },
+    {
+        "title": "Paratenic Host",
+        "description": "A host that carries a parasite but is not essential for development\nExample: Rodents for Toxoplasma"
+    },
+    {
+        "title": "Reservoir Host",
+        "description": "A host that naturally harbors a pathogen\nExample: Dogs for Leishmania"
+    },
+    {
+        "title": "Vector",
+        "description": "An organism that transmits pathogens\nExample: Mosquito"
+    },
+    {
+        "title": "Zoonotic Parasite",
+        "description": "A parasite capable of infecting humans and animals\nExample: Toxoplasma"
+    },
+    {
+        "title": "Helminth",
+        "description": "A parasitic worm\nExample: Roundworms"
+    },
+    {
+        "title": "Protozoan Parasite",
+        "description": "A single-celled parasitic organism\nExample: Plasmodium"
+    },
+    {
+        "title": "Ectoparasitic Infestation",
+        "description": "Infestation of the skin by parasites\nExample: Lice"
+    },
+    {
+        "title": "Trophozoite",
+        "description": "The active feeding stage of protozoa\nExample: Giardia"
+    },
+    {
+        "title": "Cyst",
+        "description": "A dormant, protective stage of protozoa\nExample: Entamoeba"
+    },
+    {
+        "title": "Encystment",
+        "description": "The process of forming a cyst\nExample: Encysted Giardia"
+    },
+    {
+        "title": "Excystation",
+        "description": "The emergence from a cyst\nExample: Cyst Activation"
+    },
+    {
+        "title": "Hyperparasitism",
+        "description": "A parasite living inside another parasite\nExample: Hyperinfective Tapeworm"
+    },
+    {
+        "title": "Epizootic",
+        "description": "A parasite outbreak in animal populations\nExample: Avian Malaria"
+    },
+    {
+        "title": "Chronic Infection",
+        "description": "A long-term infection\nExample: Chronic Malaria"
+    },
+    {
+        "title": "Host Specificity",
+        "description": "The range of hosts a parasite can infect\nExample: Trypanosoma Hosts"
+    },
+    {
+        "title": "Parasite Burden",
+        "description": "The number of parasites infecting a host\nExample: High Worm Load"
+    },
+    {
+        "title": "Antigenic Variation",
+        "description": "The ability to change antigens to evade immunity\nExample: Trypanosome Variant Surface Glycoproteins"
+    },
+    {
+        "title": "Pathogenicity",
+        "description": "The ability of a parasite to cause disease\nExample: Plasmodium"
+    },
+    {
+        "title": "Virulence",
+        "description": "The degree of harm caused by a parasite\nExample: Yersinia Pestis"
+    },
+    {
+        "title": "Latency",
+        "description": "A dormant but viable state of a pathogen\nExample: Herpesvirus"
+    },
+    {
+        "title": "Dormancy",
+        "description": "A state where a parasite remains inactive\nExample: Latent Toxoplasma"
+    },
+    {
+        "title": "Direct Life Cycle",
+        "description": "A life cycle requiring only one host\nExample: Hookworm"
+    },
+    {
+        "title": "Indirect Life Cycle",
+        "description": "A life cycle requiring multiple hosts\nExample: Schistosoma"
+    },
+    {
+        "title": "Schizogony",
+        "description": "Asexual reproduction in protozoa\nExample: Plasmodium Replication"
+    },
+    {
+        "title": "Cysticercosis",
+        "description": "A disease caused by larval tapeworms\nExample: Pork Tapeworm"
+    },
+    {
+        "title": "Hydatid Disease",
+        "description": "A disease caused by Echinococcus larvae\nExample: Echinococcus"
+    },
+    {
+        "title": "Filarial Infection",
+        "description": "A disease caused by filarial worms\nExample: Wuchereria"
+    },
+    {
+        "title": "Nematode",
+        "description": "A roundworm parasite\nExample: Ascaris"
+    },
+    {
+        "title": "Trematode",
+        "description": "A fluke parasite\nExample: Fasciola"
+    },
+    {
+        "title": "Cestode",
+        "description": "A tapeworm parasite\nExample: Taenia"
+    },
+    {
+        "title": "Microsporidia",
+        "description": "A fungal-like microparasite\nExample: Nosema"
+    },
+    {
+        "title": "Myiasis",
+        "description": "Infestation by fly larvae\nExample: Botfly"
+    },
+    {
+        "title": "Onchocerciasis",
+        "description": "A disease caused by Onchocerca worms\nExample: River Blindness"
+    },
+    {
+        "title": "Leishmaniasis",
+        "description": "A disease caused by Leishmania parasites\nExample: Sandfly Fever"
+    },
+    {
+        "title": "Rabies",
+        "description": "A viral disease causing fatal encephalitis\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Toxoplasmosis",
+        "description": "A protozoan infection affecting multiple species\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Brucellosis",
+        "description": "A bacterial infection from livestock\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Leptospirosis",
+        "description": "A bacterial disease spread through urine\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Anthrax",
+        "description": "A bacterial disease affecting animals and humans\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Lyme Disease",
+        "description": "A tick-borne bacterial disease\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Q Fever",
+        "description": "A bacterial disease from farm animals\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Echinococcosis",
+        "description": "A tapeworm infection\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Plague",
+        "description": "A bacterial infection from rodents\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Hantavirus",
+        "description": "A virus spread by rodents\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Nipah Virus",
+        "description": "A viral disease from bats and pigs\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Avian Influenza",
+        "description": "A bird flu virus\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Swine Flu",
+        "description": "A pig flu virus\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Bovine Tuberculosis",
+        "description": "A bacterial infection in cattle\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Salmonellosis",
+        "description": "A bacterial infection from food\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Campylobacteriosis",
+        "description": "A bacterial infection from poultry\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Lassa Fever",
+        "description": "A hemorrhagic fever virus\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Ebola",
+        "description": "A deadly viral hemorrhagic fever\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Marburg Virus",
+        "description": "A deadly virus from African bats\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Zika Virus",
+        "description": "A mosquito-borne virus\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Yellow Fever",
+        "description": "A mosquito-borne viral infection\nExample: Barnacle on crab"
+    },
+    {
+        "title": "West Nile Virus",
+        "description": "A mosquito-borne virus affecting birds\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Rift Valley Fever",
+        "description": "A virus affecting livestock and humans\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Tularemia",
+        "description": "A bacterial disease from wild animals\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Chagas Disease",
+        "description": "A protozoan infection transmitted by insects\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Dengue Fever",
+        "description": "A mosquito-borne viral disease\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Japanese Encephalitis",
+        "description": "A mosquito-borne virus affecting the brain\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Crimean-Congo Hemorrhagic Fever",
+        "description": "A deadly tick-borne virus\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Monkeypox",
+        "description": "A viral disease from monkeys\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Hendra Virus",
+        "description": "A virus from horses and bats\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "SARS",
+        "description": "A coronavirus causing respiratory illness\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "MERS",
+        "description": "A respiratory virus from camels\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "COVID-19",
+        "description": "A coronavirus causing a global pandemic\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Bartonellosis",
+        "description": "A bacterial infection from fleas\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Psittacosis",
+        "description": "A bacterial infection from birds\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Trichinellosis",
+        "description": "A parasitic disease from raw meat\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Bovine Spongiform Encephalopathy",
+        "description": "A prion disease affecting cattle\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Leishmania Transmission",
+        "description": "A sandfly-borne parasite infection\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Toxocariasis",
+        "description": "A roundworm infection from pets\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Lymphocytic Choriomeningitis",
+        "description": "A rodent-borne viral disease\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Innate Immunity",
+        "description": "The body's first line of defense\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Adaptive Immunity",
+        "description": "A specialized immune response\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Humoral Immunity",
+        "description": "Immunity involving antibodies\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Cell-Mediated Immunity",
+        "description": "Immunity involving T cells\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Antibody",
+        "description": "A protein that binds to antigens\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Antigen",
+        "description": "A substance that triggers an immune response\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Macrophage",
+        "description": "A phagocytic immune cell\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Dendritic Cell",
+        "description": "A key antigen-presenting cell\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "T Cell",
+        "description": "A white blood cell involved in immunity\nExample: Barnacle on crab"
+    },
+    {
+        "title": "B Cell",
+        "description": "A white blood cell that produces antibodies\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Natural Killer Cell",
+        "description": "A cell that kills infected cells\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Cytokine",
+        "description": "A signaling protein in immunity\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Complement System",
+        "description": "A system that enhances immune responses\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Inflammation",
+        "description": "A protective immune reaction\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Phagocytosis",
+        "description": "Engulfing pathogens\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Immunological Memory",
+        "description": "A memory-based immune response\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Passive Immunity",
+        "description": "Immunity transferred from another source\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Active Immunity",
+        "description": "Immunity acquired by infection or vaccination\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Mucosal Immunity",
+        "description": "Immune defense at mucosal surfaces\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Toll-Like Receptor",
+        "description": "A receptor detecting pathogens\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Pathogen-Associated Molecular Pattern",
+        "description": "A molecular pattern recognized by immunity\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Major Histocompatibility Complex",
+        "description": "A gene complex controlling immune responses\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Vaccine",
+        "description": "A substance that stimulates immunity\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Immunosuppression",
+        "description": "A suppressed immune response\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Autoimmunity",
+        "description": "An immune attack on self-tissues\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Hypersensitivity",
+        "description": "An overreaction of the immune system\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Allergy",
+        "description": "An immune overreaction to allergens\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Anaphylaxis",
+        "description": "A severe allergic reaction\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Immunodeficiency",
+        "description": "A weakened immune system\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Immune Tolerance",
+        "description": "The body's ability to ignore harmless antigens\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Cytotoxic T Lymphocyte",
+        "description": "A T cell that kills infected cells\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Regulatory T Cell",
+        "description": "A T cell that regulates immune responses\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Interferon",
+        "description": "An antiviral protein\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Tumor Necrosis Factor",
+        "description": "A protein involved in inflammation\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Histamine",
+        "description": "A compound involved in allergic reactions\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Parasitic Castration",
+        "description": "Parasite-induced sterilization\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Host Manipulation",
+        "description": "Parasite modifies host behavior\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Parasitoid",
+        "description": "Parasite that eventually kills the host\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Haemoparasite",
+        "description": "Parasite infecting blood cells\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Opportunistic Parasite",
+        "description": "Parasite that infects only when conditions allow\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Commensalism",
+        "description": "One species benefits, the other is unharmed\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Mutualism",
+        "description": "Both species benefit\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Parasitic Adaptation",
+        "description": "Traits enabling parasitism\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Vector Competence",
+        "description": "Ability of vector to transmit pathogen\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Superinfection",
+        "description": "A new infection in a previously infected host\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Coinfection",
+        "description": "Infection by multiple pathogens\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Parasite Load",
+        "description": "Total number of parasites in a host\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Microbiota",
+        "description": "Microbial community in a host\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Immunoevasion",
+        "description": "Avoidance of immune detection\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Parasitic Mimicry",
+        "description": "Mimicking host molecules to evade immunity\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Life Cycle Plasticity",
+        "description": "Ability to alter life cycle stages\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Transmission Dynamics",
+        "description": "Factors affecting parasite spread\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Horizontal Transmission",
+        "description": "Transmission between unrelated hosts\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Vertical Transmission",
+        "description": "Transmission from parent to offspring\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Host Resistance",
+        "description": "Host’s ability to resist infection\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Host Susceptibility",
+        "description": "Host’s vulnerability to infection\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Pathogen Shedding",
+        "description": "Release of pathogens from a host\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Reservoir Competence",
+        "description": "Ability of reservoir host to spread disease\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Prepatent Period",
+        "description": "Time before parasites become detectable\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Patent Period",
+        "description": "Time during which parasites are detectable\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Host Immunomodulation",
+        "description": "Parasite modulates host immunity\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Parasite-Induced Immunosuppression",
+        "description": "Parasite suppresses immune system\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Cytopathic Effect",
+        "description": "Cellular damage caused by a pathogen\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Host-Pathogen Coevolution",
+        "description": "Mutual evolutionary changes in host and pathogen\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Immune Evasion Strategy",
+        "description": "Parasite strategies to evade immunity\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Hendra Virus",
+        "description": "Paramyxovirus from horses and bats\nExample: Toxoplasma-infected rodents"
+    },
+    {
+        "title": "Seoul Virus",
+        "description": "Hantavirus carried by rats\nExample: Wasp larvae in caterpillars"
+    },
+    {
+        "title": "Borna Disease",
+        "description": "Viral infection affecting the nervous system\nExample: Plasmodium in RBCs"
+    },
+    {
+        "title": "Tick-Borne Encephalitis",
+        "description": "Viral encephalitis from ticks\nExample: Barnacle on crab"
+    },
+    {
+        "title": "Orf Virus",
+        "description": "A poxvirus causing skin lesions\nExample: Toxoplasma-infected rodents"
+    }
+]

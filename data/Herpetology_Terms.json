@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Herpetology",
+        "description": "The study of reptiles and amphibians.\nExample: Reptile science"
+    },
+    {
+        "title": "Amphibians",
+        "description": "Cold-blooded vertebrates including frogs, toads, salamanders, and caecilians.\nExample: Frogs"
+    },
+    {
+        "title": "Reptiles",
+        "description": "Cold-blooded vertebrates with scales such as snakes, lizards, and turtles.\nExample: Snakes"
+    },
+    {
+        "title": "Cold-blooded",
+        "description": "Organisms that rely on external heat sources for body temperature regulation.\nExample: Lizards"
+    },
+    {
+        "title": "Ectothermic",
+        "description": "Animals that derive heat from their environment.\nExample: Turtles"
+    },
+    {
+        "title": "Poikilothermic",
+        "description": "Organisms with fluctuating body temperatures based on surroundings.\nExample: Amphibians"
+    },
+    {
+        "title": "Scalation",
+        "description": "The arrangement of scales on reptiles.\nExample: Snake scales"
+    },
+    {
+        "title": "Amphibian Skin",
+        "description": "A permeable skin that aids in respiration.\nExample: Frog skin"
+    },
+    {
+        "title": "Reptile Scales",
+        "description": "Keratinized structures covering reptilian skin.\nExample: Lizard scales"
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "Transformation from larval to adult form in amphibians.\nExample: Frog development"
+    },
+    {
+        "title": "Tadpole",
+        "description": "Aquatic larval stage of frogs and toads.\nExample: Tadpole stage"
+    },
+    {
+        "title": "Froglet",
+        "description": "Intermediate stage between tadpole and adult frog.\nExample: Froglet stage"
+    },
+    {
+        "title": "Neoteny",
+        "description": "The retention of juvenile traits in adulthood.\nExample: Axolotl"
+    },
+    {
+        "title": "Caecilian",
+        "description": "Limbless, burrowing amphibians.\nExample: Caecilian species"
+    },
+    {
+        "title": "Salamander",
+        "description": "Moist-skinned amphibians with tails.\nExample: Salamander habitat"
+    },
+    {
+        "title": "Newt",
+        "description": "A type of salamander with aquatic larval and terrestrial adult stages.\nExample: Newt metamorphosis"
+    },
+    {
+        "title": "Frog",
+        "description": "Amphibians with smooth skin and jumping ability.\nExample: Tree frog"
+    },
+    {
+        "title": "Toad",
+        "description": "Amphibians with rough skin and warty appearance.\nExample: American toad"
+    },
+    {
+        "title": "Anuran",
+        "description": "Order including frogs and toads.\nExample: Bullfrog"
+    },
+    {
+        "title": "Urodele",
+        "description": "Order including salamanders and newts.\nExample: Tiger salamander"
+    },
+    {
+        "title": "Reptilian Orders",
+        "description": "Taxonomic classifications of reptiles.\nExample: Lizard taxonomy"
+    },
+    {
+        "title": "Squamata",
+        "description": "Order of lizards and snakes.\nExample: Monitor lizard"
+    },
+    {
+        "title": "Testudines",
+        "description": "Order of turtles and tortoises.\nExample: Sea turtles"
+    },
+    {
+        "title": "Crocodylia",
+        "description": "Order including crocodiles and alligators.\nExample: Nile crocodile"
+    },
+    {
+        "title": "Rhynchocephalia",
+        "description": "Order consisting of the tuatara.\nExample: Tuatara"
+    },
+    {
+        "title": "Lizard",
+        "description": "Small reptile with four legs and a long tail.\nExample: Iguana"
+    },
+    {
+        "title": "Snake",
+        "description": "Elongated, legless reptiles with flexible jaws.\nExample: Python"
+    },
+    {
+        "title": "Turtle",
+        "description": "Reptile with a hard shell for protection.\nExample: Red-eared slider"
+    },
+    {
+        "title": "Tortoise",
+        "description": "Land-dwelling turtle with a dome-shaped shell.\nExample: Aldabra tortoise"
+    },
+    {
+        "title": "Terrapin",
+        "description": "Freshwater turtle with webbed feet.\nExample: Diamondback terrapin"
+    },
+    {
+        "title": "Gecko",
+        "description": "Small lizard known for sticky toe pads.\nExample: Tokay gecko"
+    },
+    {
+        "title": "Chameleon",
+        "description": "Lizard with color-changing ability.\nExample: Panther chameleon"
+    },
+    {
+        "title": "Monitor Lizard",
+        "description": "Large lizard known for intelligence and predatory behavior.\nExample: Komodo dragon"
+    },
+    {
+        "title": "Iguana",
+        "description": "Herbivorous lizard found in warm climates.\nExample: Green iguana"
+    },
+    {
+        "title": "Alligator",
+        "description": "Large reptile with a broad snout.\nExample: Chinese alligator"
+    },
+    {
+        "title": "Crocodile",
+        "description": "Large aquatic reptile with a V-shaped snout.\nExample: Saltwater crocodile"
+    },
+    {
+        "title": "Gharial",
+        "description": "Fish-eating crocodilian with a long, narrow snout.\nExample: Indian gharial"
+    },
+    {
+        "title": "Tuatara",
+        "description": "A reptile resembling lizards but belonging to a separate lineage.\nExample: New Zealand tuatara"
+    },
+    {
+        "title": "Reptile Eggs",
+        "description": "Eggs laid by reptiles.\nExample: Turtle nest"
+    },
+    {
+        "title": "Oviparous",
+        "description": "Animals that lay eggs outside the body.\nExample: Snake eggs"
+    },
+    {
+        "title": "Ovoviviparous",
+        "description": "Reptiles that give birth to live young from eggs retained inside.\nExample: Rattlesnake reproduction"
+    },
+    {
+        "title": "Viviparous",
+        "description": "Live-bearing reptiles without egg development.\nExample: Boa constrictor"
+    },
+    {
+        "title": "Clutch Size",
+        "description": "The number of eggs laid by a reptile in one reproductive event.\nExample: Lizard egg count"
+    },
+    {
+        "title": "Parthenogenesis",
+        "description": "Asexual reproduction without fertilization.\nExample: Komodo dragon cloning"
+    },
+    {
+        "title": "Reptile Molting",
+        "description": "The shedding of skin in reptiles.\nExample: Snake shedding"
+    },
+    {
+        "title": "Amphibian Respiration",
+        "description": "Various ways amphibians breathe.\nExample: Amphibian lungs"
+    },
+    {
+        "title": "Cutaneous Respiration",
+        "description": "Gas exchange through the skin in amphibians.\nExample: Frog skin breathing"
+    },
+    {
+        "title": "Buccal Pumping",
+        "description": "A breathing mechanism in amphibians using throat movement.\nExample: Salamander breathing"
+    },
+    {
+        "title": "Lung Ventilation",
+        "description": "Reptilian lung expansion methods.\nExample: Turtle respiration"
+    },
+    {
+        "title": "Jacobson's Organ",
+        "description": "Olfactory organ used to detect chemical signals.\nExample: Snake tongue flicking"
+    },
+    {
+        "title": "Forked Tongue",
+        "description": "A tongue adaptation for detecting scents in snakes.\nExample: Pit viper heat sensing"
+    },
+    {
+        "title": "Venomous Snakes",
+        "description": "Snakes capable of injecting venom through fangs.\nExample: King Cobra"
+    },
+    {
+        "title": "Elapidae",
+        "description": "Family of snakes including cobras, mambas, and kraits.\nExample: Black Mamba"
+    },
+    {
+        "title": "Viperidae",
+        "description": "Family of venomous snakes including vipers and rattlesnakes.\nExample: Russell's Viper"
+    },
+    {
+        "title": "Colubridae",
+        "description": "Family with both venomous and non-venomous snakes.\nExample: Boomslang Snake"
+    },
+    {
+        "title": "Neurotoxic Venom",
+        "description": "Venom affecting the nervous system, causing paralysis.\nExample: Cobra Venom"
+    },
+    {
+        "title": "Hemotoxic Venom",
+        "description": "Venom that destroys red blood cells and tissues.\nExample: Rattlesnake Venom"
+    },
+    {
+        "title": "Cytotoxic Venom",
+        "description": "Venom that breaks down cells and causes local damage.\nExample: Spitting Cobra Bite"
+    },
+    {
+        "title": "Spitting Cobra",
+        "description": "Cobra species that eject venom at predators.\nExample: Indian Cobra"
+    },
+    {
+        "title": "Sea Snakes",
+        "description": "Highly venomous snakes adapted to marine environments.\nExample: Yellow-lipped Sea Krait"
+    },
+    {
+        "title": "Coral Snake",
+        "description": "Brightly colored, highly venomous snake in Elapidae family.\nExample: Eastern Coral Snake"
+    },
+    {
+        "title": "Rattlesnake",
+        "description": "Venomous pit viper with a distinctive rattle.\nExample: Western Diamondback Rattlesnake"
+    },
+    {
+        "title": "Cottonmouth",
+        "description": "Aggressive water-dwelling pit viper.\nExample: Florida Cottonmouth"
+    },
+    {
+        "title": "Gaboon Viper",
+        "description": "Large viper with long fangs and camouflage patterns.\nExample: Gaboon Viper Fangs"
+    },
+    {
+        "title": "Saw-scaled Viper",
+        "description": "Highly venomous viper found in dry regions.\nExample: Echis Carinatus"
+    },
+    {
+        "title": "Boomslang",
+        "description": "Venomous snake with rear-fanged bite.\nExample: Boomslang Toxin"
+    },
+    {
+        "title": "Venom Glands",
+        "description": "Organs that produce and store venom in reptiles.\nExample: Snake Venom Glands"
+    },
+    {
+        "title": "Fangs",
+        "description": "Modified teeth used to inject venom.\nExample: Pit Viper Fangs"
+    },
+    {
+        "title": "Hinged Fangs",
+        "description": "Fangs that fold back when not in use.\nExample: Viper Fangs"
+    },
+    {
+        "title": "Fixed Fangs",
+        "description": "Permanently upright fangs in some venomous snakes.\nExample: Cobra Fangs"
+    },
+    {
+        "title": "Rear-fanged Snakes",
+        "description": "Snakes with fangs located near the back of the mouth.\nExample: Hognose Snake"
+    },
+    {
+        "title": "Venom Delivery System",
+        "description": "Mechanism by which venom is delivered through fangs.\nExample: Rattlesnake Venom Delivery"
+    },
+    {
+        "title": "Dry Bite",
+        "description": "Bite from a venomous snake without venom injection.\nExample: Viper Dry Bite"
+    },
+    {
+        "title": "Antivenom",
+        "description": "Medical treatment used to neutralize venom effects.\nExample: Black Mamba Antivenom"
+    },
+    {
+        "title": "Venom Extraction",
+        "description": "Process of extracting venom for research and antivenom production.\nExample: Venom Farm"
+    },
+    {
+        "title": "Snakebite Treatment",
+        "description": "First aid and medical procedures for treating venomous bites.\nExample: Snakebite Hospital Treatment"
+    },
+    {
+        "title": "Komodo Dragon Saliva",
+        "description": "Saliva containing bacteria that aids in prey immobilization.\nExample: Komodo Dragon Bite"
+    },
+    {
+        "title": "Gila Monster",
+        "description": "Venomous lizard native to North America.\nExample: Gila Monster Venom"
+    },
+    {
+        "title": "Heloderma",
+        "description": "Genus of venomous lizards including Gila monsters and beaded lizards.\nExample: Beaded Lizard"
+    },
+    {
+        "title": "Poison Dart Frog",
+        "description": "Highly toxic amphibian secreting powerful neurotoxins.\nExample: Golden Poison Frog"
+    },
+    {
+        "title": "Bufotoxin",
+        "description": "Poisonous secretion from toads that deters predators.\nExample: Cane Toad Poison"
+    },
+    {
+        "title": "Amphibian Toxins",
+        "description": "Various toxic compounds produced by amphibians.\nExample: Fire Salamander Toxin"
+    },
+    {
+        "title": "Tetrodotoxin",
+        "description": "Powerful neurotoxin found in some amphibians and marine creatures.\nExample: Pufferfish Tetrodotoxin"
+    },
+    {
+        "title": "Aposematism",
+        "description": "Bright warning colors that indicate toxicity to predators.\nExample: Poison Dart Frog Colors"
+    },
+    {
+        "title": "Camouflage",
+        "description": "Coloration that allows animals to blend into surroundings.\nExample: Leaf Litter Frog"
+    },
+    {
+        "title": "Mimicry",
+        "description": "Resemblance to another species for protection.\nExample: Coral Snake Mimicry"
+    },
+    {
+        "title": "Thermoregulation",
+        "description": "Process of regulating body temperature.\nExample: Alligator Sunbathing"
+    },
+    {
+        "title": "Basking",
+        "description": "Reptile behavior of absorbing heat from the sun.\nExample: Lizard Basking"
+    },
+    {
+        "title": "Hibernation",
+        "description": "Winter dormancy in amphibians and reptiles.\nExample: Snapping Turtle Hibernation"
+    },
+    {
+        "title": "Brumation",
+        "description": "Cold-weather dormancy in reptiles, similar to hibernation.\nExample: Corn Snake Brumation"
+    },
+    {
+        "title": "Estivation",
+        "description": "Summer dormancy to survive dry conditions.\nExample: Desert Tortoise Estivation"
+    },
+    {
+        "title": "Nocturnal Reptiles",
+        "description": "Reptiles active during the night.\nExample: Gecko Night Vision"
+    },
+    {
+        "title": "Diurnal Reptiles",
+        "description": "Reptiles that are primarily active during daylight.\nExample: Bearded Dragon Sunbathing"
+    },
+    {
+        "title": "Arboreal Adaptations",
+        "description": "Adaptations for tree-dwelling lifestyles.\nExample: Tree Boa Tail"
+    },
+    {
+        "title": "Fossorial Adaptations",
+        "description": "Adaptations for burrowing underground.\nExample: Sand Boa Digging"
+    },
+    {
+        "title": "Aquatic Reptiles",
+        "description": "Reptiles that live primarily in water.\nExample: Sea Turtle Swimming"
+    },
+    {
+        "title": "Semi-aquatic Amphibians",
+        "description": "Amphibians that split their time between land and water.\nExample: Bullfrog Adaptations"
+    },
+    {
+        "title": "Desert Reptiles",
+        "description": "Reptiles adapted to arid desert environments.\nExample: Horned Viper in Desert"
+    },
+    {
+        "title": "Rainforest Amphibians",
+        "description": "Amphibians found in tropical rainforests.\nExample: Glass Frog Camouflage"
+    },
+    {
+        "title": "Island Endemism",
+        "description": "Unique species that have evolved in isolated island environments.\nExample: Galápagos Tortoise"
+    },
+    {
+        "title": "Herpetofauna Conservation",
+        "description": "Efforts to protect and preserve reptiles and amphibians.\nExample: Turtle Conservation Programs"
+    },
+    {
+        "title": "Reptile Conservation",
+        "description": "Efforts to protect reptile species and their habitats.\nExample: Sea Turtle Protection"
+    },
+    {
+        "title": "Amphibian Decline",
+        "description": "The global decrease in amphibian populations due to environmental threats.\nExample: Frog Population Declines"
+    },
+    {
+        "title": "Chytridiomycosis",
+        "description": "A fungal disease devastating amphibian populations worldwide.\nExample: Batrachochytrium dendrobatidis"
+    },
+    {
+        "title": "Ranavirus",
+        "description": "A viral infection affecting amphibians and reptiles.\nExample: Ranavirus Outbreaks"
+    },
+    {
+        "title": "Habitat Fragmentation",
+        "description": "The division of natural habitats into smaller, isolated patches.\nExample: Deforestation Effects"
+    },
+    {
+        "title": "Invasive Species",
+        "description": "Non-native species negatively impacting local reptile and amphibian populations.\nExample: Cane Toad Invasion"
+    },
+    {
+        "title": "Climate Change Effects",
+        "description": "Environmental changes affecting reptile and amphibian survival.\nExample: Warming Impact on Reptiles"
+    },
+    {
+        "title": "Overexploitation",
+        "description": "The unsustainable harvesting of reptiles and amphibians.\nExample: Turtle Poaching"
+    },
+    {
+        "title": "Captive Breeding Programs",
+        "description": "Programs that breed endangered species in captivity to restore wild populations.\nExample: Zoo Breeding Programs"
+    },
+    {
+        "title": "Reintroduction Programs",
+        "description": "Initiatives to release captive-bred individuals into the wild.\nExample: Golden Toad Reintroduction"
+    },
+    {
+        "title": "Wildlife Corridors",
+        "description": "Passages that connect fragmented habitats for wildlife movement.\nExample: Wildlife Bridges"
+    },
+    {
+        "title": "Biodiversity Hotspots",
+        "description": "Regions with exceptionally high species diversity.\nExample: Amazon Rainforest"
+    },
+    {
+        "title": "Endangered Reptiles",
+        "description": "Threatened reptile species facing population decline.\nExample: Leatherback Turtle Conservation"
+    },
+    {
+        "title": "Endangered Amphibians",
+        "description": "Threatened amphibian species at risk of extinction.\nExample: Axolotl Extinction Risk"
+    },
+    {
+        "title": "CITES",
+        "description": "An international agreement regulating the trade of endangered species.\nExample: Trade Restrictions"
+    },
+    {
+        "title": "IUCN Red List",
+        "description": "A global assessment system for species conservation status.\nExample: Red List Amphibians"
+    },
+    {
+        "title": "Citizen Science",
+        "description": "Public participation in scientific research on reptiles and amphibians.\nExample: Community Monitoring Programs"
+    },
+    {
+        "title": "Herpetological Surveys",
+        "description": "Field studies monitoring herpetofauna populations.\nExample: Snake Census Studies"
+    },
+    {
+        "title": "Camera Trapping",
+        "description": "Using cameras to study elusive reptiles and amphibians.\nExample: Trail Camera Research"
+    },
+    {
+        "title": "Radio Telemetry",
+        "description": "Tracking animal movements using radio transmitters.\nExample: GPS Tracking of Crocodiles"
+    },
+    {
+        "title": "Mark and Recapture",
+        "description": "A method for estimating population sizes by marking and recapturing animals.\nExample: Frog Mark-Recapture"
+    },
+    {
+        "title": "Ecotourism",
+        "description": "Tourism centered around observing reptiles and amphibians in the wild.\nExample: Eco-lodges"
+    },
+    {
+        "title": "Wildlife Rehabilitation",
+        "description": "Efforts to rehabilitate injured or confiscated wildlife.\nExample: Reptile Rescue Centers"
+    },
+    {
+        "title": "Illegal Wildlife Trade",
+        "description": "The illegal capture and sale of reptiles and amphibians.\nExample: Black Market for Snakes"
+    },
+    {
+        "title": "Herpetofauna Monitoring",
+        "description": "The continuous observation and study of herpetofauna populations.\nExample: Long-term Population Studies"
+    },
+    {
+        "title": "Species Richness",
+        "description": "The number of species in a given habitat.\nExample: Species Count in Wetlands"
+    },
+    {
+        "title": "Population Density",
+        "description": "The number of individuals per unit area.\nExample: Desert Lizard Density"
+    },
+    {
+        "title": "Home Range",
+        "description": "The area an individual occupies for survival and reproduction.\nExample: Alligator Home Range"
+    },
+    {
+        "title": "Territoriality",
+        "description": "Defending an area from intruders, common in some reptiles.\nExample: Iguana Territorial Fights"
+    },
+    {
+        "title": "Courtship Displays",
+        "description": "Behavioral displays to attract mates in reptiles and amphibians.\nExample: Frog Vocalization Displays"
+    },
+    {
+        "title": "Amplexus",
+        "description": "The mating embrace of frogs and toads.\nExample: Tree Frog Amplexus"
+    },
+    {
+        "title": "Egg Guarding",
+        "description": "The act of guarding eggs from predators.\nExample: Python Egg Protection"
+    },
+    {
+        "title": "Parental Care",
+        "description": "Reptiles and amphibians caring for their young.\nExample: Alligator Nest Guarding"
+    },
+    {
+        "title": "Nesting Behavior",
+        "description": "Strategies used by reptiles for successful egg-laying.\nExample: Turtle Nesting Sites"
+    },
+    {
+        "title": "Clutch Survival",
+        "description": "The movement of hatchlings away from the nest site.\nExample: Sea Turtle Egg Survival"
+    },
+    {
+        "title": "Hatchling Dispersal",
+        "description": "Techniques used by reptiles and amphibians to evade predators.\nExample: Hatchling Sea Turtle Migration"
+    },
+    {
+        "title": "Predator Avoidance",
+        "description": "A defensive posture to deter threats.\nExample: Chameleon Color Change"
+    },
+    {
+        "title": "Defensive Posture",
+        "description": "The ability to detach a tail to escape predators.\nExample: Rattlesnake Defensive Coil"
+    },
+    {
+        "title": "Autotomy",
+        "description": "The regrowth of a lost tail in some reptiles.\nExample: Lizard Tail Dropping"
+    },
+    {
+        "title": "Tail Regeneration",
+        "description": "The process of shedding old skin for growth.\nExample: Gecko Tail Regrowth"
+    },
+    {
+        "title": "Skin Shedding",
+        "description": "Bright colors that warn predators of toxicity.\nExample: Snake Shedding Cycle"
+    },
+    {
+        "title": "Warning Coloration",
+        "description": "Biting as a last-resort defense mechanism.\nExample: Poison Frog Colors"
+    },
+    {
+        "title": "Biting as Defense",
+        "description": "Producing a hissing sound to scare off threats.\nExample: Monitor Lizard Bite"
+    },
+    {
+        "title": "Hissing Behavior",
+        "description": "Feigning death to avoid predation.\nExample: King Cobra Hood Expansion"
+    },
+    {
+        "title": "Death Feigning",
+        "description": "Digging underground for shelter and protection.\nExample: Hognose Snake Playing Dead"
+    },
+    {
+        "title": "Burrowing Behavior",
+        "description": "Adaptations that allow reptiles to climb trees.\nExample: Desert Tortoise Burrows"
+    },
+    {
+        "title": "Tree Climbing Adaptations",
+        "description": "Physiological and behavioral strategies for water retention.\nExample: Green Anole Climbing"
+    },
+    {
+        "title": "Water Conservation in Reptiles",
+        "description": "The evolution of venom for predation and defense.\nExample: Desert Iguana Water Storage"
+    },
+    {
+        "title": "Venom Evolution",
+        "description": "Ancient amphibians that lived in prehistoric environments.\nExample: Spitting Cobra Evolution"
+    }
+]

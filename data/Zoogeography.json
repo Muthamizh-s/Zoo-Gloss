@@ -1,0 +1,366 @@
+[
+    {
+        "title": "Zoogeography",
+        "description": "The study of how animal species are distributed across the planet.\nExample: Global animal distribution"
+    },
+    {
+        "title": "Animal Distribution",
+        "description": "The natural geographical range where a species is found.\nExample: Lion in Africa"
+    },
+    {
+        "title": "Dispersal",
+        "description": "The movement of organisms from one place to another.\nExample: Bird migration"
+    },
+    {
+        "title": "Vicariance",
+        "description": "Separation of species due to geological events.\nExample: Continental drift"
+    },
+    {
+        "title": "Range Expansion",
+        "description": "Expansion of a species' range due to favorable conditions.\nExample: Coyotes expanding north"
+    },
+    {
+        "title": "Range Contraction",
+        "description": "Reduction in a species’ range due to unfavorable conditions.\nExample: Tigers losing habitat"
+    },
+    {
+        "title": "Habitat Fragmentation",
+        "description": "Breaking up of habitats, affecting species populations.\nExample: Deforestation effects"
+    },
+    {
+        "title": "Ecological Niche",
+        "description": "The role a species plays in its environment.\nExample: Coral reef fish niches"
+    },
+    {
+        "title": "Geographical Barrier",
+        "description": "Physical features preventing species movement.\nExample: Oceans, mountains"
+    },
+    {
+        "title": "Endemic Species",
+        "description": "Species restricted to a specific area.\nExample: Kangaroo in Australia"
+    },
+    {
+        "title": "Cosmopolitan Species",
+        "description": "Species found worldwide in many habitats.\nExample: Pigeons"
+    },
+    {
+        "title": "Native Species",
+        "description": "A species naturally occurring in an area.\nExample: Bald eagle in North America"
+    },
+    {
+        "title": "Introduced Species",
+        "description": "A species introduced to a new habitat by humans.\nExample: Cane toads in Australia"
+    },
+    {
+        "title": "Invasive Species",
+        "description": "A non-native species that disrupts local ecosystems.\nExample: Zebra mussels"
+    },
+    {
+        "title": "Migratory Species",
+        "description": "Species that move between habitats seasonally.\nExample: Monarch butterflies"
+    },
+    {
+        "title": "Resident Species",
+        "description": "Species that stay in one habitat year-round.\nExample: Deer in forests"
+    },
+    {
+        "title": "Extirpation",
+        "description": "Local extinction of a species from an area.\nExample: Wolves in Yellowstone"
+    },
+    {
+        "title": "Extinction",
+        "description": "Complete disappearance of a species.\nExample: Dodo bird"
+    },
+    {
+        "title": "Rewilding",
+        "description": "Reintroducing species to restore ecosystems.\nExample: European bison reintroduction"
+    },
+    {
+        "title": "Ecological Corridor",
+        "description": "A habitat connection aiding wildlife movement.\nExample: Wildlife bridges"
+    },
+    {
+        "title": "Species Richness",
+        "description": "The number of different species in an area.\nExample: Amazon rainforest"
+    },
+    {
+        "title": "Species Abundance",
+        "description": "The number of individuals of a species in an area.\nExample: Deer population"
+    },
+    {
+        "title": "Biotic Homogenization",
+        "description": "Loss of unique species, leading to uniform ecosystems.\nExample: Invasive species spread"
+    },
+    {
+        "title": "Ecoregion",
+        "description": "A large region characterized by distinct species.\nExample: Sahara Desert ecoregion"
+    },
+    {
+        "title": "Ecotone",
+        "description": "A transitional zone between two ecosystems.\nExample: Mangrove forests"
+    },
+    {
+        "title": "Island Biogeography",
+        "description": "Study of species diversity on islands.\nExample: Galápagos finches"
+    },
+    {
+        "title": "Adaptive Radiation",
+        "description": "Rapid evolution of species from a common ancestor.\nExample: Sharks and dolphins"
+    },
+    {
+        "title": "Convergent Evolution",
+        "description": "Unrelated species evolving similar traits.\nExample: Darwin’s finches"
+    },
+    {
+        "title": "Divergent Evolution",
+        "description": "Related species developing distinct traits.\nExample: Woodpeckers and cuckoos"
+    },
+    {
+        "title": "Sympatric Distribution",
+        "description": "Species living in overlapping areas.\nExample: Mountain and valley species"
+    },
+    {
+        "title": "Allopatric Distribution",
+        "description": "Species separated by physical barriers.\nExample: Baboons in Africa"
+    },
+    {
+        "title": "Parapatric Distribution",
+        "description": "Species with adjacent but non-overlapping ranges.\nExample: Butterflies on mountain slopes"
+    },
+    {
+        "title": "Metapopulation",
+        "description": "A population of spatially separated groups.\nExample: Wolf packs"
+    },
+    {
+        "title": "Keystone Species",
+        "description": "A species crucial to ecosystem stability.\nExample: Sea otters"
+    },
+    {
+        "title": "Umbrella Species",
+        "description": "A species whose conservation benefits many others.\nExample: Tigers"
+    },
+    {
+        "title": "Indicator Species",
+        "description": "A species signaling ecosystem health.\nExample: Frogs in wetlands"
+    },
+    {
+        "title": "Flagship Species",
+        "description": "A well-known species used in conservation.\nExample: Pandas"
+    },
+    {
+        "title": "Charismatic Megafauna",
+        "description": "Large, appealing animals that attract conservation support.\nExample: Elephants"
+    },
+    {
+        "title": "Trophic Cascade",
+        "description": "Ecological chain reactions caused by predator-prey dynamics.\nExample: Wolves and elk"
+    },
+    {
+        "title": "Biogeographic Rule",
+        "description": "Patterns governing species distribution.\nExample: Temperature affecting size"
+    },
+    {
+        "title": "Bergmann's Rule",
+        "description": "Larger animals occur in colder climates.\nExample: Fox ears in different climates"
+    },
+    {
+        "title": "Allen’s Rule",
+        "description": "Appendages are shorter in colder climates.\nExample: Fur color in humid areas"
+    },
+    {
+        "title": "Gloger’s Rule",
+        "description": "Darker pigmentation occurs in humid environments.\nExample: Island dwarfism and gigantism"
+    },
+    {
+        "title": "Foster’s Rule",
+        "description": "Island species evolve differently from mainland species.\nExample: Lemurs in Madagascar"
+    },
+    {
+        "title": "Endemism",
+        "description": "Species restricted to a specific location.\nExample: Tuataras"
+    },
+    {
+        "title": "Paleoendemism",
+        "description": "Ancient species now restricted in range.\nExample: Cichlid fish"
+    },
+    {
+        "title": "Neoendemism",
+        "description": "Newly evolved species found only in one area.\nExample: Nearctic, Neotropical, Palearctic, etc."
+    },
+    {
+        "title": "Biogeographic Realm",
+        "description": "Large-scale divisions of the world based on fauna.\nExample: Bison in North America"
+    },
+    {
+        "title": "Nearctic Region",
+        "description": "Biogeographic region covering North America.\nExample: Amazon rainforest fauna"
+    },
+    {
+        "title": "Neotropical Region",
+        "description": "Region covering South and Central America.\nExample: Siberian tiger"
+    },
+    {
+        "title": "Palearctic Region",
+        "description": "Region covering Europe and northern Asia.\nExample: African elephant"
+    },
+    {
+        "title": "Afrotropical Region",
+        "description": "Region covering Africa and parts of Arabia.\nExample: Bengal tiger"
+    },
+    {
+        "title": "Indomalayan Region",
+        "description": "Region covering South and Southeast Asia.\nExample: Kangaroo"
+    },
+    {
+        "title": "Australasian Region",
+        "description": "Region covering Australia and nearby islands.\nExample: Hawaiian honeycreepers"
+    },
+    {
+        "title": "Oceanian Region",
+        "description": "Region covering isolated Pacific islands.\nExample: Emperor penguin"
+    },
+    {
+        "title": "Antarctic Region",
+        "description": "Region covering Antarctica and the Southern Ocean.\nExample: Bali myna distribution"
+    },
+    {
+        "title": "Wallace Line",
+        "description": "Imaginary boundary separating Asian and Australian fauna.\nExample: Sulawesi species mix"
+    },
+    {
+        "title": "Weber Line",
+        "description": "Boundary slightly east of Wallace Line.\nExample: Australia-New Guinea species"
+    },
+    {
+        "title": "Lydekker Line",
+        "description": "Boundary marking the eastern edge of Australian fauna.\nExample: Pangaea breakup"
+    },
+    {
+        "title": "Continental Drift",
+        "description": "The gradual movement of continents over time.\nExample: Continental movement"
+    },
+    {
+        "title": "Plate Tectonics",
+        "description": "Theory explaining the movement of Earth's plates.\nExample: Supercontinent breakup"
+    },
+    {
+        "title": "Pangaea",
+        "description": "Supercontinent that existed 300 million years ago.\nExample: Ancient landmass"
+    },
+    {
+        "title": "Laurasia",
+        "description": "Northern portion of Pangaea.\nExample: Ancient supercontinent"
+    },
+    {
+        "title": "Gondwana",
+        "description": "Southern portion of Pangaea.\nExample: Galápagos tortoise"
+    },
+    {
+        "title": "Island Endemism",
+        "description": "Endemism occurring on islands.\nExample: Amazonian river dolphins"
+    },
+    {
+        "title": "Continental Endemism",
+        "description": "Endemism occurring on mainlands.\nExample: Hawaiian Islands"
+    },
+    {
+        "title": "Archipelago",
+        "description": "A group of islands in a common region.\nExample: Ice Age refuges"
+    },
+    {
+        "title": "Refugia",
+        "description": "Areas where species survived during climatic shifts.\nExample: Ginkgo tree"
+    },
+    {
+        "title": "Relict Species",
+        "description": "Species that remain from an ancient lineage.\nExample: Darwin’s finches"
+    },
+    {
+        "title": "Species Radiation",
+        "description": "Rapid diversification of species from one ancestor.\nExample: Chameleons in Madagascar"
+    },
+    {
+        "title": "Adaptive Endemism",
+        "description": "Endemism due to adaptations to local conditions.\nExample: Dispersed populations of alligators"
+    },
+    {
+        "title": "Disjunct Distribution",
+        "description": "Species populations separated over vast distances.\nExample: Madagascar"
+    },
+    {
+        "title": "Endemic Hotspot",
+        "description": "Areas rich in endemic species.\nExample: Andes mountains"
+    },
+    {
+        "title": "Endemic Bird Area",
+        "description": "Regions identified for their high endemic bird diversity.\nExample: Southern Hemisphere marsupials"
+    },
+    {
+        "title": "Gondwanan Distribution",
+        "description": "Distribution pattern of species linked to Gondwana.\nExample: Amazon rainforest species"
+    },
+    {
+        "title": "Tropical Endemism",
+        "description": "Endemism occurring in tropical climates.\nExample: Alpine flowers"
+    },
+    {
+        "title": "Temperate Endemism",
+        "description": "Endemism occurring in temperate climates.\nExample: Himalayan blue sheep"
+    },
+    {
+        "title": "Mountain Endemism",
+        "description": "Endemism occurring in mountain regions.\nExample: Great Barrier Reef species"
+    },
+    {
+        "title": "Marine Endemism",
+        "description": "Endemism occurring in oceanic habitats.\nExample: Lake Victoria cichlids"
+    },
+    {
+        "title": "Freshwater Endemism",
+        "description": "Endemism occurring in freshwater ecosystems.\nExample: Tasmanian devil"
+    },
+    {
+        "title": "Endemic Mammals",
+        "description": "Mammals restricted to a specific region.\nExample: Galápagos marine iguana"
+    },
+    {
+        "title": "Endemic Reptiles",
+        "description": "Reptiles restricted to a specific region.\nExample: Axolotl"
+    },
+    {
+        "title": "Endemic Amphibians",
+        "description": "Amphibians restricted to a specific region.\nExample: Amazonian butterflies"
+    },
+    {
+        "title": "Endemic Insects",
+        "description": "Insects restricted to a specific region.\nExample: Baobab trees"
+    },
+    {
+        "title": "Endemic Plants",
+        "description": "Plants restricted to a specific region.\nExample: Devil’s Hole pupfish"
+    },
+    {
+        "title": "Endemic Fish",
+        "description": "Fish restricted to a specific region.\nExample: Tropical biodiversity shift"
+    },
+    {
+        "title": "Endemism Gradient",
+        "description": "Gradual change in endemism across regions.\nExample: Equator species increase"
+    },
+    {
+        "title": "Latitudinal Diversity Gradient",
+        "description": "Increase in species richness towards the tropics.\nExample: Comparing jungle and savanna species"
+    },
+    {
+        "title": "Species Turnover",
+        "description": "Change in species composition between habitats.\nExample: Amazon vs. Congo rainforest species"
+    },
+    {
+        "title": "Beta Diversity",
+        "description": "Measure of species turnover between ecosystems.\nExample: Coral reef diversity"
+    },
+    {
+        "title": "Alpha Diversity",
+        "description": "Diversity of species within a single habitat.\nExample: Madagascar's isolated species"
+    }
+]

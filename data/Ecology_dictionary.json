@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Ecosystem",
+        "description": "A community of organisms interacting with their environment\nExample: Rainforest"
+    },
+    {
+        "title": "Food Chain",
+        "description": "A linear sequence of who eats whom\nExample: Grassland Chain"
+    },
+    {
+        "title": "Food Web",
+        "description": "A complex network of interconnected food chains\nExample: Ocean Food Web"
+    },
+    {
+        "title": "Trophic Level",
+        "description": "A rank in the feeding hierarchy of an ecosystem\nExample: Herbivore Level"
+    },
+    {
+        "title": "Primary Producer",
+        "description": "Organisms that produce their own food via photosynthesis\nExample: Plants"
+    },
+    {
+        "title": "Primary Consumer",
+        "description": "Organisms that consume producers\nExample: Rabbits"
+    },
+    {
+        "title": "Secondary Consumer",
+        "description": "Organisms that eat primary consumers\nExample: Foxes"
+    },
+    {
+        "title": "Tertiary Consumer",
+        "description": "Top-level predators in a food chain\nExample: Hawks"
+    },
+    {
+        "title": "Decomposer",
+        "description": "Organisms that break down dead matter\nExample: Fungi"
+    },
+    {
+        "title": "Detritivore",
+        "description": "Organisms that feed on decomposing organic material\nExample: Earthworms"
+    },
+    {
+        "title": "Autotroph",
+        "description": "Organisms that synthesize their own food\nExample: Algae"
+    },
+    {
+        "title": "Heterotroph",
+        "description": "Organisms that rely on consuming other organisms\nExample: Lions"
+    },
+    {
+        "title": "Omnivore",
+        "description": "Animals that eat both plants and animals\nExample: Bears"
+    },
+    {
+        "title": "Carnivore",
+        "description": "Animals that primarily eat other animals\nExample: Tigers"
+    },
+    {
+        "title": "Herbivore",
+        "description": "Animals that consume only plant matter\nExample: Cows"
+    },
+    {
+        "title": "Keystone Species",
+        "description": "A species that has a disproportionately large effect on its ecosystem\nExample: Sea Otters"
+    },
+    {
+        "title": "Apex Predator",
+        "description": "The top predator in an ecosystem\nExample: Orcas"
+    },
+    {
+        "title": "Biomass",
+        "description": "Total mass of living organisms in a given area\nExample: Forest Biomass"
+    },
+    {
+        "title": "Ecological Pyramid",
+        "description": "A graphical representation of biomass, energy, or number of organisms\nExample: Energy Pyramid"
+    },
+    {
+        "title": "Energy Flow",
+        "description": "The transfer of energy through different organisms\nExample: Sunlight to Plants"
+    },
+    {
+        "title": "Carbon Cycle",
+        "description": "The cycling of carbon through ecosystems\nExample: Carbon Fixation"
+    },
+    {
+        "title": "Nitrogen Cycle",
+        "description": "The movement of nitrogen through the environment\nExample: Nitrogen Fixation"
+    },
+    {
+        "title": "Water Cycle",
+        "description": "The continuous movement of water on Earth\nExample: Evaporation"
+    },
+    {
+        "title": "Photosynthesis",
+        "description": "The process by which plants convert light into energy\nExample: Chlorophyll"
+    },
+    {
+        "title": "Respiration",
+        "description": "The process of breaking down food for energy\nExample: Cellular Respiration"
+    },
+    {
+        "title": "Ecological Niche",
+        "description": "The specific role a species plays in an ecosystem\nExample: Wolves in Yellowstone"
+    },
+    {
+        "title": "Habitat",
+        "description": "The natural environment where an organism lives\nExample: Coral Reef"
+    },
+    {
+        "title": "Biome",
+        "description": "A large-scale ecological region with similar climate and life forms\nExample: Tundra"
+    },
+    {
+        "title": "Eutrophication",
+        "description": "Excess nutrients in water leading to algal blooms\nExample: Algal Bloom"
+    },
+    {
+        "title": "Biodiversity",
+        "description": "The variety of life in an ecosystem\nExample: Amazon Rainforest"
+    },
+    {
+        "title": "Population",
+        "description": "A group of individuals of the same species in an area\nExample: Wolf Pack"
+    },
+    {
+        "title": "Community",
+        "description": "Different populations interacting in an ecosystem\nExample: Savanna Wildlife"
+    },
+    {
+        "title": "Carrying Capacity",
+        "description": "The maximum population size an environment can support\nExample: Deer Population"
+    },
+    {
+        "title": "Ecological Succession",
+        "description": "The gradual process of change in an ecosystem\nExample: Forest Regrowth"
+    },
+    {
+        "title": "Primary Succession",
+        "description": "Succession occurring in an area with no previous life\nExample: Volcanic Island"
+    },
+    {
+        "title": "Secondary Succession",
+        "description": "Succession occurring where life previously existed\nExample: Post-Wildfire Growth"
+    },
+    {
+        "title": "Pioneer Species",
+        "description": "First species to colonize a disturbed area\nExample: Lichen"
+    },
+    {
+        "title": "Climax Community",
+        "description": "The final, stable stage of ecological succession\nExample: Old-Growth Forest"
+    },
+    {
+        "title": "Symbiosis",
+        "description": "A long-term biological interaction between species\nExample: Clownfish & Anemone"
+    },
+    {
+        "title": "Mutualism",
+        "description": "A relationship where both species benefit\nExample: Bees & Flowers"
+    },
+    {
+        "title": "Commensalism",
+        "description": "A relationship where one benefits and the other is unaffected\nExample: Barnacles & Whales"
+    },
+    {
+        "title": "Parasitism",
+        "description": "A relationship where one species benefits at another’s expense\nExample: Tapeworms"
+    },
+    {
+        "title": "Predation",
+        "description": "One organism hunting and consuming another\nExample: Lions & Zebras"
+    },
+    {
+        "title": "Competition",
+        "description": "When organisms compete for the same resource\nExample: Hyenas & Lions"
+    },
+    {
+        "title": "Intraspecific Competition",
+        "description": "Competition within a species\nExample: Male Deer Fighting"
+    },
+    {
+        "title": "Interspecific Competition",
+        "description": "Competition between different species\nExample: Lions vs Hyenas"
+    },
+    {
+        "title": "Population Density",
+        "description": "The number of individuals per unit area\nExample: City Bird Count"
+    },
+    {
+        "title": "Population Growth",
+        "description": "The change in population size over time\nExample: Human Population Growth"
+    },
+    {
+        "title": "Birth Rate",
+        "description": "The number of births per unit time\nExample: Birth Rate in Elephants"
+    },
+    {
+        "title": "Death Rate",
+        "description": "The number of deaths per unit time\nExample: Mortality in Deer"
+    },
+    {
+        "title": "Migration",
+        "description": "Movement of individuals into or out of a population\nExample: Bird Migration"
+    },
+    {
+        "title": "Dispersion",
+        "description": "The pattern of spacing among individuals\nExample: Schooling Fish"
+    },
+    {
+        "title": "R-Selected Species",
+        "description": "Species that reproduce quickly and have many offspring\nExample: Mice"
+    },
+    {
+        "title": "K-Selected Species",
+        "description": "Species that invest heavily in fewer offspring\nExample: Elephants"
+    },
+    {
+        "title": "Metapopulation",
+        "description": "A group of populations separated but connected by migration\nExample: Tiger Reserves"
+    },
+    {
+        "title": "Species Richness",
+        "description": "The number of different species in an area\nExample: Coral Reef Fish"
+    },
+    {
+        "title": "Species Evenness",
+        "description": "How evenly individuals are distributed among species\nExample: Equal Bird Species"
+    },
+    {
+        "title": "Dominant Species",
+        "description": "A species that has the greatest impact on an ecosystem\nExample: Oak Trees"
+    },
+    {
+        "title": "Indicator Species",
+        "description": "A species that signals environmental health\nExample: Frogs"
+    },
+    {
+        "title": "Edge Effect",
+        "description": "Changes that occur at habitat boundaries\nExample: Forest Edge"
+    },
+    {
+        "title": "Conservation Biology",
+        "description": "The study of preserving biodiversity\nExample: Endangered Species Act"
+    },
+    {
+        "title": "Wildlife Management",
+        "description": "The practice of managing wildlife populations\nExample: National Parks"
+    },
+    {
+        "title": "Endangered Species",
+        "description": "A species at risk of extinction\nExample: Pandas"
+    },
+    {
+        "title": "Extinct Species",
+        "description": "A species that no longer exists\nExample: Dodo"
+    },
+    {
+        "title": "Habitat Fragmentation",
+        "description": "The breaking up of habitats into smaller patches\nExample: Road Construction"
+    },
+    {
+        "title": "Protected Area",
+        "description": "A designated area for protecting ecosystems\nExample: Amazon Reserve"
+    },
+    {
+        "title": "Biodiversity Hotspot",
+        "description": "An area with exceptionally high biodiversity\nExample: Madagascar"
+    },
+    {
+        "title": "Wildlife Corridor",
+        "description": "A natural passageway for wildlife movement\nExample: Animal Crossings"
+    },
+    {
+        "title": "Captive Breeding",
+        "description": "Breeding endangered species in captivity\nExample: Zoo Breeding Programs"
+    },
+    {
+        "title": "Rewilding",
+        "description": "Restoring species to their natural habitat\nExample: Bison Reintroduction"
+    },
+    {
+        "title": "Invasive Species",
+        "description": "Non-native species that harm ecosystems\nExample: Kudzu Plant"
+    },
+    {
+        "title": "Ecological Restoration",
+        "description": "The process of restoring ecosystems\nExample: Wetland Restoration"
+    },
+    {
+        "title": "Deforestation",
+        "description": "The clearing of forests\nExample: Amazon Deforestation"
+    },
+    {
+        "title": "Desertification",
+        "description": "The process of land becoming desert\nExample: Sahara Expansion"
+    },
+    {
+        "title": "Climate Change",
+        "description": "Long-term shifts in climate patterns\nExample: Rising Temperatures"
+    },
+    {
+        "title": "Overexploitation",
+        "description": "The excessive use of natural resources\nExample: Overfishing"
+    },
+    {
+        "title": "Poaching",
+        "description": "Illegal hunting of protected species\nExample: Ivory Trade"
+    },
+    {
+        "title": "Sustainable Development",
+        "description": "Development that meets present and future needs\nExample: Solar Energy"
+    },
+    {
+        "title": "Ecotourism",
+        "description": "Tourism that supports conservation efforts\nExample: Whale Watching"
+    },
+    {
+        "title": "Carbon Sequestration",
+        "description": "The process of capturing and storing atmospheric carbon\nExample: Tree Planting"
+    },
+    {
+        "title": "Biotic Factors",
+        "description": "Living components of an ecosystem\nExample: Trees & Animals"
+    },
+    {
+        "title": "Abiotic Factors",
+        "description": "Non-living environmental factors\nExample: Sunlight & Soil"
+    },
+    {
+        "title": "Ecotone",
+        "description": "A transition zone between ecosystems\nExample: Mangrove Forest Edge"
+    },
+    {
+        "title": "Microhabitat",
+        "description": "A small, specialized habitat\nExample: Leaf Litter"
+    },
+    {
+        "title": "Macrohabitat",
+        "description": "A large-scale habitat\nExample: Amazon Rainforest"
+    },
+    {
+        "title": "Ecological Efficiency",
+        "description": "The efficiency of energy transfer in a food web\nExample: Energy Transfer"
+    },
+    {
+        "title": "Trophic Cascade",
+        "description": "The effect predators have on lower trophic levels\nExample: Wolves Affecting Elk"
+    },
+    {
+        "title": "Decomposition",
+        "description": "The breakdown of organic material\nExample: Fungi Breaking Down Leaves"
+    },
+    {
+        "title": "Biogeochemical Cycles",
+        "description": "Natural cycles of nutrients\nExample: Nitrogen Cycle"
+    },
+    {
+        "title": "Primary Productivity",
+        "description": "The rate of biomass production by autotrophs\nExample: Forest Growth"
+    },
+    {
+        "title": "Secondary Productivity",
+        "description": "The energy available to herbivores\nExample: Crop Growth"
+    },
+    {
+        "title": "Ecological Footprint",
+        "description": "The impact of human activity on nature\nExample: Per Capita Land Use"
+    },
+    {
+        "title": "Limiting Factor",
+        "description": "A factor that limits population growth\nExample: Water Availability"
+    },
+    {
+        "title": "Homeostasis",
+        "description": "The ability of an ecosystem to maintain stability\nExample: Stable Coral Reefs"
+    },
+    {
+        "title": "Ecological Equilibrium",
+        "description": "A balanced state of an ecosystem\nExample: Balanced Food Webs"
+    },
+    {
+        "title": "Photosynthetic Efficiency",
+        "description": "The efficiency of converting sunlight into energy\nExample: Efficient Algae Growth"
+    },
+    {
+        "title": "Gross Primary Productivity",
+        "description": "Total energy captured by producers\nExample: Photosynthetic Plants"
+    },
+    {
+        "title": "Net Primary Productivity",
+        "description": "Energy remaining after respiration\nExample: Forests Storing Carbon"
+    },
+    {
+        "title": "Ecological Indicator",
+        "description": "Species that indicate environmental health\nExample: Amphibians"
+    },
+    {
+        "title": "Biomagnification",
+        "description": "The accumulation of toxins in food chains\nExample: Mercury in Tuna"
+    },
+    {
+        "title": "Population Ecology",
+        "description": "The study of population dynamics\nExample: Deer Populations"
+    },
+    {
+        "title": "Demography",
+        "description": "Statistical study of populations\nExample: Human Census"
+    },
+    {
+        "title": "Age Structure",
+        "description": "Distribution of ages in a population\nExample: Elephant Herd Age Groups"
+    },
+    {
+        "title": "Survivorship Curve",
+        "description": "Graph showing lifespan trends\nExample: Human Lifespan Trends"
+    },
+    {
+        "title": "Carrying Capacity Overshoot",
+        "description": "When populations exceed sustainable levels\nExample: Locust Swarms"
+    },
+    {
+        "title": "Density-Dependent Factor",
+        "description": "Factors dependent on population size\nExample: Predation Effects"
+    },
+    {
+        "title": "Density-Independent Factor",
+        "description": "Factors independent of population size\nExample: Weather Events"
+    },
+    {
+        "title": "Fecundity",
+        "description": "Reproductive potential\nExample: Rabbit Reproduction"
+    },
+    {
+        "title": "Allee Effect",
+        "description": "Low population densities reduce survival\nExample: Lack of Mates in Small Groups"
+    },
+    {
+        "title": "Boom-and-Bust Cycle",
+        "description": "Rapid growth followed by collapse\nExample: Booming Rodents"
+    },
+    {
+        "title": "Species Interactions",
+        "description": "Interactions between species\nExample: Predator-Prey Dynamics"
+    },
+    {
+        "title": "Guild",
+        "description": "A group of species exploiting the same resources\nExample: Desert Carnivores"
+    },
+    {
+        "title": "Trophic Guild",
+        "description": "A group feeding at the same trophic level\nExample: Grazing Mammals"
+    },
+    {
+        "title": "Ecological Network",
+        "description": "A web of species interactions\nExample: Interconnected Forest Species"
+    },
+    {
+        "title": "Dominance Hierarchy",
+        "description": "A ranking system within species\nExample: Wolf Pack Hierarchy"
+    },
+    {
+        "title": "Social Carrying Capacity",
+        "description": "The limit of human-wildlife interaction\nExample: Park Visitor Limits"
+    },
+    {
+        "title": "Ecological Drift",
+        "description": "Random changes in community composition\nExample: Random Species Changes"
+    },
+    {
+        "title": "Keystone Mutualist",
+        "description": "Mutualists critical for ecosystem function\nExample: Bees & Flowers"
+    },
+    {
+        "title": "Functional Diversity",
+        "description": "The range of different species functions\nExample: Pollinators in Rainforests"
+    },
+    {
+        "title": "Niche Partitioning",
+        "description": "Species dividing resources to reduce competition\nExample: Bird Feeding Differences"
+    },
+    {
+        "title": "Biodiversity Conservation",
+        "description": "The protection of biodiversity\nExample: Tiger Protection"
+    },
+    {
+        "title": "Ex-Situ Conservation",
+        "description": "Conservation outside natural habitats\nExample: Zoos"
+    },
+    {
+        "title": "In-Situ Conservation",
+        "description": "Conservation within natural habitats\nExample: National Parks"
+    },
+    {
+        "title": "Wildlife Reserve",
+        "description": "An area set aside for wildlife protection\nExample: Savanna Reserves"
+    },
+    {
+        "title": "Biosphere Reserve",
+        "description": "A protected region balancing conservation and development\nExample: Amazon Biosphere"
+    },
+    {
+        "title": "Ramsar Sites",
+        "description": "Wetlands of international importance\nExample: Wetlands Protection"
+    },
+    {
+        "title": "CITES",
+        "description": "A treaty protecting endangered species\nExample: Wildlife Trade Ban"
+    },
+    {
+        "title": "Endemic Species",
+        "description": "Species found only in one location\nExample: Kangaroos"
+    },
+    {
+        "title": "Red List",
+        "description": "A global conservation status list\nExample: IUCN Status"
+    },
+    {
+        "title": "Ecological Resilience",
+        "description": "An ecosystem’s ability to recover from disturbances\nExample: Coral Reef Recovery"
+    },
+    {
+        "title": "Habitat Degradation",
+        "description": "Decline in habitat quality\nExample: Logging Impact"
+    },
+    {
+        "title": "Reforestation",
+        "description": "Restoring deforested areas\nExample: Amazon Reforestation"
+    },
+    {
+        "title": "Afforestation",
+        "description": "Planting trees in barren areas\nExample: Tree Plantation"
+    },
+    {
+        "title": "Carbon Footprint",
+        "description": "The total carbon emissions of an individual or group\nExample: Carbon Reduction Plans"
+    },
+    {
+        "title": "Greenhouse Effect",
+        "description": "The trapping of heat by atmospheric gases\nExample: Rising Global Temperatures"
+    },
+    {
+        "title": "Plastic Pollution",
+        "description": "Harm caused by plastic waste\nExample: Plastic Waste in Oceans"
+    },
+    {
+        "title": "Ocean Acidification",
+        "description": "The decrease in ocean pH due to CO₂ absorption\nExample: Coral Bleaching"
+    },
+    {
+        "title": "Trophic Downgrading",
+        "description": "The loss of top predators affecting ecosystems\nExample: Shark Population Decline"
+    },
+    {
+        "title": "Fragmentation Edge Effects",
+        "description": "Changes in ecosystems due to habitat fragmentation\nExample: Roadside Forest Strips"
+    },
+    {
+        "title": "Corridor Ecology",
+        "description": "The study of wildlife corridors\nExample: Jungle Bridges"
+    },
+    {
+        "title": "Anthropogenic Impact",
+        "description": "Human activities affecting nature\nExample: Deforestation"
+    },
+    {
+        "title": "Climate Mitigation",
+        "description": "Reducing human impact on climate\nExample: Wind & Solar Energy"
+    },
+    {
+        "title": "Climate Adaptation",
+        "description": "Adjusting to climate changes\nExample: Flood Barriers"
+    },
+    {
+        "title": "Carbon Neutrality",
+        "description": "Balancing carbon emissions with absorption\nExample: Carbon Offsetting"
+    },
+    {
+        "title": "Sustainable Agriculture",
+        "description": "Farming that preserves ecosystems\nExample: Permaculture"
+    },
+    {
+        "title": "Ecosystem Services",
+        "description": "Benefits provided by ecosystems\nExample: Pollination Services"
+    },
+    {
+        "title": "Ecological Economics",
+        "description": "Economic valuation of nature\nExample: Environmental Economics"
+    },
+    {
+        "title": "Overfishing",
+        "description": "The depletion of fish stocks\nExample: Shark Overfishing"
+    },
+    {
+        "title": "Desert Greening",
+        "description": "Reversing desertification\nExample: African Reforestation"
+    },
+    {
+        "title": "Urban Ecology",
+        "description": "Study of ecology in cities\nExample: Urban Green Spaces"
+    }
+]

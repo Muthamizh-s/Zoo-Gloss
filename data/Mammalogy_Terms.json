@@ -1,0 +1,598 @@
+[
+    {
+        "title": "Mammalogy",
+        "description": "The study of mammals and their characteristics.\nExample: Zoology Subfield"
+    },
+    {
+        "title": "Thermoregulation",
+        "description": "Regulating body temperature internally.\nExample: Polar Bear Heat Retention"
+    },
+    {
+        "title": "Viviparity",
+        "description": "Giving birth to live young.\nExample: Humans"
+    },
+    {
+        "title": "Marsupial",
+        "description": "Mammals with pouches for young.\nExample: Kangaroo"
+    },
+    {
+        "title": "Monotreme",
+        "description": "Egg-laying mammals like platypuses.\nExample: Platypus"
+    },
+    {
+        "title": "Placental Mammals",
+        "description": "Mammals with a placenta for fetal development.\nExample: Dogs"
+    },
+    {
+        "title": "Mammary Glands",
+        "description": "Glands producing milk for offspring.\nExample: Cows"
+    },
+    {
+        "title": "Endothermy",
+        "description": "Generating body heat internally.\nExample: Tigers"
+    },
+    {
+        "title": "Fur and Hair",
+        "description": "Body covering providing insulation.\nExample: Lions' Mane"
+    },
+    {
+        "title": "Diaphragm",
+        "description": "Muscle assisting in breathing.\nExample: Whales' Breathing"
+    },
+    {
+        "title": "Heterodont Dentition",
+        "description": "Different types of teeth for varied diets.\nExample: Human Teeth"
+    },
+    {
+        "title": "Cecum",
+        "description": "A digestive pouch aiding plant digestion.\nExample: Rabbit Cecum"
+    },
+    {
+        "title": "Omnivorous Diet",
+        "description": "Eating both plant and animal matter.\nExample: Bears"
+    },
+    {
+        "title": "Carnivorous Adaptations",
+        "description": "Adaptations for meat consumption.\nExample: Tigers' Sharp Teeth"
+    },
+    {
+        "title": "Herbivorous Adaptations",
+        "description": "Adaptations for plant-based diets.\nExample: Deer Chewing Mechanism"
+    },
+    {
+        "title": "Digitigrade Locomotion",
+        "description": "Walking on toes for speed.\nExample: Dogs"
+    },
+    {
+        "title": "Plantigrade Locomotion",
+        "description": "Walking with entire foot on the ground.\nExample: Humans"
+    },
+    {
+        "title": "Unguligrade Locomotion",
+        "description": "Walking on hooves for efficiency.\nExample: Horses"
+    },
+    {
+        "title": "Prehensile Tail",
+        "description": "A tail adapted for grasping objects.\nExample: Monkey Tail"
+    },
+    {
+        "title": "Opposable Thumbs",
+        "description": "Thumbs that can touch other fingers.\nExample: Apes"
+    },
+    {
+        "title": "Baleen",
+        "description": "Keratin plates used to filter food in whales.\nExample: Whales"
+    },
+    {
+        "title": "Echolocation",
+        "description": "Using sound waves for navigation.\nExample: Bats"
+    },
+    {
+        "title": "Whiskers (Vibrissae)",
+        "description": "Sensitive facial hairs detecting movement.\nExample: Cat Whiskers"
+    },
+    {
+        "title": "Hibernation",
+        "description": "Long-term winter dormancy.\nExample: Bears"
+    },
+    {
+        "title": "Torpor",
+        "description": "Short-term metabolic slowdown.\nExample: Bats"
+    },
+    {
+        "title": "Nocturnal Mammals",
+        "description": "Mammals active at night.\nExample: Owls"
+    },
+    {
+        "title": "Diurnal Mammals",
+        "description": "Mammals active during daylight.\nExample: Humans"
+    },
+    {
+        "title": "Crepuscular Mammals",
+        "description": "Mammals active at dawn and dusk.\nExample: Deer"
+    },
+    {
+        "title": "Marsupium",
+        "description": "A pouch for carrying and nursing young.\nExample: Koala"
+    },
+    {
+        "title": "Placenta",
+        "description": "An organ supplying nutrients to a fetus.\nExample: Human Pregnancy"
+    },
+    {
+        "title": "Gestation Period",
+        "description": "The duration of pregnancy.\nExample: Elephant Gestation"
+    },
+    {
+        "title": "Lactation",
+        "description": "Milk production for nourishing young.\nExample: Cow Lactation"
+    },
+    {
+        "title": "Social Mammals",
+        "description": "Mammals living in social groups.\nExample: Wolves"
+    },
+    {
+        "title": "Solitary Mammals",
+        "description": "Mammals preferring to live alone.\nExample: Leopards"
+    },
+    {
+        "title": "Altricial Offspring",
+        "description": "Young born helpless and undeveloped.\nExample: Mice"
+    },
+    {
+        "title": "Precocial Offspring",
+        "description": "Young born well-developed and mobile.\nExample: Horses"
+    },
+    {
+        "title": "Mammalian Brain",
+        "description": "The highly developed nervous system of mammals.\nExample: Human Brain"
+    },
+    {
+        "title": "Olfaction in Mammals",
+        "description": "Advanced smell detection abilities.\nExample: Dogs' Sense of Smell"
+    },
+    {
+        "title": "Auditory Adaptations",
+        "description": "Enhanced hearing for survival.\nExample: Bats' Ears"
+    },
+    {
+        "title": "Color Vision in Mammals",
+        "description": "Perception of color variations.\nExample: Monkeys' Color Perception"
+    },
+    {
+        "title": "Herbivorous Teeth",
+        "description": "Flat teeth for grinding plants.\nExample: Cow Molars"
+    },
+    {
+        "title": "Carnassial Teeth",
+        "description": "Sharp teeth for tearing meat.\nExample: Wolf Fangs"
+    },
+    {
+        "title": "Rodent Incisors",
+        "description": "Continuously growing front teeth in rodents.\nExample: Beaver Teeth"
+    },
+    {
+        "title": "Scent Glands",
+        "description": "Glands producing scents for communication.\nExample: Skunk Spray"
+    },
+    {
+        "title": "Territorial Marking",
+        "description": "Using scents to establish dominance.\nExample: Tiger Scent Marking"
+    },
+    {
+        "title": "Burrowing Mammals",
+        "description": "Mammals adapted to digging underground.\nExample: Moles"
+    },
+    {
+        "title": "Arboreal Mammals",
+        "description": "Mammals adapted to tree-dwelling.\nExample: Monkeys"
+    },
+    {
+        "title": "Aquatic Mammals",
+        "description": "Mammals adapted to aquatic life.\nExample: Dolphins"
+    },
+    {
+        "title": "Fossorial Mammals",
+        "description": "Mammals specialized for underground living.\nExample: Moles"
+    },
+    {
+        "title": "Cursorial Mammals",
+        "description": "Mammals built for running fast.\nExample: Cheetahs"
+    },
+    {
+        "title": "Aquatic Adaptations",
+        "description": "Physical traits for living in water.\nExample: Seals' Flippers"
+    },
+    {
+        "title": "Terrestrial Adaptations",
+        "description": "Physical traits for land survival.\nExample: Elephants' Legs"
+    },
+    {
+        "title": "Arboreal Adaptations",
+        "description": "Physical traits for tree-dwelling.\nExample: Monkeys' Tails"
+    },
+    {
+        "title": "Mammalian Locomotion",
+        "description": "Different movement styles in mammals.\nExample: Cheetah Running"
+    },
+    {
+        "title": "Mammalian Intelligence",
+        "description": "Advanced problem-solving abilities.\nExample: Dolphins' Intelligence"
+    },
+    {
+        "title": "Pack Behavior",
+        "description": "Living in structured social groups.\nExample: Wolves"
+    },
+    {
+        "title": "Mating Systems",
+        "description": "Different ways mammals reproduce.\nExample: Deer Rutting"
+    },
+    {
+        "title": "Polygamy",
+        "description": "One male mates with multiple females.\nExample: Lions"
+    },
+    {
+        "title": "Monogamy",
+        "description": "One male and one female pair for life.\nExample: Gibbons"
+    },
+    {
+        "title": "Polyandry",
+        "description": "One female mates with multiple males.\nExample: Tamarin Monkeys"
+    },
+    {
+        "title": "Mammalian Communication",
+        "description": "Ways mammals convey information.\nExample: Elephants' Trumpeting"
+    },
+    {
+        "title": "Sonic Communication",
+        "description": "Using sound for communication.\nExample: Bats' Echolocation"
+    },
+    {
+        "title": "Chemical Communication",
+        "description": "Using scents to signal others.\nExample: Skunk Spray"
+    },
+    {
+        "title": "Visual Signals",
+        "description": "Using body movements or colors.\nExample: Baboon Facial Expressions"
+    },
+    {
+        "title": "Tactile Communication",
+        "description": "Using touch to interact.\nExample: Grooming"
+    },
+    {
+        "title": "Herding Behavior",
+        "description": "Living in organized groups.\nExample: Buffalo Herds"
+    },
+    {
+        "title": "Solitary Predators",
+        "description": "Hunting alone for survival.\nExample: Leopards"
+    },
+    {
+        "title": "Social Hierarchies",
+        "description": "Social ranking within groups.\nExample: Wolf Pack Rank"
+    },
+    {
+        "title": "Alpha Male",
+        "description": "The dominant male in a group.\nExample: Gorillas"
+    },
+    {
+        "title": "Matriarchal Societies",
+        "description": "Female-led social structures.\nExample: Elephants"
+    },
+    {
+        "title": "Mammalian Migration",
+        "description": "Moving between habitats seasonally.\nExample: Caribou"
+    },
+    {
+        "title": "Seasonal Migration",
+        "description": "Wandering without a fixed home.\nExample: Nomadic Bats"
+    },
+    {
+        "title": "Nomadic Lifestyle",
+        "description": "Long-term dormancy to survive seasons.\nExample: Bears"
+    },
+    {
+        "title": "Mammalian Hibernation",
+        "description": "Patterns of reproduction in mammals.\nExample: Kangaroo Breeding"
+    },
+    {
+        "title": "Reproductive Cycles",
+        "description": "Pausing pregnancy to delay birth.\nExample: Sea Lions"
+    },
+    {
+        "title": "Delayed Implantation",
+        "description": "Suspended embryo development.\nExample: Bears"
+    },
+    {
+        "title": "Embryonic Diapause",
+        "description": "Caring for offspring post-birth.\nExample: Armadillos"
+    },
+    {
+        "title": "Mammalian Parental Care",
+        "description": "Efforts mothers put into offspring.\nExample: Lions"
+    },
+    {
+        "title": "Maternal Investment",
+        "description": "Efforts fathers put into offspring.\nExample: Orangutans"
+    },
+    {
+        "title": "Paternal Investment",
+        "description": "Playful interactions for learning.\nExample: Seahorses"
+    },
+    {
+        "title": "Mammalian Play Behavior",
+        "description": "Using objects as tools.\nExample: Dolphins Playing"
+    },
+    {
+        "title": "Tool Use in Mammals",
+        "description": "Recognizing oneself in a mirror.\nExample: Chimpanzees"
+    },
+    {
+        "title": "Self-Recognition",
+        "description": "Forming close social relationships.\nExample: Elephants"
+    },
+    {
+        "title": "Social Bonding",
+        "description": "Learning sounds from others.\nExample: Wolves"
+    },
+    {
+        "title": "Vocal Learning",
+        "description": "Working together to hunt prey.\nExample: Whales"
+    },
+    {
+        "title": "Cooperative Hunting",
+        "description": "Feeding on dead animals.\nExample: Lions"
+    },
+    {
+        "title": "Scavenging Behavior",
+        "description": "Strategies to escape predators.\nExample: Hyenas"
+    },
+    {
+        "title": "Predator Avoidance",
+        "description": "Blending into surroundings.\nExample: Rabbits' Speed"
+    },
+    {
+        "title": "Camouflage in Mammals",
+        "description": "Warning coloration for predators.\nExample: Snow Leopards"
+    },
+    {
+        "title": "Aposematism",
+        "description": "Toxins used for defense.\nExample: Skunks"
+    },
+    {
+        "title": "Mammalian Venom",
+        "description": "Features to escape attacks.\nExample: Platypus"
+    },
+    {
+        "title": "Defensive Adaptations",
+        "description": "Living in close associations.\nExample: Porcupine Quills"
+    },
+    {
+        "title": "Mammalian Symbiosis",
+        "description": "Mammals helping each other.\nExample: Bats and Flowers"
+    },
+    {
+        "title": "Mutualism in Mammals",
+        "description": "One benefits, the other unaffected.\nExample: Wolves and Ravens"
+    },
+    {
+        "title": "Commensalism",
+        "description": "One benefits at another's expense.\nExample: Rodents in Human Homes"
+    },
+    {
+        "title": "Parasitism in Mammals",
+        "description": "Mammals crucial to ecosystems.\nExample: Ticks on Mammals"
+    },
+    {
+        "title": "Keystone Mammals",
+        "description": "Species indicating environmental health.\nExample: Beavers"
+    },
+    {
+        "title": "Indicator Species",
+        "description": "Variety of mammalian life.\nExample: Otters"
+    },
+    {
+        "title": "Mammalian Biodiversity",
+        "description": "Efforts to protect mammals.\nExample: Tigers"
+    },
+    {
+        "title": "Mammalian Evolution",
+        "description": "The evolutionary history of mammals.\nExample: Fossil Records"
+    },
+    {
+        "title": "Synapsids",
+        "description": "Early ancestors of mammals.\nExample: Dimetrodon"
+    },
+    {
+        "title": "Therapsids",
+        "description": "A group of synapsids leading to mammals.\nExample: Cynodonts"
+    },
+    {
+        "title": "Cenozoic Mammals",
+        "description": "Mammals that thrived in the Cenozoic era.\nExample: Early Horses"
+    },
+    {
+        "title": "Adaptive Radiation",
+        "description": "Rapid diversification into various niches.\nExample: Marsupial Spread"
+    },
+    {
+        "title": "Convergent Evolution",
+        "description": "Different species evolving similar traits.\nExample: Dolphins & Sharks"
+    },
+    {
+        "title": "Divergent Evolution",
+        "description": "Species evolving different traits from ancestors.\nExample: Wolves & Foxes"
+    },
+    {
+        "title": "Mammalian Extinction",
+        "description": "The disappearance of mammalian species.\nExample: Tasmanian Tiger"
+    },
+    {
+        "title": "Pleistocene Megafauna",
+        "description": "Large mammals that went extinct.\nExample: Woolly Mammoth"
+    },
+    {
+        "title": "Domestication",
+        "description": "The process of taming and breeding mammals.\nExample: Dogs"
+    },
+    {
+        "title": "Mammalian Intelligence",
+        "description": "Advanced cognitive abilities in mammals.\nExample: Dolphins"
+    },
+    {
+        "title": "Problem-Solving in Mammals",
+        "description": "Ability to solve problems creatively.\nExample: Rats in Mazes"
+    },
+    {
+        "title": "Tool Use in Mammals",
+        "description": "Using objects as tools for survival.\nExample: Chimpanzees Using Sticks"
+    },
+    {
+        "title": "Social Learning",
+        "description": "Learning behaviors from group members.\nExample: Elephant Herd Learning"
+    },
+    {
+        "title": "Vocal Mimicry",
+        "description": "Copying sounds from other species.\nExample: Whales Imitating Sounds"
+    },
+    {
+        "title": "Mammalian Altruism",
+        "description": "Selfless behaviors benefiting others.\nExample: Vampire Bats Sharing Food"
+    },
+    {
+        "title": "Kin Selection",
+        "description": "Favoring relatives in social behaviors.\nExample: Antelope Helping Kin"
+    },
+    {
+        "title": "Reciprocal Altruism",
+        "description": "Helping non-relatives with expected return.\nExample: Meerkat Babysitting"
+    },
+    {
+        "title": "Parental Investment",
+        "description": "Parental care investment for offspring.\nExample: Lions Protecting Cubs"
+    },
+    {
+        "title": "Infanticide in Mammals",
+        "description": "Killing offspring, often for dominance.\nExample: Male Lions Killing Cubs"
+    },
+    {
+        "title": "Territoriality",
+        "description": "Defending and controlling a specific area.\nExample: Tigers Marking Areas"
+    },
+    {
+        "title": "Home Range",
+        "description": "The total area an animal uses.\nExample: Wolf Hunting Range"
+    },
+    {
+        "title": "Migration Routes",
+        "description": "Fixed paths taken during migrations.\nExample: Caribou Migration"
+    },
+    {
+        "title": "Hibernation Cycles",
+        "description": "Recurring cycles of deep sleep in winter.\nExample: Bears"
+    },
+    {
+        "title": "Metabolic Rate Regulation",
+        "description": "Adjusting metabolism to conserve energy.\nExample: Rodents"
+    },
+    {
+        "title": "Endothermic Metabolism",
+        "description": "Maintaining internal body temperature.\nExample: Humans"
+    },
+    {
+        "title": "Ectothermic Traits in Mammals",
+        "description": "Some mammals retaining reptilian traits.\nExample: Naked Mole Rats"
+    },
+    {
+        "title": "Specialized Digestive Systems",
+        "description": "Adaptations for specialized food processing.\nExample: Ruminant Stomachs"
+    },
+    {
+        "title": "Fermentation Chambers",
+        "description": "Chambers for fermenting plant material.\nExample: Cow Rumen"
+    },
+    {
+        "title": "Coprophagy",
+        "description": "Re-ingestion of feces for nutrition.\nExample: Rabbits Eating Feces"
+    },
+    {
+        "title": "Mammalian Circulatory System",
+        "description": "Circulatory adaptations for survival.\nExample: Elephants' Blood Flow"
+    },
+    {
+        "title": "Four-Chambered Heart",
+        "description": "A heart structure for efficient circulation.\nExample: Mammals vs. Reptiles"
+    },
+    {
+        "title": "High Oxygen Consumption",
+        "description": "High oxygen demand for activity.\nExample: Hummingbirds"
+    },
+    {
+        "title": "Respiratory Efficiency",
+        "description": "Maximized lung function in mammals.\nExample: Whale Lungs"
+    },
+    {
+        "title": "Diaphragm Function",
+        "description": "Main muscle for breathing.\nExample: Mice Breathing Patterns"
+    },
+    {
+        "title": "Mammalian Nervous System",
+        "description": "Complex brain functions in mammals.\nExample: Humans"
+    },
+    {
+        "title": "Encephalization Quotient",
+        "description": "Brain size relative to body mass.\nExample: Dolphins' EQ"
+    },
+    {
+        "title": "Cerebral Cortex",
+        "description": "Outer brain layer processing information.\nExample: Dogs' Brain"
+    },
+    {
+        "title": "Neocortex Expansion",
+        "description": "Expanded higher cognitive functions.\nExample: Apes' Cognitive Skills"
+    },
+    {
+        "title": "Memory and Learning in Mammals",
+        "description": "Memory storage and learning abilities.\nExample: Elephants' Memory"
+    },
+    {
+        "title": "Reproductive Strategies",
+        "description": "Different ways mammals reproduce.\nExample: Live Birth"
+    },
+    {
+        "title": "Parthenogenesis in Mammals",
+        "description": "Asexual reproduction in rare mammals.\nExample: Komodo Dragons"
+    },
+    {
+        "title": "Delayed Fertilization",
+        "description": "Storing sperm for delayed pregnancy.\nExample: Bats Storing Sperm"
+    },
+    {
+        "title": "Synchronized Births",
+        "description": "Offspring born at the same time.\nExample: Gazelle Birth Timing"
+    },
+    {
+        "title": "Litter Size Variation",
+        "description": "Differences in litter sizes among species.\nExample: Rabbit Litters"
+    },
+    {
+        "title": "Maternal Care Strategies",
+        "description": "Various methods of maternal care.\nExample: Orangutan Mothers"
+    },
+    {
+        "title": "Alloparenting",
+        "description": "Caring for young that are not their own.\nExample: Wolf Pack Babysitting"
+    },
+    {
+        "title": "Weaning Period",
+        "description": "Period of milk feeding before independence.\nExample: Human Infants"
+    },
+    {
+        "title": "Juvenile Development",
+        "description": "Growth stages before adulthood.\nExample: Giraffe Growth"
+    },
+    {
+        "title": "Sexual Dimorphism",
+        "description": "Physical differences between sexes.\nExample: Peacock Feathers"
+    }
+]

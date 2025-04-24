@@ -1,0 +1,190 @@
+[
+    {
+        "title": "Chemotherapy",
+        "description": "The use of chemical agents to treat protozoan infections.\nExample: Antimalarial drugs"
+    },
+    {
+        "title": "Antiprotozoal Drugs",
+        "description": "Medications used to treat protozoan infections.\nExample: Metronidazole for amoebiasis"
+    },
+    {
+        "title": "Chloroquine",
+        "description": "A drug used to treat and prevent malaria.\nExample: Malaria treatment"
+    },
+    {
+        "title": "Artemisinin",
+        "description": "A plant-derived compound effective against malaria.\nExample: Artemisinin-based therapy"
+    },
+    {
+        "title": "Metronidazole",
+        "description": "A drug used to treat anaerobic protozoan infections.\nExample: Giardia treatment"
+    },
+    {
+        "title": "Pentamidine",
+        "description": "A drug used to treat sleeping sickness.\nExample: Trypanosoma treatment"
+    },
+    {
+        "title": "Suramin",
+        "description": "A drug used for early-stage sleeping sickness.\nExample: Trypanosoma brucei treatment"
+    },
+    {
+        "title": "Miltefosine",
+        "description": "A drug used for treating leishmaniasis.\nExample: Leishmania treatment"
+    },
+    {
+        "title": "Nitroimidazoles",
+        "description": "A class of drugs effective against anaerobic protozoa.\nExample: Tinidazole"
+    },
+    {
+        "title": "Drug Resistance Mechanism",
+        "description": "Strategies used by protozoa to evade drug effects.\nExample: Plasmodium resistance"
+    },
+    {
+        "title": "Antigenic Drift",
+        "description": "Small changes in protozoan surface proteins to escape immunity.\nExample: Trypanosoma variation"
+    },
+    {
+        "title": "Antigenic Shift",
+        "description": "Large genetic changes leading to new protozoan strains.\nExample: Malaria parasites"
+    },
+    {
+        "title": "Molecular Diagnosis",
+        "description": "Use of DNA-based methods to identify protozoan infections.\nExample: PCR for malaria"
+    },
+    {
+        "title": "Serological Tests",
+        "description": "Tests detecting antibodies against protozoa.\nExample: ELISA for toxoplasmosis"
+    },
+    {
+        "title": "Microscopy",
+        "description": "The use of microscopes to identify protozoa in samples.\nExample: Blood smear for malaria"
+    },
+    {
+        "title": "Giemsa Stain",
+        "description": "A special stain used to visualize protozoa under a microscope.\nExample: Plasmodium detection"
+    },
+    {
+        "title": "Rapid Diagnostic Test (RDT)",
+        "description": "A quick test to detect protozoan infections.\nExample: Malaria RDT"
+    },
+    {
+        "title": "Immunofluorescence Assay",
+        "description": "A technique to detect protozoa using fluorescent antibodies.\nExample: Toxoplasma detection"
+    },
+    {
+        "title": "PCR (Polymerase Chain Reaction)",
+        "description": "A method to amplify protozoan DNA for diagnosis.\nExample: Plasmodium DNA test"
+    },
+    {
+        "title": "Xenodiagnosis",
+        "description": "The use of live vectors to detect protozoan infections.\nExample: Chagas disease detection"
+    },
+    {
+        "title": "Epidemiological Modeling",
+        "description": "Using mathematical models to predict protozoan disease spread.\nExample: Malaria transmission models"
+    },
+    {
+        "title": "Control Measures",
+        "description": "Strategies used to reduce protozoan disease transmission.\nExample: Mosquito net for malaria"
+    },
+    {
+        "title": "Vaccination",
+        "description": "The use of vaccines to prevent protozoan diseases.\nExample: RTS,S malaria vaccine"
+    },
+    {
+        "title": "Vector Control",
+        "description": "Measures taken to reduce insect vectors.\nExample: Insecticide spraying"
+    },
+    {
+        "title": "Insecticide-Treated Nets",
+        "description": "Bed nets treated with insecticides to prevent mosquito bites.\nExample: Malaria prevention"
+    },
+    {
+        "title": "Genetic Modification of Vectors",
+        "description": "Altering mosquito DNA to reduce malaria transmission.\nExample: GM mosquitoes"
+    },
+    {
+        "title": "Environmental Management",
+        "description": "Altering habitats to reduce vector populations.\nExample: Draining stagnant water"
+    },
+    {
+        "title": "Public Health Interventions",
+        "description": "Programs to reduce protozoan disease burden.\nExample: Malaria eradication campaigns"
+    },
+    {
+        "title": "Climate Change and Protozoan Diseases",
+        "description": "The effect of temperature changes on disease distribution.\nExample: Malaria spreading to new areas"
+    },
+    {
+        "title": "Emerging Protozoan Diseases",
+        "description": "Newly recognized protozoan infections.\nExample: Babesiosis"
+    },
+    {
+        "title": "Re-Emerging Protozoan Diseases",
+        "description": "Previously controlled diseases making a comeback.\nExample: Drug-resistant malaria"
+    },
+    {
+        "title": "Neglected Tropical Diseases",
+        "description": "Protozoan diseases that are underfunded in research.\nExample: Chagas disease"
+    },
+    {
+        "title": "Outbreak Investigation",
+        "description": "Studying the source and spread of protozoan disease outbreaks.\nExample: Malaria outbreak response"
+    },
+    {
+        "title": "Bioterrorism and Protozoa",
+        "description": "The potential use of protozoa as bioweapons.\nExample: Toxoplasma as a concern"
+    },
+    {
+        "title": "Zoonotic Spillover",
+        "description": "The transfer of protozoan infections from animals to humans.\nExample: Leishmania from dogs"
+    },
+    {
+        "title": "Host Adaptation",
+        "description": "How protozoa evolve to survive in different hosts.\nExample: Trypanosoma in humans"
+    },
+    {
+        "title": "Evolution of Protozoa",
+        "description": "The genetic changes that allow protozoa to adapt.\nExample: Drug-resistant Plasmodium"
+    },
+    {
+        "title": "Phylogenetics",
+        "description": "The study of evolutionary relationships among protozoa.\nExample: Amoebozoa classification"
+    },
+    {
+        "title": "Genomics of Protozoa",
+        "description": "The study of protozoan genetic material.\nExample: Plasmodium genome sequencing"
+    },
+    {
+        "title": "Proteomics of Protozoa",
+        "description": "The study of protozoan proteins.\nExample: Toxoplasma protein analysis"
+    },
+    {
+        "title": "Metabolomics",
+        "description": "The study of protozoan metabolism.\nExample: Giardia metabolic pathways"
+    },
+    {
+        "title": "Biotechnology in Protozoology",
+        "description": "The application of technology to study and modify protozoa.\nExample: Genetically modified Trypanosoma"
+    },
+    {
+        "title": "Synthetic Biology",
+        "description": "Engineering protozoa for beneficial purposes.\nExample: Modified protozoa for vaccines"
+    },
+    {
+        "title": "CRISPR and Protozoa",
+        "description": "Gene-editing technology applied to protozoa.\nExample: CRISPR-modified Plasmodium"
+    },
+    {
+        "title": "Ethical Issues in Protozoology",
+        "description": "The moral considerations of modifying protozoa.\nExample: GM mosquitoes controversy"
+    },
+    {
+        "title": "Laboratory Safety",
+        "description": "Precautions taken when handling pathogenic protozoa.\nExample: Biosafety protocols"
+    },
+    {
+        "title": "Bioinformatics in Protozoology",
+        "description": "The use of computational tools to analyze protozoan data.\nExample: Plasmodium genome analysis"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "title": "Gametogenesis",
+        "description": "The process by which specialized cells undergo meiosis to form gametes (sperm and egg cells).\nExample: Sperm production in the testes."
+    },
+    {
+        "title": "Spermatogenesis",
+        "description": "The formation of sperm cells in the testes through mitosis and meiosis.\nExample: A human male produces millions of sperm daily."
+    },
+    {
+        "title": "Oogenesis",
+        "description": "The formation of egg cells in the ovaries, producing one mature ovum and polar bodies.\nExample: Female humans are born with a finite number of eggs."
+    },
+    {
+        "title": "Primary Oocyte",
+        "description": "A diploid cell arrested in meiosis I, which later matures into an egg upon ovulation.\nExample: Present in the ovary before birth."
+    },
+    {
+        "title": "Secondary Oocyte",
+        "description": "A haploid cell resulting from meiosis I that can be fertilized to form a zygote.\nExample: Released during ovulation."
+    },
+    {
+        "title": "Polar Body",
+        "description": "A small, non-functional byproduct of meiosis in females that degenerates.\nExample: A byproduct of meiosis in females."
+    },
+    {
+        "title": "Fertilization",
+        "description": "The fusion of a sperm cell with an egg cell to form a diploid zygote.\nExample: Occurs in the fallopian tube in humans."
+    },
+    {
+        "title": "Acrosome Reaction",
+        "description": "The release of enzymes from the sperm head to penetrate the egg’s protective layers.\nExample: Helps sperm enter the egg."
+    },
+    {
+        "title": "Zona Pellucida",
+        "description": "A glycoprotein layer surrounding the egg that regulates sperm entry and prevents polyspermy.\nExample: Prevents multiple sperm from fertilizing the egg."
+    },
+    {
+        "title": "Polyspermy Block",
+        "description": "A series of biochemical changes that prevent multiple sperm from fertilizing the egg.\nExample: Ensures only one sperm fertilizes the egg."
+    },
+    {
+        "title": "Zygote",
+        "description": "The single diploid cell formed immediately after fertilization.\nExample: The earliest stage of embryonic development."
+    },
+    {
+        "title": "Cleavage",
+        "description": "A series of rapid mitotic divisions that produce smaller cells without increasing embryo size.\nExample: Leads to the formation of the blastula."
+    },
+    {
+        "title": "Morula",
+        "description": "A solid ball of cells resulting from cleavage, preceding blastocyst formation.\nExample: The stage before the blastocyst."
+    },
+    {
+        "title": "Blastocyst",
+        "description": "A hollow, fluid-filled structure that implants into the uterine wall to begin development.\nExample: Formed about 5 days post-fertilization."
+    },
+    {
+        "title": "Inner Cell Mass",
+        "description": "A cluster of cells inside the blastocyst that will develop into the embryo.\nExample: Contains pluripotent stem cells."
+    },
+    {
+        "title": "Trophoblast",
+        "description": "The outer layer of the blastocyst, which helps in implantation and placenta formation.\nExample: Forms the placenta."
+    },
+    {
+        "title": "Gastrulation",
+        "description": "The formation of three germ layers (ectoderm, mesoderm, endoderm) from the embryonic disc.\nExample: Occurs after implantation."
+    },
+    {
+        "title": "Ectoderm",
+        "description": "The outer germ layer that forms the skin, nervous system, and sensory organs.\nExample: Develops into the brain."
+    },
+    {
+        "title": "Mesoderm",
+        "description": "The middle germ layer that forms muscles, bones, blood vessels, and connective tissues.\nExample: Gives rise to the heart and skeletal system."
+    },
+    {
+        "title": "Endoderm",
+        "description": "The inner germ layer that forms the digestive and respiratory systems.\nExample: Develops into the lungs and intestines."
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "A biological process where an organism undergoes significant developmental changes.\nExample: Caterpillar to butterfly transformation."
+    },
+    {
+        "title": "Complete Metamorphosis",
+        "description": "A life cycle with four distinct stages: egg, larva, pupa, and adult.\nExample: Butterflies undergo complete metamorphosis."
+    },
+    {
+        "title": "Incomplete Metamorphosis",
+        "description": "A life cycle with three stages: egg, nymph, and adult, lacking a pupal stage.\nExample: Grasshoppers undergo incomplete metamorphosis."
+    },
+    {
+        "title": "Molting",
+        "description": "The shedding of an outer covering (exoskeleton or skin) to allow growth.\nExample: Snakes shed their skin periodically."
+    },
+    {
+        "title": "Regeneration",
+        "description": "The ability of an organism to regrow lost or damaged body parts.\nExample: Starfish can regenerate lost arms."
+    },
+    {
+        "title": "Blastema",
+        "description": "A cluster of undifferentiated cells that forms at the site of regeneration.\nExample: Found in regenerating salamander limbs."
+    },
+    {
+        "title": "Epimorphosis",
+        "description": "A regeneration process where new cells proliferate and differentiate to replace lost parts.\nExample: Limb regrowth in salamanders."
+    },
+    {
+        "title": "Morphallaxis",
+        "description": "Regeneration achieved by reorganizing existing cells rather than growing new ones.\nExample: Hydra regenerating from a small fragment."
+    },
+    {
+        "title": "Dedifferentiation",
+        "description": "The reversal of specialized cells to a more primitive, undifferentiated state for regeneration.\nExample: Seen in amphibian limb regeneration."
+    },
+    {
+        "title": "Transdifferentiation",
+        "description": "The transformation of one mature cell type into another without reverting to a stem-like state.\nExample: Newt eye lens regeneration."
+    },
+    {
+        "title": "Capacitation",
+        "description": "A series of biochemical changes that sperm undergo to become capable of fertilizing an egg.\nExample: Occurs in the female reproductive tract."
+    },
+    {
+        "title": "Cortical Reaction",
+        "description": "The release of cortical granules from the egg to prevent polyspermy.\nExample: Ensures only one sperm fertilizes the egg."
+    },
+    {
+        "title": "Pronucleus",
+        "description": "The haploid nucleus of either the sperm or egg before they fuse to form the zygote.\nExample: Seen in fertilized eggs before syngamy."
+    },
+    {
+        "title": "Syngamy",
+        "description": "The fusion of male and female pronuclei to form a diploid zygote.\nExample: Marks the beginning of embryonic development."
+    },
+    {
+        "title": "Neurulation",
+        "description": "The process by which the neural tube forms from the ectoderm.\nExample: Leads to the formation of the brain and spinal cord."
+    },
+    {
+        "title": "Somite",
+        "description": "Blocks of mesodermal tissue that give rise to vertebrae, ribs, and muscles.\nExample: Develop into skeletal structures."
+    },
+    {
+        "title": "Placentation",
+        "description": "The formation and development of the placenta for nutrient and gas exchange between mother and fetus.\nExample: Occurs in mammals like humans."
+    },
+    {
+        "title": "Limb Bud",
+        "description": "An early structure in vertebrate embryos that gives rise to limbs.\nExample: Becomes arms and legs in mammals."
+    },
+    {
+        "title": "Neoteny",
+        "description": "The retention of juvenile traits in adult organisms.\nExample: Seen in axolotls which remain aquatic throughout life."
+    },
+    {
+        "title": "Paedomorphosis",
+        "description": "A form of neoteny where an organism retains larval characteristics into adulthood.\nExample: Occurs in some amphibians."
+    },
+    {
+        "title": "Ecdysis",
+        "description": "The process of shedding an exoskeleton in arthropods.\nExample: Occurs in insects like butterflies and crabs."
+    },
+    {
+        "title": "Apoptosis",
+        "description": "Programmed cell death crucial for shaping developing tissues.\nExample: Occurs in the removal of webbing between developing fingers."
+    },
+    {
+        "title": "Hox Genes",
+        "description": "Genes that control body plan development in animals.\nExample: Determine segment identity in embryos."
+    },
+    {
+        "title": "Induction",
+        "description": "The process where one group of cells influences the development of another.\nExample: Neural induction by the notochord."
+    },
+    {
+        "title": "Teratogen",
+        "description": "An external factor that disrupts normal embryonic development.\nExample: Alcohol can cause fetal abnormalities."
+    },
+    {
+        "title": "Totipotency",
+        "description": "The ability of a single cell to develop into a complete organism.\nExample: Seen in early embryonic cells."
+    },
+    {
+        "title": "Pluripotency",
+        "description": "The ability of a cell to differentiate into almost any cell type.\nExample: Embryonic stem cells are pluripotent."
+    },
+    {
+        "title": "Multipotency",
+        "description": "The ability of a cell to differentiate into a limited range of cell types.\nExample: Hematopoietic stem cells form blood cells."
+    },
+    {
+        "title": "Spermatozoon",
+        "description": "A mature motile male gamete with a flagellum for movement.\nExample: A sperm cell fertilizing an egg."
+    },
+    {
+        "title": "Ovum",
+        "description": "A mature female gamete capable of being fertilized.\nExample: A human egg released during ovulation."
+    },
+    {
+        "title": "Germ Plasm",
+        "description": "A specialized cytoplasm that determines germ cell fate.\nExample: Present in Drosophila embryos."
+    },
+    {
+        "title": "Sertoli Cells",
+        "description": "Cells in the testes that support and nourish developing sperm.\nExample: Provide structural and metabolic support."
+    },
+    {
+        "title": "Leydig Cells",
+        "description": "Testicular cells that produce testosterone.\nExample: Essential for male secondary sex characteristics."
+    },
+    {
+        "title": "Chorion",
+        "description": "An extraembryonic membrane that contributes to the placenta.\nExample: Aids in gas exchange in amniotes."
+    },
+    {
+        "title": "Amnion",
+        "description": "A protective fluid-filled membrane surrounding the embryo.\nExample: Forms the amniotic sac in mammals."
+    },
+    {
+        "title": "Yolk Sac",
+        "description": "An early embryonic structure that provides nutrients.\nExample: Essential in birds and reptiles."
+    },
+    {
+        "title": "Allantois",
+        "description": "An extraembryonic membrane involved in waste storage and gas exchange.\nExample: Develops into the umbilical cord."
+    },
+    {
+        "title": "Primitive Streak",
+        "description": "A structure that marks the beginning of gastrulation.\nExample: Defines the body’s midline and symmetry."
+    },
+    {
+        "title": "Axolotl",
+        "description": "A salamander known for its extraordinary regenerative abilities.\nExample: Can regrow limbs, spinal cord, and heart tissue."
+    },
+    {
+        "title": "Stem Cells",
+        "description": "Undifferentiated cells capable of self-renewal and differentiation.\nExample: Embryonic stem cells can become any tissue."
+    },
+    {
+        "title": "Chondrocytes",
+        "description": "Cartilage-producing cells important in skeletal development.\nExample: Essential for joint and bone formation."
+    },
+    {
+        "title": "Myogenesis",
+        "description": "The process of muscle tissue formation.\nExample: Occurs during embryonic development and muscle repair."
+    },
+    {
+        "title": "Ossification",
+        "description": "The formation of bone from cartilage or mesenchymal tissue.\nExample: Essential for skeletal development."
+    },
+    {
+        "title": "Neural Crest",
+        "description": "A group of cells that migrate to form diverse structures like nerves and facial cartilage.\nExample: Gives rise to peripheral nerves."
+    },
+    {
+        "title": "Hensen’s Node",
+        "description": "A structure in the primitive streak that organizes embryonic development.\nExample: Found in chick embryos."
+    },
+    {
+        "title": "Sonic Hedgehog",
+        "description": "A signaling molecule that plays a key role in patterning the developing embryo.\nExample: Essential for limb and neural development."
+    },
+    {
+        "title": "Wnt Signaling",
+        "description": "A crucial pathway in embryonic development and cell differentiation.\nExample: Regulates tissue patterning."
+    },
+    {
+        "title": "Morphogen",
+        "description": "A molecule that directs cell fate depending on its concentration.\nExample: Retinoic acid acts as a morphogen."
+    },
+    {
+        "title": "Epiboly",
+        "description": "The expansion and thinning of cell layers during gastrulation.\nExample: Observed in zebrafish embryos."
+    },
+    {
+        "title": "Invagination",
+        "description": "The inward folding of a cell layer during early development.\nExample: Leads to the formation of the primitive gut."
+    },
+    {
+        "title": "Convergent Extension",
+        "description": "A process where cells intercalate to elongate a tissue.\nExample: Shapes the neural plate into a tube."
+    },
+    {
+        "title": "Notch Signaling",
+        "description": "A pathway involved in cell fate determination.\nExample: Regulates segmentation in vertebrates."
+    },
+    {
+        "title": "Somitogenesis",
+        "description": "The formation of somites that give rise to vertebrae and muscles.\nExample: Occurs in a sequential, rhythmic manner."
+    },
+    {
+        "title": "Folliculogenesis",
+        "description": "The development of ovarian follicles that contain maturing oocytes.\nExample: Occurs in the ovaries before ovulation."
+    },
+    {
+        "title": "Zona Reaction",
+        "description": "A change in the zona pellucida that prevents additional sperm from entering the egg.\nExample: Ensures monospermy in mammals."
+    },
+    {
+        "title": "Cumulus Cells",
+        "description": "Supportive cells surrounding the oocyte that aid in maturation and fertilization.\nExample: Nourish and protect the egg."
+    },
+    {
+        "title": "Perivitelline Space",
+        "description": "The area between the zona pellucida and the egg’s plasma membrane.\nExample: Contains the first polar body after meiosis."
+    },
+    {
+        "title": "Blastodisc",
+        "description": "A small, disc-shaped cluster of cells in early embryonic development.\nExample: Seen in fish and bird embryos."
+    },
+    {
+        "title": "Epiblast",
+        "description": "The upper layer of the embryonic disc that gives rise to the embryo proper.\nExample: Forms all three germ layers."
+    },
+    {
+        "title": "Hypoblast",
+        "description": "The lower layer of the embryonic disc that contributes to extraembryonic tissues.\nExample: Forms parts of the yolk sac."
+    },
+    {
+        "title": "Notochord",
+        "description": "A rod-like structure that serves as a primitive backbone in embryos.\nExample: Induces neural tube formation."
+    },
+    {
+        "title": "Neural Tube",
+        "description": "The precursor to the brain and spinal cord.\nExample: Develops from the ectoderm during neurulation."
+    },
+    {
+        "title": "Ecdysteroids",
+        "description": "Hormones that regulate molting and metamorphosis in arthropods.\nExample: Control insect development."
+    },
+    {
+        "title": "Thyroxine",
+        "description": "A hormone involved in regulating amphibian metamorphosis.\nExample: Triggers tadpole-to-frog transformation."
+    },
+    {
+        "title": "Chitinase",
+        "description": "An enzyme that breaks down chitin during molting.\nExample: Helps insects shed their exoskeleton."
+    },
+    {
+        "title": "Heterochrony",
+        "description": "Changes in the timing of developmental events leading to evolutionary differences.\nExample: Explains differences in limb growth rates."
+    },
+    {
+        "title": "Embryonic Induction",
+        "description": "The process by which one group of cells influences the development of another.\nExample: Neural induction by the notochord."
+    },
+    {
+        "title": "Primary Germ Layers",
+        "description": "The three layers (ectoderm, mesoderm, endoderm) that form during gastrulation.\nExample: Give rise to all tissues and organs."
+    },
+    {
+        "title": "Splanchnic Mesoderm",
+        "description": "A part of the mesoderm that forms the circulatory system and gut wall.\nExample: Develops into blood vessels and heart."
+    },
+    {
+        "title": "Somatic Mesoderm",
+        "description": "A part of the mesoderm that forms the body wall and limbs.\nExample: Contributes to skeletal structures."
+    },
+    {
+        "title": "Embryoid Body",
+        "description": "A 3D aggregate of pluripotent stem cells that mimics early embryonic development.\nExample: Used in stem cell research."
+    },
+    {
+        "title": "Blastopore",
+        "description": "The opening of the primitive gut in early embryos.\nExample: Becomes the mouth in protostomes and anus in deuterostomes."
+    },
+    {
+        "title": "Organogenesis",
+        "description": "The process by which organs and tissues form from germ layers.\nExample: Occurs after gastrulation."
+    },
+    {
+        "title": "Trophoblast Differentiation",
+        "description": "The specialization of trophoblast cells to aid implantation and placental formation.\nExample: Forms structures like chorionic villi."
+    },
+    {
+        "title": "Chorionic Villi",
+        "description": "Finger-like projections that extend into the uterine wall for nutrient exchange.\nExample: Essential for placental function."
+    },
+    {
+        "title": "Lateral Plate Mesoderm",
+        "description": "A mesodermal layer that splits into two and gives rise to body cavities.\nExample: Forms the heart and blood vessels."
+    },
+    {
+        "title": "Amniotic Fluid",
+        "description": "The fluid surrounding the embryo, providing protection and cushioning.\nExample: Prevents mechanical injury to the fetus."
+    },
+    {
+        "title": "Neural Crest Cells",
+        "description": "Multipotent migratory cells that give rise to diverse structures like nerves and facial cartilage.\nExample: Form parts of the peripheral nervous system."
+    },
+    {
+        "title": "Hematopoiesis",
+        "description": "The process of blood cell formation in the embryo.\nExample: Occurs first in the yolk sac, then in bone marrow."
+    },
+    {
+        "title": "Endochondral Ossification",
+        "description": "Bone formation from a cartilage template.\nExample: Occurs in long bones like the femur."
+    },
+    {
+        "title": "Intramembranous Ossification",
+        "description": "Direct bone formation without a cartilage template.\nExample: Forms skull bones."
+    },
+    {
+        "title": "Branchial Arches",
+        "description": "Embryonic structures that develop into face, neck, and pharyngeal components.\nExample: Contribute to jaw and ear formation."
+    },
+    {
+        "title": "Limb Field",
+        "description": "The embryonic region that will give rise to limbs.\nExample: Becomes arms and legs in vertebrates."
+    },
+    {
+        "title": "ZPA (Zone of Polarizing Activity)",
+        "description": "A signaling center that establishes limb patterning.\nExample: Regulates finger development."
+    },
+    {
+        "title": "Apical Ectodermal Ridge (AER)",
+        "description": "A thickened ectodermal structure that directs limb growth.\nExample: Essential for proper limb development."
+    },
+    {
+        "title": "Hindbrain Segmentation",
+        "description": "The division of the hindbrain into distinct regions.\nExample: Forms structures like the cerebellum."
+    },
+    {
+        "title": "Cranial Neural Crest",
+        "description": "Neural crest cells that migrate to form facial structures.\nExample: Gives rise to craniofacial bones."
+    },
+    {
+        "title": "Cardiogenesis",
+        "description": "The process of heart formation during embryonic development.\nExample: Begins as a simple tube that loops and folds."
+    },
+    {
+        "title": "Myotome",
+        "description": "A region of the somite that forms skeletal muscles.\nExample: Develops into back and limb muscles."
+    },
+    {
+        "title": "Dermatome",
+        "description": "A region of the somite that gives rise to the dermis of the skin.\nExample: Contributes to skin formation."
+    },
+    {
+        "title": "Sclerotome",
+        "description": "A region of the somite that forms vertebrae and ribs.\nExample: Develops into spinal column structures."
+    },
+    {
+        "title": "Apoptotic Bodies",
+        "description": "Small membrane-bound vesicles formed during programmed cell death.\nExample: Engulfed by neighboring cells."
+    },
+    {
+        "title": "Fibroblast Growth Factor (FGF)",
+        "description": "A signaling molecule involved in limb and neural development.\nExample: Essential for organogenesis."
+    },
+    {
+        "title": "Retinoic Acid",
+        "description": "A morphogen that regulates gene expression in developing tissues.\nExample: Involved in limb and brain patterning."
+    },
+    {
+        "title": "Parthenogenesis",
+        "description": "A form of asexual reproduction where an embryo develops from an unfertilized egg.\nExample: Occurs in some reptiles and insects."
+    },
+    {
+        "title": "Germline Specification",
+        "description": "The process by which certain cells become destined to form gametes.\nExample: Essential for reproductive lineage establishment."
+    },
+    {
+        "title": "Hatching Enzyme",
+        "description": "An enzyme secreted by embryos to break out of the egg membrane.\nExample: Used by fish and amphibians."
+    },
+    {
+        "title": "Embryonic Stem Cells",
+        "description": "Pluripotent cells capable of forming all body tissues.\nExample: Used in regenerative medicine research."
+    },
+    {
+        "title": "Morphogenesis",
+        "description": "The process by which cells organize into tissues and organs.\nExample: Drives the formation of body structures."
+    },
+    {
+        "title": "Homeobox Genes",
+        "description": "Genes that regulate body plan development across species.\nExample: Includes Hox genes controlling limb positioning."
+    },
+    {
+        "title": "Metanephros",
+        "description": "The final stage of kidney development in vertebrates.\nExample: Forms the functional adult kidney."
+    },
+    {
+        "title": "Lung Bud",
+        "description": "The embryonic precursor to the lungs.\nExample: Develops into bronchi and alveoli."
+    },
+    {
+        "title": "Neurogenesis",
+        "description": "The formation of new neurons in the developing brain.\nExample: Essential for brain growth and function."
+    },
+    {
+        "title": "Gastrula",
+        "description": "An embryonic stage with three germ layers forming.\nExample: Precedes organogenesis."
+    },
+    {
+        "title": "Spemann Organizer",
+        "description": "A signaling center that controls early embryonic patterning.\nExample: Discovered in amphibian embryos."
+    }
+]

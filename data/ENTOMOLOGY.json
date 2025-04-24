@@ -1,0 +1,466 @@
+[
+    {
+        "title": "Entomology",
+        "description": "The scientific study of insects, including their biology and ecology.\nExample: Study of insects"
+    },
+    {
+        "title": "Insect Morphology",
+        "description": "The study of the structure and form of insect bodies.\nExample: Insect anatomy"
+    },
+    {
+        "title": "Insect Taxonomy",
+        "description": "The classification of insects based on their characteristics.\nExample: Insect classification"
+    },
+    {
+        "title": "Arthropoda",
+        "description": "A phylum that includes insects, crustaceans, and arachnids.\nExample: Insects and crustaceans"
+    },
+    {
+        "title": "Hexapoda",
+        "description": "A subphylum of Arthropoda that includes insects and their relatives.\nExample: Springtails and insects"
+    },
+    {
+        "title": "Insecta",
+        "description": "The class of arthropods that includes all insects.\nExample: Beetles, butterflies"
+    },
+    {
+        "title": "Exoskeleton",
+        "description": "A hard outer structure that provides support and protection.\nExample: Insect cuticle"
+    },
+    {
+        "title": "Chitin",
+        "description": "A fibrous substance forming the main component of insect exoskeletons.\nExample: Beetle shell"
+    },
+    {
+        "title": "Head",
+        "description": "The foremost body segment containing eyes, antennae, and mouthparts.\nExample: Ant head"
+    },
+    {
+        "title": "Thorax",
+        "description": "The middle body segment, which bears the legs and wings.\nExample: Butterfly thorax"
+    },
+    {
+        "title": "Abdomen",
+        "description": "The posterior segment of the body that houses digestive and reproductive organs.\nExample: Bee abdomen"
+    },
+    {
+        "title": "Compound Eyes",
+        "description": "Large multifaceted visual organs found in most insects.\nExample: Fly vision"
+    },
+    {
+        "title": "Ocelli",
+        "description": "Simple light-sensitive eyes found in some insects.\nExample: Spider eyes"
+    },
+    {
+        "title": "Antennae",
+        "description": "Sensory appendages on the head used for detecting stimuli.\nExample: Moth antennae"
+    },
+    {
+        "title": "Mandibles",
+        "description": "Paired mouthparts used for cutting and chewing food.\nExample: Ant mandibles"
+    },
+    {
+        "title": "Proboscis",
+        "description": "A tubular mouthpart adapted for sucking nectar and other fluids.\nExample: Butterfly proboscis"
+    },
+    {
+        "title": "Maxillae",
+        "description": "Paired appendages used for manipulating food.\nExample: Grasshopper maxillae"
+    },
+    {
+        "title": "Labium",
+        "description": "A lower lip-like structure that assists in food manipulation.\nExample: Fly labium"
+    },
+    {
+        "title": "Wings",
+        "description": "Paired structures used for flight in most insects.\nExample: Dragonfly wings"
+    },
+    {
+        "title": "Elytra",
+        "description": "Hardened forewings of beetles that protect the hindwings.\nExample: Beetle elytra"
+    },
+    {
+        "title": "Haltere",
+        "description": "Modified hindwings in Diptera used for balance during flight.\nExample: Fly halteres"
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "A developmental transformation that insects undergo.\nExample: Butterfly life cycle"
+    },
+    {
+        "title": "Complete Metamorphosis",
+        "description": "A four-stage life cycle: egg, larva, pupa, and adult.\nExample: Beetle development"
+    },
+    {
+        "title": "Incomplete Metamorphosis",
+        "description": "A three-stage life cycle: egg, nymph, and adult.\nExample: Grasshopper development"
+    },
+    {
+        "title": "Larva",
+        "description": "The worm-like juvenile stage in holometabolous insects.\nExample: Caterpillar stage"
+    },
+    {
+        "title": "Pupa",
+        "description": "The inactive, non-feeding developmental stage before adulthood.\nExample: Butterfly pupa"
+    },
+    {
+        "title": "Nymph",
+        "description": "An immature stage in hemimetabolous insects, resembling the adult.\nExample: Cockroach nymph"
+    },
+    {
+        "title": "Instar",
+        "description": "A developmental stage between molts in immature insects.\nExample: Grasshopper instar"
+    },
+    {
+        "title": "Molting",
+        "description": "The shedding of the exoskeleton to allow growth.\nExample: Cricket molting"
+    },
+    {
+        "title": "Ecdysis",
+        "description": "The process of shedding the old exoskeleton.\nExample: Ant molting"
+    },
+    {
+        "title": "Chrysalis",
+        "description": "A protective covering formed by butterfly pupae.\nExample: Butterfly chrysalis"
+    },
+    {
+        "title": "Cocoon",
+        "description": "A silk case spun by moth larvae to protect pupae.\nExample: Silkworm cocoon"
+    },
+    {
+        "title": "Diapause",
+        "description": "A period of suspended development in response to environmental conditions.\nExample: Ladybug diapause"
+    },
+    {
+        "title": "Oviposition",
+        "description": "The process of egg-laying in insects.\nExample: Butterfly egg-laying"
+    },
+    {
+        "title": "Ootheca",
+        "description": "A protective egg case produced by some insects.\nExample: Cockroach ootheca"
+    },
+    {
+        "title": "Tarsus",
+        "description": "The last segment of an insect’s leg.\nExample: Fly tarsus"
+    },
+    {
+        "title": "Coxa",
+        "description": "The basal segment of an insect’s leg.\nExample: Grasshopper coxa"
+    },
+    {
+        "title": "Femur",
+        "description": "The thickest segment of the insect leg.\nExample: Beetle femur"
+    },
+    {
+        "title": "Tibia",
+        "description": "A leg segment between the femur and tarsus.\nExample: Ant tibia"
+    },
+    {
+        "title": "Entognatha",
+        "description": "A group of wingless primitive hexapods.\nExample: Springtail"
+    },
+    {
+        "title": "Ectognatha",
+        "description": "A group of insects with external mouthparts.\nExample: Butterfly"
+    },
+    {
+        "title": "Ametabolous",
+        "description": "A type of insect development without metamorphosis.\nExample: Silverfish"
+    },
+    {
+        "title": "Paurometabolous",
+        "description": "A type of gradual metamorphosis with multiple nymph stages.\nExample: Cockroach nymph"
+    },
+    {
+        "title": "Hypermetamorphosis",
+        "description": "A complex life cycle with multiple larval forms.\nExample: Blister beetle larvae"
+    },
+    {
+        "title": "Polyphenism",
+        "description": "A phenomenon where insects develop different forms based on environment.\nExample: Butterfly morphs"
+    },
+    {
+        "title": "Gregarious Phase",
+        "description": "A social phase in locusts where they form swarms.\nExample: Locust swarm"
+    },
+    {
+        "title": "Solitary Phase",
+        "description": "A non-social phase in locusts where they live alone.\nExample: Solitary locust"
+    },
+    {
+        "title": "Apterygota",
+        "description": "A subclass of wingless primitive insects.\nExample: Bristletail"
+    },
+    {
+        "title": "Pterygota",
+        "description": "A subclass of winged or secondarily wingless insects.\nExample: Dragonfly"
+    },
+    {
+        "title": "Neoptera",
+        "description": "A division of insects that can fold their wings.\nExample: Beetles"
+    },
+    {
+        "title": "Exopterygota",
+        "description": "Insects with external wing development.\nExample: Grasshopper"
+    },
+    {
+        "title": "Endopterygota",
+        "description": "Insects with internal wing development.\nExample: Butterfly"
+    },
+    {
+        "title": "Insect Cuticle",
+        "description": "The outermost layer of the insect body.\nExample: Insect exoskeleton"
+    },
+    {
+        "title": "Sclerotization",
+        "description": "The process of hardening the insect cuticle.\nExample: Beetle shell"
+    },
+    {
+        "title": "Hemolymph",
+        "description": "The circulatory fluid of insects.\nExample: Insect blood"
+    },
+    {
+        "title": "Tracheal System",
+        "description": "A network of tubes used for insect respiration.\nExample: Grasshopper breathing"
+    },
+    {
+        "title": "Spiracle",
+        "description": "An opening in the body for breathing.\nExample: Caterpillar spiracle"
+    },
+    {
+        "title": "Malpighian Tubules",
+        "description": "Excretory organs in insects that remove waste.\nExample: Bee excretion"
+    },
+    {
+        "title": "Fat Body",
+        "description": "A tissue in insects involved in metabolism and storage.\nExample: Cockroach fat body"
+    },
+    {
+        "title": "Insect Brain",
+        "description": "The central nervous organ controlling insect functions.\nExample: Ant brain"
+    },
+    {
+        "title": "Ganglia",
+        "description": "Clusters of nerve cells controlling movement.\nExample: Cricket nerve"
+    },
+    {
+        "title": "Sensilla",
+        "description": "Sensory organs detecting environmental stimuli.\nExample: Butterfly sensilla"
+    },
+    {
+        "title": "Tympanal Organ",
+        "description": "A hearing organ in insects like crickets.\nExample: Moth ear"
+    },
+    {
+        "title": "Johnston’s Organ",
+        "description": "A sensory organ in insect antennae.\nExample: Mosquito antenna"
+    },
+    {
+        "title": "Ovipositor",
+        "description": "A specialized organ for laying eggs.\nExample: Grasshopper ovipositor"
+    },
+    {
+        "title": "Insect Courtship",
+        "description": "Behaviors related to mate attraction in insects.\nExample: Firefly flashing"
+    },
+    {
+        "title": "Swarming",
+        "description": "A large gathering of insects for reproduction.\nExample: Mayfly swarm"
+    },
+    {
+        "title": "Trophallaxis",
+        "description": "Exchange of food or fluids among colony members.\nExample: Ant food exchange"
+    },
+    {
+        "title": "Social Insects",
+        "description": "Insects that live in cooperative colonies.\nExample: Termite colony"
+    },
+    {
+        "title": "Colony Collapse Disorder",
+        "description": "A disorder causing mass disappearance of bees.\nExample: Bee disappearance"
+    },
+    {
+        "title": "Insect Navigation",
+        "description": "The ability of insects to find their way.\nExample: Butterfly navigation"
+    },
+    {
+        "title": "Magnetoreception",
+        "description": "The ability to detect Earth's magnetic field.\nExample: Monarch magnetoreception"
+    },
+    {
+        "title": "Eusociality",
+        "description": "The highest level of social organization in insects.\nExample: Bee eusociality"
+    },
+    {
+        "title": "Worker Caste",
+        "description": "A sterile female caste responsible for labor.\nExample: Ant worker"
+    },
+    {
+        "title": "Queen Caste",
+        "description": "A reproductive female caste in insect colonies.\nExample: Bee queen"
+    },
+    {
+        "title": "Drone Caste",
+        "description": "A male reproductive caste in insect colonies.\nExample: Drone bee"
+    },
+    {
+        "title": "Insect Parasites",
+        "description": "Insects that parasitize other organisms.\nExample: Flea"
+    },
+    {
+        "title": "Kleptoparasitism",
+        "description": "A form of parasitism where insects steal food.\nExample: Cuckoo wasp"
+    },
+    {
+        "title": "Insect Symbiosis",
+        "description": "Mutualistic relationships between insects and other species.\nExample: Beetle symbiosis"
+    },
+    {
+        "title": "Myrmecophytes",
+        "description": "Plants that have mutualistic relationships with ants.\nExample: Acacia tree"
+    },
+    {
+        "title": "Termitarium",
+        "description": "A nest structure built by termites.\nExample: Termite nest"
+    },
+    {
+        "title": "Silk Production",
+        "description": "The production of silk by insects like silkworms.\nExample: Silkworm silk"
+    },
+    {
+        "title": "Insect Venom",
+        "description": "Toxic substances secreted by certain insects.\nExample: Wasp venom"
+    },
+    {
+        "title": "Insect Pollination Efficiency",
+        "description": "The effectiveness of insects in transferring pollen.\nExample: Bee pollination"
+    },
+    {
+        "title": "Insect Migration",
+        "description": "Seasonal or long-distance movement of insects.\nExample: Monarch migration"
+    },
+    {
+        "title": "Ecological Role of Insects",
+        "description": "The role insects play in ecosystems.\nExample: Dung beetle decomposition"
+    },
+    {
+        "title": "Chitin",
+        "description": "A structural polysaccharide forming insect exoskeletons.\nExample: Beetle exoskeleton"
+    },
+    {
+        "title": "Elytra",
+        "description": "The hardened forewings of beetles that protect hindwings.\nExample: Ladybug elytra"
+    },
+    {
+        "title": "Hemimetabolous",
+        "description": "Incomplete metamorphosis with nymphs resembling adults.\nExample: Grasshopper nymph"
+    },
+    {
+        "title": "Holometabolous",
+        "description": "Complete metamorphosis with distinct larval and pupal stages.\nExample: Butterfly life cycle"
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "A biological process of developmental transformation.\nExample: Moth metamorphosis"
+    },
+    {
+        "title": "Instar",
+        "description": "A growth stage between molts in insect development.\nExample: Caterpillar instar"
+    },
+    {
+        "title": "Diapause",
+        "description": "A period of suspended development in response to environmental conditions.\nExample: Mosquito diapause"
+    },
+    {
+        "title": "Molting",
+        "description": "The shedding of the exoskeleton for growth.\nExample: Cricket molting"
+    },
+    {
+        "title": "Ecdysis",
+        "description": "The process of shedding the cuticle.\nExample: Spider shedding"
+    },
+    {
+        "title": "Pheromones",
+        "description": "Chemical signals used for communication within a species.\nExample: Ant trail pheromones"
+    },
+    {
+        "title": "Kairomones",
+        "description": "Chemical signals benefiting a receiver from another species.\nExample: Mosquito kairomones"
+    },
+    {
+        "title": "Allomones",
+        "description": "Chemical signals that benefit the sender but harm the receiver.\nExample: Stink bug secretion"
+    },
+    {
+        "title": "Bioluminescence",
+        "description": "The ability of certain insects to produce light.\nExample: Firefly light"
+    },
+    {
+        "title": "Mimicry",
+        "description": "Resembling another organism to avoid predation.\nExample: Hoverfly mimicry"
+    },
+    {
+        "title": "Crypsis",
+        "description": "Camouflage used to blend into the environment.\nExample: Walking stick insect"
+    },
+    {
+        "title": "Batesian Mimicry",
+        "description": "A harmless species mimicking a harmful one.\nExample: Coral snake mimic"
+    },
+    {
+        "title": "Müllerian Mimicry",
+        "description": "Two harmful species evolving similar warning signals.\nExample: Monarch-Viceroy mimicry"
+    },
+    {
+        "title": "Thanatosis",
+        "description": "Feigning death as a defensive mechanism.\nExample: Possum beetle"
+    },
+    {
+        "title": "Defensive Secretions",
+        "description": "Substances secreted for defense against predators.\nExample: Bombardier beetle"
+    },
+    {
+        "title": "Autohemorrhaging",
+        "description": "Exuding blood as a defense mechanism.\nExample: Bleeding moth"
+    },
+    {
+        "title": "Aposematism",
+        "description": "Bright coloration warning of toxicity.\nExample: Poison dart frog mimic"
+    },
+    {
+        "title": "Stridulation",
+        "description": "Sound production by rubbing body parts.\nExample: Cricket chirping"
+    },
+    {
+        "title": "Luciferin",
+        "description": "A molecule involved in insect bioluminescence.\nExample: Firefly luciferin"
+    },
+    {
+        "title": "Luciferase",
+        "description": "An enzyme involved in insect bioluminescence.\nExample: Glow-worm luciferase"
+    },
+    {
+        "title": "Insecticide Resistance",
+        "description": "Genetic adaptation allowing survival against insecticides.\nExample: Mosquito insecticide resistance"
+    },
+    {
+        "title": "Integrated Pest Management",
+        "description": "A sustainable pest control approach combining multiple methods.\nExample: Crop pest management"
+    },
+    {
+        "title": "Biocontrol",
+        "description": "Using natural enemies to control pest populations.\nExample: Ladybug controlling aphids"
+    },
+    {
+        "title": "Pollination Syndrome",
+        "description": "Traits that attract specific pollinators.\nExample: Bee pollination"
+    },
+    {
+        "title": "Forensic Entomology",
+        "description": "Using insects to determine time of death in forensic cases.\nExample: Blowfly forensic use"
+    },
+    {
+        "title": "Medical Entomology",
+        "description": "The study of insects affecting human health.\nExample: Mosquito-borne diseases"
+    }
+]

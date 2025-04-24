@@ -1,0 +1,406 @@
+[
+    {
+        "title": "Photosynthesis in algae",
+        "description": "The process by which algae use sunlight to synthesize food\nExample: Seaweed photosynthesis"
+    },
+    {
+        "title": "Bioluminescence",
+        "description": "Production of light by living organisms\nExample: Firefly squid"
+    },
+    {
+        "title": "Echolocation",
+        "description": "Use of sound waves to locate objects underwater\nExample: Dolphins"
+    },
+    {
+        "title": "Countershading",
+        "description": "A coloration pattern that helps organisms blend with their environment\nExample: Sharks"
+    },
+    {
+        "title": "Hydrodynamic body shape",
+        "description": "Body shape adapted for efficient movement in water\nExample: Tuna fish"
+    },
+    {
+        "title": "Salt excretion glands",
+        "description": "Glands that excrete excess salt to maintain osmotic balance\nExample: Sea turtles"
+    },
+    {
+        "title": "Deep-sea gigantism",
+        "description": "A phenomenon where deep-sea species are larger than shallow-water species\nExample: Giant squids"
+    },
+    {
+        "title": "Planktonic lifestyle",
+        "description": "Organisms that float and drift in water currents\nExample: Jellyfish"
+    },
+    {
+        "title": "Sessile organisms",
+        "description": "Organisms that are fixed in one place\nExample: Coral polyps"
+    },
+    {
+        "title": "Filter feeding",
+        "description": "Feeding strategy where organisms filter food particles from water\nExample: Clams"
+    },
+    {
+        "title": "Predatory adaptations",
+        "description": "Physical and behavioral traits for capturing prey\nExample: Octopus"
+    },
+    {
+        "title": "Camouflage",
+        "description": "Ability to blend in with surroundings to avoid predators\nExample: Flounder"
+    },
+    {
+        "title": "Mimicry",
+        "description": "Imitating another organism for protection or predation\nExample: Leafy sea dragon"
+    },
+    {
+        "title": "Exoskeletons",
+        "description": "Hard external covering that provides protection\nExample: Crabs"
+    },
+    {
+        "title": "Symbiotic relationships",
+        "description": "Close relationships between species for mutual benefit\nExample: Clownfish and anemones"
+    },
+    {
+        "title": "Thermoregulation",
+        "description": "Mechanisms to maintain body temperature\nExample: Seals"
+    },
+    {
+        "title": "Osmoregulation",
+        "description": "Control of water and salt levels in the body\nExample: Marine iguanas"
+    },
+    {
+        "title": "Buoyancy adaptations",
+        "description": "Adaptations to stay afloat in water\nExample: Sargassum"
+    },
+    {
+        "title": "Kelp forests",
+        "description": "Underwater forests formed by kelp species\nExample: Macrocystis pyrifera"
+    },
+    {
+        "title": "Mangrove roots",
+        "description": "Roots adapted to saline and tidal conditions in mangroves\nExample: Rhizophora trees"
+    },
+    {
+        "title": "Coral polyps",
+        "description": "Small, tentacle-bearing animals that form coral structures\nExample: Hard corals"
+    },
+    {
+        "title": "Seagrass meadows",
+        "description": "Flowering plants found in shallow, marine environments\nExample: Eelgrass"
+    },
+    {
+        "title": "Sea ice ecosystems",
+        "description": "Communities thriving under sea ice\nExample: Polar cod"
+    },
+    {
+        "title": "Mudflat organisms",
+        "description": "Organisms living on or in mudflats\nExample: Mud snails"
+    },
+    {
+        "title": "Benthic adaptations",
+        "description": "Traits enabling survival on the ocean floor\nExample: Sea cucumbers"
+    },
+    {
+        "title": "Pelagic zone species",
+        "description": "Species in open ocean environments\nExample: Mackerel"
+    },
+    {
+        "title": "Abyssal zone organisms",
+        "description": "Species adapted to the darkest ocean depths\nExample: Anglerfish"
+    },
+    {
+        "title": "Hydrothermal vent communities",
+        "description": "Organisms living near underwater volcanic vents\nExample: Tubeworms"
+    },
+    {
+        "title": "Marine biodiversity",
+        "description": "Variety of species found in marine habitats\nExample: Great Barrier Reef"
+    },
+    {
+        "title": "Marine migration",
+        "description": "Seasonal or life-stage movements in marine species\nExample: Salmon"
+    },
+    {
+        "title": "Schooling behavior",
+        "description": "Group movement of fish for protection and foraging\nExample: Herring"
+    },
+    {
+        "title": "Marine reproductive strategies",
+        "description": "Unique methods of reproduction in marine environments\nExample: Sea turtles"
+    },
+    {
+        "title": "Sessile invertebrates",
+        "description": "Stationary marine animals like barnacles\nExample: Barnacles"
+    },
+    {
+        "title": "Marine invertebrate larvae",
+        "description": "Larval stages of marine invertebrates\nExample: Sea urchins"
+    },
+    {
+        "title": "Cetacean adaptations",
+        "description": "Adaptations for deep diving in whales and dolphins\nExample: Sperm whales"
+    },
+    {
+        "title": "Pinniped adaptations",
+        "description": "Traits in seals and sea lions for swimming and thermoregulation\nExample: Fur seals"
+    },
+    {
+        "title": "Shark adaptations",
+        "description": "Specialized traits in sharks for hunting and survival\nExample: Great white sharks"
+    },
+    {
+        "title": "Ray-finned fish",
+        "description": "Bony fish species with ray-like fins\nExample: Clownfish"
+    },
+    {
+        "title": "Cartilaginous fish",
+        "description": "Fish species with cartilage instead of bones\nExample: Rays"
+    },
+    {
+        "title": "Marine mammal diving",
+        "description": "Adaptations for deep and prolonged dives\nExample: Elephant seals"
+    },
+    {
+        "title": "Sea turtle navigation",
+        "description": "Techniques for navigating long oceanic journeys\nExample: Loggerhead turtles"
+    },
+    {
+        "title": "Ocean acidification effects",
+        "description": "Impact of increased carbon dioxide on ocean life\nExample: Coral bleaching"
+    },
+    {
+        "title": "Marine photic zone",
+        "description": "Zone where sunlight penetrates the ocean\nExample: Phytoplankton"
+    },
+    {
+        "title": "Aphotic zone life",
+        "description": "Life in areas without sunlight in oceans\nExample: Anglerfish"
+    },
+    {
+        "title": "Marine snow",
+        "description": "Organic material falling from upper layers of water\nExample: Marine snow particles"
+    },
+    {
+        "title": "Marine trophic levels",
+        "description": "Different feeding levels in the marine environment\nExample: Orca whales"
+    },
+    {
+        "title": "Marine apex predators",
+        "description": "Top predators in the marine food chain\nExample: Hammerhead sharks"
+    },
+    {
+        "title": "Adaptations to hypoxia",
+        "description": "Survival mechanisms under low oxygen conditions\nExample: Tuna fish"
+    },
+    {
+        "title": "Marine herbivores",
+        "description": "Species feeding on marine plants\nExample: Manatees"
+    },
+    {
+        "title": "Oceanic nekton",
+        "description": "Free-swimming organisms in open water\nExample: Squid"
+    },
+    {
+        "title": "Deep-sea pressure adaptations",
+        "description": "Adaptations for living under extreme pressure\nExample: Amphipods"
+    },
+    {
+        "title": "Phytoplankton",
+        "description": "Microscopic plants that form the base of the marine food chain\nExample: Diatoms"
+    },
+    {
+        "title": "Zooplankton",
+        "description": "Tiny animals that feed on phytoplankton\nExample: Copepods"
+    },
+    {
+        "title": "Trophic levels",
+        "description": "Levels of organisms grouped by feeding roles\nExample: Sharks, krill, and algae"
+    },
+    {
+        "title": "Primary producers",
+        "description": "Organisms that create energy through photosynthesis\nExample: Seaweed"
+    },
+    {
+        "title": "Secondary consumers",
+        "description": "Organisms that consume primary producers\nExample: Zooplankton"
+    },
+    {
+        "title": "Tertiary consumers",
+        "description": "Organisms that feed on secondary consumers\nExample: Sharks"
+    },
+    {
+        "title": "Marine detritivores",
+        "description": "Organisms breaking down dead organic matter\nExample: Sea cucumbers"
+    },
+    {
+        "title": "Marine decomposers",
+        "description": "Microbes breaking down organic matter in marine environments\nExample: Bacteria"
+    },
+    {
+        "title": "Energy transfer",
+        "description": "Movement of energy through trophic levels\nExample: Energy transfer in food webs"
+    },
+    {
+        "title": "Marine biomass pyramid",
+        "description": "Graph showing biomass distribution across trophic levels\nExample: Marine food pyramid"
+    },
+    {
+        "title": "Food web complexity",
+        "description": "Interconnected food chains in an ecosystem\nExample: Coral reef food web"
+    },
+    {
+        "title": "Marine nutrient cycling",
+        "description": "Circulation of nutrients like carbon and nitrogen\nExample: Nutrient cycling in upwelling zones"
+    },
+    {
+        "title": "Upwelling zones",
+        "description": "Regions where nutrient-rich water rises to the surface\nExample: California upwelling"
+    },
+    {
+        "title": "Marine carbon cycle",
+        "description": "Process of carbon cycling through marine systems\nExample: Ocean carbon sequestration"
+    },
+    {
+        "title": "Nitrogen cycle in oceans",
+        "description": "Flow of nitrogen between the atmosphere and ocean\nExample: Nitrogen fixation in oceans"
+    },
+    {
+        "title": "Marine phosphorus cycle",
+        "description": "Circulation of phosphorus essential for marine life\nExample: Phosphate cycling"
+    },
+    {
+        "title": "Kelp forest ecosystems",
+        "description": "Ecosystems dominated by kelp forests\nExample: Kelp beds in the Pacific Ocean"
+    },
+    {
+        "title": "Coral reef ecosystems",
+        "description": "Diverse ecosystems formed by coral reefs\nExample: Great Barrier Reef"
+    },
+    {
+        "title": "Open ocean ecosystems",
+        "description": "Ecosystems in open water regions\nExample: Pelagic zone ecosystems"
+    },
+    {
+        "title": "Deep-sea ecosystems",
+        "description": "Ecosystems in deep-sea environments\nExample: Hydrothermal vent ecosystems"
+    },
+    {
+        "title": "Estuarine ecosystems",
+        "description": "Ecosystems in areas where freshwater meets seawater\nExample: River estuaries"
+    },
+    {
+        "title": "Mangrove ecosystems",
+        "description": "Ecosystems dominated by mangroves\nExample: Mangroves in Southeast Asia"
+    },
+    {
+        "title": "Arctic marine ecosystems",
+        "description": "Cold-water ecosystems near the Arctic Circle\nExample: Arctic food chains"
+    },
+    {
+        "title": "Antarctic marine ecosystems",
+        "description": "Cold-water ecosystems in Antarctica\nExample: Antarctic krill"
+    },
+    {
+        "title": "Seagrass beds",
+        "description": "Seagrass beds supporting diverse marine life\nExample: Posidonia oceanica beds"
+    },
+    {
+        "title": "Pelagic zone food chains",
+        "description": "Food chains in the open ocean\nExample: Mackerel food chains"
+    },
+    {
+        "title": "Benthic zone food chains",
+        "description": "Food chains in the ocean floor regions\nExample: Sea cucumbers in benthic zones"
+    },
+    {
+        "title": "Marine microbial loop",
+        "description": "Role of microbes in nutrient recycling\nExample: Microbial nutrient cycles"
+    },
+    {
+        "title": "Hydrothermal vent ecosystems",
+        "description": "Ecosystems near underwater vents\nExample: Vent crabs"
+    },
+    {
+        "title": "Whale fall ecosystems",
+        "description": "Ecosystems formed when a whale carcass sinks\nExample: Whale fall species"
+    },
+    {
+        "title": "Marine predator-prey relationships",
+        "description": "Dynamics of hunting and escape in marine species\nExample: Seals and penguins"
+    },
+    {
+        "title": "Marine scavengers",
+        "description": "Organisms feeding on dead marine animals\nExample: Crabs"
+    },
+    {
+        "title": "Plankton blooms",
+        "description": "Sudden increase in plankton population\nExample: Phytoplankton blooms"
+    },
+    {
+        "title": "Harmful algal blooms",
+        "description": "Toxic plankton blooms affecting marine species\nExample: Red tides"
+    },
+    {
+        "title": "Overfishing effects",
+        "description": "Unsustainable fishing leading to ecological imbalance\nExample: Overfished cod populations"
+    },
+    {
+        "title": "Bycatch impacts",
+        "description": "Unintentional catching of non-target species\nExample: Turtle bycatch"
+    },
+    {
+        "title": "Marine invasive species",
+        "description": "Species introduced to non-native habitats\nExample: Lionfish invasions"
+    },
+    {
+        "title": "Ecosystem resilience",
+        "description": "Capacity of ecosystems to recover after disturbances\nExample: Coral reef recovery"
+    },
+    {
+        "title": "Ecosystem services",
+        "description": "Services provided by ecosystems to human life\nExample: Fish stocks"
+    },
+    {
+        "title": "Anthropogenic impacts",
+        "description": "Human activities impacting marine environments\nExample: Oil pollution impacts"
+    },
+    {
+        "title": "Climate change effects",
+        "description": "Long-term changes affecting marine life\nExample: Polar bear habitats"
+    },
+    {
+        "title": "Marine habitat destruction",
+        "description": "Loss of marine habitats due to human actions\nExample: Bleached coral reefs"
+    },
+    {
+        "title": "Ocean acidification impacts",
+        "description": "Impact of acidified oceans on marine life\nExample: Floating plastic islands"
+    },
+    {
+        "title": "Plastic pollution",
+        "description": "Non-biodegradable plastic affecting marine life\nExample: Deepwater Horizon spill"
+    },
+    {
+        "title": "Oil spills",
+        "description": "Environmental damage caused by oil spills\nExample: Galapagos Marine Reserve"
+    },
+    {
+        "title": "Marine protected areas",
+        "description": "Protected regions preserving marine life\nExample: Coral triangle"
+    },
+    {
+        "title": "Biodiversity hotspots",
+        "description": "Regions with high species diversity\nExample: Sea otters in kelp forests"
+    },
+    {
+        "title": "Trophic cascades",
+        "description": "Changes in ecosystems caused by predator removal\nExample: Mangrove reforestation"
+    },
+    {
+        "title": "Marine ecosystem restoration",
+        "description": "Efforts to restore damaged marine ecosystems\nExample: Sustainable tuna fishing"
+    },
+    {
+        "title": "Sustainable fisheries",
+        "description": "Fishing practices that maintain ecological balance\nExample: Marine conservation parks"
+    }
+]

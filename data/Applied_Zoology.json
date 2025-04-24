@@ -1,0 +1,414 @@
+[
+    {
+        "title": "Apis mellifera",
+        "description": "Species of honeybee used for honey production\nExample: Western honeybee"
+    },
+    {
+        "title": "Silkworm",
+        "description": "Insect used for silk production\nExample: Bombyx mori"
+    },
+    {
+        "title": "Lac insect",
+        "description": "Insect producing lac resin\nExample: Kerria lacca"
+    },
+    {
+        "title": "Earthworm",
+        "description": "Soil-enriching organism\nExample: Eisenia fetida"
+    },
+    {
+        "title": "Honey production",
+        "description": "Natural sweetener production\nExample: Bee honey"
+    },
+    {
+        "title": "Beekeeping",
+        "description": "Management of bee colonies\nExample: Bee farming"
+    },
+    {
+        "title": "Sericulture",
+        "description": "Cultivation of silkworms for silk\nExample: Silk production"
+    },
+    {
+        "title": "Aquaculture",
+        "description": "Breeding of aquatic organisms\nExample: Fish farming"
+    },
+    {
+        "title": "Pearl oysters",
+        "description": "Mollusk producing pearls\nExample: Pinctada species"
+    },
+    {
+        "title": "Edible snails",
+        "description": "Edible gastropods\nExample: Helix pomatia"
+    },
+    {
+        "title": "Shellfish farming",
+        "description": "Cultivation of clams, oysters, etc.\nExample: Shrimp farming"
+    },
+    {
+        "title": "Prawn culture",
+        "description": "Breeding of prawns for food\nExample: Tiger prawns"
+    },
+    {
+        "title": "Fish farming",
+        "description": "Controlled breeding of fish\nExample: Tilapia"
+    },
+    {
+        "title": "Carp farming",
+        "description": "Freshwater fish farming\nExample: Rohu fish"
+    },
+    {
+        "title": "Catfish farming",
+        "description": "Farming catfish species\nExample: Channel catfish"
+    },
+    {
+        "title": "Ornamental fish",
+        "description": "Keeping fish for aesthetic purposes\nExample: Aquarium fish"
+    },
+    {
+        "title": "Animal byproducts",
+        "description": "Products derived from animals\nExample: Leather, gelatin"
+    },
+    {
+        "title": "Manure production",
+        "description": "Use of animal waste as fertilizer\nExample: Organic fertilizers"
+    },
+    {
+        "title": "Dung beetle",
+        "description": "Insect recycling nutrients\nExample: Dung beetles"
+    },
+    {
+        "title": "Composting worms",
+        "description": "Earthworms aiding composting\nExample: Vermicomposting"
+    },
+    {
+        "title": "Leather industry",
+        "description": "Animal skins used for products\nExample: Cow leather"
+    },
+    {
+        "title": "Wool industry",
+        "description": "Production of wool from sheep\nExample: Merino wool"
+    },
+    {
+        "title": "Goat farming",
+        "description": "Breeding goats for milk and meat\nExample: Boer goats"
+    },
+    {
+        "title": "Buffalo farming",
+        "description": "Raising buffalo for dairy and draft\nExample: Murrah buffalo"
+    },
+    {
+        "title": "Camel farming",
+        "description": "Raising camels for milk and transport\nExample: Dromedary camels"
+    },
+    {
+        "title": "Silkworm pests",
+        "description": "Pests harming silkworms\nExample: Uzi fly"
+    },
+    {
+        "title": "Locusts",
+        "description": "Grasshoppers causing crop damage\nExample: Desert locust"
+    },
+    {
+        "title": "Termites",
+        "description": "Insects eating wooden structures\nExample: Termite mounds"
+    },
+    {
+        "title": "Rodents",
+        "description": "Rodents damaging crops\nExample: Field rats"
+    },
+    {
+        "title": "Mosquitoes",
+        "description": "Blood-feeding insects\nExample: Anopheles mosquitoes"
+    },
+    {
+        "title": "Houseflies",
+        "description": "Insects spreading diseases\nExample: Culex mosquitoes"
+    },
+    {
+        "title": "Cockroaches",
+        "description": "Household pest species\nExample: American cockroach"
+    },
+    {
+        "title": "Fleas",
+        "description": "Small blood-feeding insects\nExample: Flea species"
+    },
+    {
+        "title": "Ticks",
+        "description": "Arachnids transmitting diseases\nExample: Ixodes ticks"
+    },
+    {
+        "title": "Agricultural pests",
+        "description": "Organisms harmful to agriculture\nExample: Aphids"
+    },
+    {
+        "title": "Parasites",
+        "description": "Organisms living at the expense of others\nExample: Cestode worms"
+    },
+    {
+        "title": "Leeches in medicine",
+        "description": "Used for medicinal purposes\nExample: Medicinal leeches"
+    },
+    {
+        "title": "Maggot therapy",
+        "description": "Use of fly larvae to treat wounds\nExample: Green bottle fly larvae"
+    },
+    {
+        "title": "Biological pest control",
+        "description": "Use of natural predators to control pests\nExample: Ladybugs"
+    },
+    {
+        "title": "Predatory insects",
+        "description": "Predators feeding on pest insects\nExample: Praying mantis"
+    },
+    {
+        "title": "Parasitic wasps",
+        "description": "Insects parasitizing pest eggs\nExample: Trichogramma wasps"
+    },
+    {
+        "title": "Integrated pest management",
+        "description": "Ecosystem-friendly pest control methods\nExample: Biological farming methods"
+    },
+    {
+        "title": "Pollination services",
+        "description": "Pollination enhancing crop yields\nExample: Bee pollination"
+    },
+    {
+        "title": "Domesticated animals",
+        "description": "Domesticated animals for farming\nExample: Cattle, sheep"
+    },
+    {
+        "title": "Harmful reptiles",
+        "description": "Dangerous reptiles affecting humans\nExample: King cobras"
+    },
+    {
+        "title": "Venom extraction",
+        "description": "Collection of venom for medical use\nExample: Snake antivenoms"
+    },
+    {
+        "title": "Snake farming",
+        "description": "Cultivation of snakes for venom\nExample: Monocled cobras"
+    },
+    {
+        "title": "Scorpion venom",
+        "description": "Extraction of scorpion venom for drugs\nExample: Deathstalker scorpions"
+    },
+    {
+        "title": "Wildlife trade",
+        "description": "Trade of animals for profit\nExample: Wild parrots"
+    },
+    {
+        "title": "Endangered species",
+        "description": "Animals at risk of extinction\nExample: Giant panda"
+    },
+    {
+        "title": "Exotic species",
+        "description": "Non-native species in ecosystems\nExample: Kudzu plants"
+    },
+    {
+        "title": "Invasive species",
+        "description": "Species threatening native biodiversity\nExample: Zebra mussels"
+    },
+    {
+        "title": "Dairy farming",
+        "description": "Raising cattle for milk\nExample: Cow farming"
+    },
+    {
+        "title": "Milk production",
+        "description": "Producing milk from livestock\nExample: Milk from cows"
+    },
+    {
+        "title": "Artificial insemination",
+        "description": "Artificial breeding techniques\nExample: In-vitro fertilization"
+    },
+    {
+        "title": "Animal breeding",
+        "description": "Planned breeding of animals\nExample: Livestock breeding programs"
+    },
+    {
+        "title": "Selective breeding",
+        "description": "Mating animals to improve traits\nExample: Crossbreeding cows"
+    },
+    {
+        "title": "Crossbreeding",
+        "description": "Crossing different breeds\nExample: Jersey x native cows"
+    },
+    {
+        "title": "Hybrid vigor",
+        "description": "Superior traits in crossbreeds\nExample: Hybrid cattle"
+    },
+    {
+        "title": "Poultry farming",
+        "description": "Raising chickens for food\nExample: Chickens for eggs"
+    },
+    {
+        "title": "Layer chickens",
+        "description": "Egg-laying chickens\nExample: White leghorn hens"
+    },
+    {
+        "title": "Broiler chickens",
+        "description": "Meat-producing chickens\nExample: Broiler chickens"
+    },
+    {
+        "title": "Quail farming",
+        "description": "Raising quails for meat/eggs\nExample: Japanese quails"
+    },
+    {
+        "title": "Turkey farming",
+        "description": "Farming turkeys for meat\nExample: Thanksgiving turkey"
+    },
+    {
+        "title": "Duck farming",
+        "description": "Farming ducks for eggs and meat\nExample: Indian runner ducks"
+    },
+    {
+        "title": "Sheep farming",
+        "description": "Raising sheep for wool/meat\nExample: Merino sheep"
+    },
+    {
+        "title": "Swine farming",
+        "description": "Raising pigs for meat\nExample: Yorkshire pigs"
+    },
+    {
+        "title": "Pig rearing",
+        "description": "Raising pigs for pork production\nExample: Pork production"
+    },
+    {
+        "title": "Goat rearing",
+        "description": "Raising goats for dairy\nExample: Alpine goats"
+    },
+    {
+        "title": "Buffalo husbandry",
+        "description": "Raising buffalo for milk and farming\nExample: Murrah buffalo"
+    },
+    {
+        "title": "Camel husbandry",
+        "description": "Raising camels for transport\nExample: Desert camels"
+    },
+    {
+        "title": "Rabbit farming",
+        "description": "Small-scale farming of rabbits\nExample: Angora rabbits"
+    },
+    {
+        "title": "Fodder crops",
+        "description": "Crops grown to feed animals\nExample: Alfalfa crops"
+    },
+    {
+        "title": "Animal nutrition",
+        "description": "Balanced animal diet\nExample: Protein-rich fodder"
+    },
+    {
+        "title": "Feed formulation",
+        "description": "Preparation of animal feed\nExample: Mixed feeds"
+    },
+    {
+        "title": "Pasture management",
+        "description": "Maintaining grazing lands\nExample: Pasturelands"
+    },
+    {
+        "title": "Veterinary science",
+        "description": "Medical care for animals\nExample: Veterinary clinics"
+    },
+    {
+        "title": "Disease management",
+        "description": "Controlling animal diseases\nExample: Antibiotics for cattle"
+    },
+    {
+        "title": "Vaccination programs",
+        "description": "Immunization of livestock\nExample: Vaccines for foot-and-mouth disease"
+    },
+    {
+        "title": "Livestock diseases",
+        "description": "Diseases affecting farm animals\nExample: Brucellosis in cattle"
+    },
+    {
+        "title": "Zoonotic diseases",
+        "description": "Diseases transmitted to humans from animals\nExample: Rabies from dogs"
+    },
+    {
+        "title": "Animal welfare",
+        "description": "Ethical treatment of animals\nExample: Animal shelters"
+    },
+    {
+        "title": "Livestock insurance",
+        "description": "Insurance for livestock losses\nExample: Buffalo insurance"
+    },
+    {
+        "title": "Fisheries science",
+        "description": "Science of managing fish\nExample: Fisheries management"
+    },
+    {
+        "title": "Fish hatcheries",
+        "description": "Facilities for breeding fish\nExample: Carp hatcheries"
+    },
+    {
+        "title": "Fish breeding",
+        "description": "Encouraging reproduction in fish\nExample: Tilapia breeding"
+    },
+    {
+        "title": "Shrimp farming",
+        "description": "Breeding shrimps\nExample: Tiger shrimp farms"
+    },
+    {
+        "title": "Prawn hatcheries",
+        "description": "Raising prawns in controlled setups\nExample: Freshwater prawns"
+    },
+    {
+        "title": "Crab farming",
+        "description": "Cultivating crabs for food\nExample: Mud crabs"
+    },
+    {
+        "title": "Seaweed cultivation",
+        "description": "Growing seaweeds for industry\nExample: Kappaphycus seaweed"
+    },
+    {
+        "title": "Aquaponics",
+        "description": "Combining fish and plant farming\nExample: Tilapia in aquaponics"
+    },
+    {
+        "title": "Marine biotechnology",
+        "description": "Using marine resources for products\nExample: Fish collagen production"
+    },
+    {
+        "title": "Ornamental fish breeding",
+        "description": "Breeding aquarium fish\nExample: Guppy fish"
+    },
+    {
+        "title": "Fish nutrition",
+        "description": "Fish feed formulations\nExample: Balanced diets"
+    },
+    {
+        "title": "Aquatic diseases",
+        "description": "Diseases in aquatic organisms\nExample: Ich diseases"
+    },
+    {
+        "title": "Aquatic ecosystems",
+        "description": "Studying water environments\nExample: Coral reefs"
+    },
+    {
+        "title": "Sustainable aquaculture",
+        "description": "Eco-friendly fish farming\nExample: Eco-certifications"
+    },
+    {
+        "title": "Fish stock management",
+        "description": "Protecting fish populations\nExample: Marine protected areas"
+    },
+    {
+        "title": "Open-water fisheries",
+        "description": "Fishing in open oceans\nExample: Tuna fishing"
+    },
+    {
+        "title": "Cage culture",
+        "description": "Growing fish in enclosures\nExample: Floating fish cages"
+    },
+    {
+        "title": "Integrated farming systems",
+        "description": "Combining fish with other farming\nExample: Rice-fish farming"
+    },
+    {
+        "title": "Government schemes in fisheries",
+        "description": "Programs to improve fisheries\nExample: Blue revolution programs"
+    },
+    {
+        "title": "Marine fisheries",
+        "description": "Harvesting sea fish\nExample: Mackerel fishing"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "title": "Porifera",
+        "description": "A phylum of simple, porous-bodied invertebrates.\nExample: Sponges"
+    },
+    {
+        "title": "Ostia",
+        "description": "Small pores on sponges allowing water intake.\nExample: Sycon"
+    },
+    {
+        "title": "Osculum",
+        "description": "A large opening in sponges for water exit.\nExample: Leucosolenia"
+    },
+    {
+        "title": "Choanocytes",
+        "description": "Cells in sponges that filter food.\nExample: Grantia"
+    },
+    {
+        "title": "Spongin",
+        "description": "A protein forming sponge skeletons.\nExample: Bath Sponge"
+    },
+    {
+        "title": "Cnidaria",
+        "description": "A phylum of aquatic invertebrates with stinging cells.\nExample: Jellyfish"
+    },
+    {
+        "title": "Nematocyst",
+        "description": "A stinging organelle in cnidarians.\nExample: Sea Anemone"
+    },
+    {
+        "title": "Medusa",
+        "description": "A free-swimming, bell-shaped stage in cnidarians.\nExample: Aurelia"
+    },
+    {
+        "title": "Polyp",
+        "description": "A sessile stage in cnidarians.\nExample: Hydra"
+    },
+    {
+        "title": "Anthozoa",
+        "description": "A class of cnidarians including corals.\nExample: Coral Reefs"
+    },
+    {
+        "title": "Ctenophora",
+        "description": "A phylum of marine invertebrates using cilia for movement.\nExample: Pleurobrachia"
+    },
+    {
+        "title": "Platyhelminthes",
+        "description": "A phylum of flatworms, many parasitic.\nExample: Tapeworm"
+    },
+    {
+        "title": "Turbellaria",
+        "description": "A class of free-living flatworms.\nExample: Planaria"
+    },
+    {
+        "title": "Trematoda",
+        "description": "A class of parasitic flatworms.\nExample: Liver Fluke"
+    },
+    {
+        "title": "Cestoda",
+        "description": "A class of parasitic flatworms lacking a digestive system.\nExample: Taenia"
+    },
+    {
+        "title": "Rotifera",
+        "description": "A phylum of microscopic invertebrates.\nExample: Bdelloid Rotifers"
+    },
+    {
+        "title": "Nematoda",
+        "description": "A phylum of roundworms.\nExample: Ascaris"
+    },
+    {
+        "title": "Annelida",
+        "description": "A phylum of segmented worms.\nExample: Earthworm"
+    },
+    {
+        "title": "Polychaeta",
+        "description": "A class of annelids with numerous bristles.\nExample: Nereis"
+    },
+    {
+        "title": "Oligochaeta",
+        "description": "A class of annelids with fewer bristles.\nExample: Earthworm"
+    },
+    {
+        "title": "Hirudinea",
+        "description": "A class of annelids known as leeches.\nExample: Medicinal Leech"
+    },
+    {
+        "title": "Mollusca",
+        "description": "A phylum of soft-bodied invertebrates.\nExample: Snail"
+    },
+    {
+        "title": "Bivalvia",
+        "description": "A class of mollusks with two hinged shells.\nExample: Clam"
+    },
+    {
+        "title": "Gastropoda",
+        "description": "A class of mollusks with a single spiraled shell.\nExample: Garden Snail"
+    },
+    {
+        "title": "Cephalopoda",
+        "description": "A class of mollusks with tentacles.\nExample: Octopus"
+    },
+    {
+        "title": "Radula",
+        "description": "A feeding organ in mollusks.\nExample: Snails"
+    },
+    {
+        "title": "Arthropoda",
+        "description": "A phylum of invertebrates with jointed legs.\nExample: Insects"
+    },
+    {
+        "title": "Exoskeleton",
+        "description": "A hard outer covering in arthropods.\nExample: Beetles"
+    },
+    {
+        "title": "Chitin",
+        "description": "A tough material forming arthropod exoskeletons.\nExample: Crustaceans"
+    },
+    {
+        "title": "Crustacea",
+        "description": "A subphylum including crabs and lobsters.\nExample: Shrimp"
+    },
+    {
+        "title": "Arachnida",
+        "description": "A class of arthropods including spiders.\nExample: Tarantula"
+    },
+    {
+        "title": "Insecta",
+        "description": "A class of arthropods with six legs.\nExample: Butterfly"
+    },
+    {
+        "title": "Echinodermata",
+        "description": "A phylum of marine invertebrates with radial symmetry.\nExample: Starfish"
+    },
+    {
+        "title": "Water Vascular System",
+        "description": "A system in echinoderms for movement.\nExample: Sea Urchin"
+    },
+    {
+        "title": "Tube Feet",
+        "description": "Suction-like appendages in echinoderms.\nExample: Starfish"
+    },
+    {
+        "title": "Madreporite",
+        "description": "A plate in echinoderms regulating water intake.\nExample: Sea Star"
+    },
+    {
+        "title": "Regeneration",
+        "description": "Ability to regrow lost body parts.\nExample: Planaria"
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "A process where invertebrates change form.\nExample: Butterfly"
+    },
+    {
+        "title": "Molting",
+        "description": "Shedding of the exoskeleton.\nExample: Crab"
+    },
+    {
+        "title": "Torsion",
+        "description": "A developmental process in gastropods.\nExample: Snail"
+    },
+    {
+        "title": "Parthenogenesis",
+        "description": "Reproduction without fertilization.\nExample: Aphids"
+    },
+    {
+        "title": "Bioluminescence",
+        "description": "The ability to produce light.\nExample: Firefly"
+    },
+    {
+        "title": "Sessile",
+        "description": "Fixed in one place.\nExample: Coral"
+    },
+    {
+        "title": "Planktonic",
+        "description": "Drifting with ocean currents.\nExample: Krill"
+    },
+    {
+        "title": "Filter Feeding",
+        "description": "Filtering tiny organisms from water.\nExample: Clams"
+    },
+    {
+        "title": "Hermaphroditism",
+        "description": "Having both male and female reproductive organs.\nExample: Earthworms"
+    },
+    {
+        "title": "Colony Formation",
+        "description": "Living in cooperative groups.\nExample: Coral Reefs"
+    },
+    {
+        "title": "Hydrostatic Skeleton",
+        "description": "A fluid-based support system.\nExample: Earthworm"
+    },
+    {
+        "title": "Spiracle",
+        "description": "Respiratory openings in arthropods.\nExample: Grasshopper"
+    },
+    {
+        "title": "Book Lungs",
+        "description": "Respiratory structures in arachnids.\nExample: Spiders"
+    },
+    {
+        "title": "Compound Eye",
+        "description": "A visual organ made of multiple lenses.\nExample: Dragonfly"
+    },
+    {
+        "title": "Chelicerae",
+        "description": "Mouthparts in arachnids.\nExample: Scorpions"
+    },
+    {
+        "title": "Pedipalps",
+        "description": "Sensory appendages in arachnids.\nExample: Spiders"
+    },
+    {
+        "title": "Mandibles",
+        "description": "Jaw-like structures in arthropods.\nExample: Ants"
+    },
+    {
+        "title": "Trochophore",
+        "description": "A larval stage in mollusks and annelids.\nExample: Marine Worms"
+    },
+    {
+        "title": "Nauplius",
+        "description": "A larval stage in crustaceans.\nExample: Shrimp"
+    },
+    {
+        "title": "Swimmerets",
+        "description": "Appendages in crustaceans for swimming.\nExample: Lobsters"
+    },
+    {
+        "title": "Statocyst",
+        "description": "A balance organ in invertebrates.\nExample: Jellyfish"
+    },
+    {
+        "title": "Book Gills",
+        "description": "Respiratory structures in horseshoe crabs.\nExample: Limulus"
+    },
+    {
+        "title": "Proboscis",
+        "description": "A tube-like feeding organ.\nExample: Butterfly"
+    },
+    {
+        "title": "Eutely",
+        "description": "Fixed number of cells in an organism.\nExample: Rotifers"
+    },
+    {
+        "title": "Cloaca",
+        "description": "A common exit for digestive and excretory waste.\nExample: Amphibians"
+    },
+    {
+        "title": "Setae",
+        "description": "Bristle-like structures in annelids.\nExample: Earthworms"
+    },
+    {
+        "title": "Cuticle",
+        "description": "A protective outer layer in some invertebrates.\nExample: Roundworms"
+    },
+    {
+        "title": "Hydroid",
+        "description": "A polyp stage in cnidarians.\nExample: Hydra"
+    },
+    {
+        "title": "Spicule",
+        "description": "Supportive structures in sponges.\nExample: Sponges"
+    },
+    {
+        "title": "Cnidoblast",
+        "description": "A cell that produces cnidarian stinging cells.\nExample: Jellyfish"
+    },
+    {
+        "title": "Planula",
+        "description": "A larval stage in cnidarians.\nExample: Corals"
+    },
+    {
+        "title": "Gastrovascular Cavity",
+        "description": "A central cavity for digestion in cnidarians.\nExample: Hydra"
+    },
+    {
+        "title": "Statolith",
+        "description": "A balance organ in some invertebrates.\nExample: Jellyfish"
+    },
+    {
+        "title": "Cercaria",
+        "description": "A larval stage in trematodes.\nExample: Schistosoma"
+    },
+    {
+        "title": "Miracidium",
+        "description": "A ciliated larval stage in trematodes.\nExample: Liver Fluke"
+    },
+    {
+        "title": "Scolex",
+        "description": "An attachment organ in tapeworms.\nExample: Tapeworm"
+    },
+    {
+        "title": "Proglottid",
+        "description": "A segment in tapeworms.\nExample: Taenia"
+    },
+    {
+        "title": "Oncosphere",
+        "description": "A larval stage in tapeworms.\nExample: Tapeworm"
+    },
+    {
+        "title": "Mastax",
+        "description": "A grinding organ in rotifers.\nExample: Rotifers"
+    },
+    {
+        "title": "Parapodia",
+        "description": "Paired appendages in polychaetes.\nExample: Polychaetes"
+    },
+    {
+        "title": "Nereis",
+        "description": "A marine annelid.\nExample: Nereis"
+    },
+    {
+        "title": "Clitellum",
+        "description": "A glandular structure in annelids.\nExample: Earthworm"
+    },
+    {
+        "title": "Peristomium",
+        "description": "The first body segment in annelids.\nExample: Earthworm"
+    },
+    {
+        "title": "Typhlosole",
+        "description": "A fold increasing digestive surface in annelids.\nExample: Earthworm"
+    },
+    {
+        "title": "Nephridia",
+        "description": "Excretory organs in annelids.\nExample: Earthworm"
+    },
+    {
+        "title": "Glochidium",
+        "description": "A parasitic larval stage in bivalves.\nExample: Freshwater Mussels"
+    },
+    {
+        "title": "Byssus",
+        "description": "Thread-like structures in bivalves for attachment.\nExample: Mussels"
+    },
+    {
+        "title": "Operculum",
+        "description": "A protective lid in mollusks.\nExample: Snails"
+    },
+    {
+        "title": "Hectocotylus",
+        "description": "A specialized arm in cephalopods for reproduction.\nExample: Octopus"
+    },
+    {
+        "title": "Biramous Appendage",
+        "description": "Appendages with two branches.\nExample: Crustaceans"
+    },
+    {
+        "title": "Uniramous Appendage",
+        "description": "Appendages with one branch.\nExample: Insects"
+    },
+    {
+        "title": "Hemocoel",
+        "description": "A primary body cavity in arthropods.\nExample: Arthropods"
+    },
+    {
+        "title": "Tagmata",
+        "description": "Fused body segments in arthropods.\nExample: Arthropods"
+    },
+    {
+        "title": "Malpighian Tubules",
+        "description": "Excretory organs in insects and arachnids.\nExample: Insects"
+    },
+    {
+        "title": "Green Glands",
+        "description": "Excretory glands in crustaceans.\nExample: Crustaceans"
+    },
+    {
+        "title": "Maxillipeds",
+        "description": "Feeding appendages in crustaceans.\nExample: Crabs"
+    },
+    {
+        "title": "Carapace",
+        "description": "A hard shell covering the cephalothorax.\nExample: Lobsters"
+    },
+    {
+        "title": "Rostrum",
+        "description": "An extended front part of the carapace.\nExample: Prawns"
+    },
+    {
+        "title": "Telson",
+        "description": "A tail-like structure in crustaceans.\nExample: Crayfish"
+    },
+    {
+        "title": "Uropods",
+        "description": "Tail-like appendages in crustaceans.\nExample: Shrimp"
+    },
+    {
+        "title": "Ambulacral Groove",
+        "description": "A groove in echinoderms containing tube feet.\nExample: Starfish"
+    },
+    {
+        "title": "Aristotle’s Lantern",
+        "description": "A jaw-like feeding structure in sea urchins.\nExample: Sea Urchin"
+    },
+    {
+        "title": "Pentaradial Symmetry",
+        "description": "Five-part radial symmetry in echinoderms.\nExample: Sea Stars"
+    },
+    {
+        "title": "Dermal Branchiae",
+        "description": "Skin gills for respiration in echinoderms.\nExample: Starfish"
+    },
+    {
+        "title": "Bipinnaria",
+        "description": "A larval stage in sea stars.\nExample: Starfish"
+    },
+    {
+        "title": "Brachiolaria",
+        "description": "A later larval stage in sea stars.\nExample: Starfish"
+    },
+    {
+        "title": "Evisceration",
+        "description": "Expelling internal organs for defense.\nExample: Sea Stars"
+    },
+    {
+        "title": "Ophiopluteus",
+        "description": "A larval stage in brittle stars.\nExample: Brittle Stars"
+    },
+    {
+        "title": "Crinoidea",
+        "description": "A class of feather stars and sea lilies.\nExample: Feather Stars"
+    },
+    {
+        "title": "Holothuroidea",
+        "description": "A class of sea cucumbers.\nExample: Sea Cucumbers"
+    },
+    {
+        "title": "Ossicles",
+        "description": "Calcareous plates in echinoderms.\nExample: Sea Stars"
+    },
+    {
+        "title": "Papulae",
+        "description": "Small respiratory structures in echinoderms.\nExample: Sea Stars"
+    },
+    {
+        "title": "Lophophore",
+        "description": "A ciliated feeding organ in some invertebrates.\nExample: Bryozoans"
+    },
+    {
+        "title": "Trochophore Larva",
+        "description": "A larval stage in annelids and mollusks.\nExample: Marine Worms"
+    },
+    {
+        "title": "Veliger Larva",
+        "description": "A larval stage in gastropods and bivalves.\nExample: Snails"
+    },
+    {
+        "title": "Gastrulation",
+        "description": "A developmental process forming germ layers.\nExample: Embryos"
+    },
+    {
+        "title": "Spiral Cleavage",
+        "description": "A cleavage pattern in protostomes.\nExample: Mollusks"
+    },
+    {
+        "title": "Radial Cleavage",
+        "description": "A cleavage pattern in deuterostomes.\nExample: Echinoderms"
+    },
+    {
+        "title": "Enterocoely",
+        "description": "A coelom formation method in deuterostomes.\nExample: Echinoderms"
+    },
+    {
+        "title": "Schizocoely",
+        "description": "A coelom formation method in protostomes.\nExample: Annelids"
+    },
+    {
+        "title": "Metamerism",
+        "description": "Segmental body organization.\nExample: Arthropods"
+    },
+    {
+        "title": "Tagmatization",
+        "description": "Fusion of segments for specialized function.\nExample: Cnidarians"
+    }
+]

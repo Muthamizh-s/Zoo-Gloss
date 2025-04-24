@@ -1,0 +1,482 @@
+[
+    {
+        "title": "Darwinism",
+        "description": "Theory of evolution through natural selection\nExample: Finches"
+    },
+    {
+        "title": "Lamarckism",
+        "description": "Theory of acquired traits being inherited\nExample: Giraffe Neck"
+    },
+    {
+        "title": "Natural Selection",
+        "description": "Survival and reproduction of the fittest organisms\nExample: Peppered Moth"
+    },
+    {
+        "title": "Survival of the Fittest",
+        "description": "Best-adapted individuals survive and reproduce\nExample: Cheetah Speed"
+    },
+    {
+        "title": "Speciation",
+        "description": "Formation of new species through evolution\nExample: Galápagos Finches"
+    },
+    {
+        "title": "Adaptive Radiation",
+        "description": "Rapid diversification of species into different niches\nExample: Darwin’s Finches"
+    },
+    {
+        "title": "Convergent Evolution",
+        "description": "Unrelated species evolving similar traits\nExample: Shark & Dolphin"
+    },
+    {
+        "title": "Divergent Evolution",
+        "description": "Related species evolving different traits\nExample: Wolf & Dog"
+    },
+    {
+        "title": "Co-evolution",
+        "description": "Mutual evolutionary influence between species\nExample: Bees & Flowers"
+    },
+    {
+        "title": "Punctuated Equilibrium",
+        "description": "Evolution occurring in rapid bursts\nExample: Trilobites"
+    },
+    {
+        "title": "Gradualism",
+        "description": "Gradual evolutionary changes over time\nExample: Horse Evolution"
+    },
+    {
+        "title": "Vestigial Structures",
+        "description": "Remnants of once-functional structures\nExample: Human Appendix"
+    },
+    {
+        "title": "Homologous Structures",
+        "description": "Similar structures from common ancestry\nExample: Bat Wing & Human Arm"
+    },
+    {
+        "title": "Analogous Structures",
+        "description": "Similar function but different evolutionary origins\nExample: Bird & Insect Wing"
+    },
+    {
+        "title": "Genetic Drift",
+        "description": "Random changes in allele frequencies\nExample: Isolated Island Populations"
+    },
+    {
+        "title": "Founder Effect",
+        "description": "Genetic drift from a small founding population\nExample: Small Island Colonization"
+    },
+    {
+        "title": "Bottleneck Effect",
+        "description": "Sharp reduction in population size and genetic diversity\nExample: Genetic Bottleneck in Cheetahs"
+    },
+    {
+        "title": "Hardy-Weinberg Equilibrium",
+        "description": "Principle of genetic equilibrium\nExample: Stable Population Genetics"
+    },
+    {
+        "title": "Microevolution",
+        "description": "Small evolutionary changes within a population\nExample: Antibiotic Resistance"
+    },
+    {
+        "title": "Macroevolution",
+        "description": "Large evolutionary changes over long periods\nExample: Dinosaur Evolution"
+    },
+    {
+        "title": "Extinction",
+        "description": "Complete disappearance of a species\nExample: Dodo"
+    },
+    {
+        "title": "Mass Extinction",
+        "description": "Widespread extinction events\nExample: Cretaceous-Paleogene Event"
+    },
+    {
+        "title": "Fossil",
+        "description": "Preserved remains of ancient organisms\nExample: Amber Insect"
+    },
+    {
+        "title": "Transitional Fossil",
+        "description": "Fossils showing intermediary evolutionary traits\nExample: Archaeopteryx"
+    },
+    {
+        "title": "Living Fossil",
+        "description": "Modern species resembling ancient forms\nExample: Coelacanth"
+    },
+    {
+        "title": "Trace Fossil",
+        "description": "Fossilized biological activity traces\nExample: Dinosaur Tracks"
+    },
+    {
+        "title": "Paleontology",
+        "description": "Study of fossils and evolutionary history\nExample: Fossilized Trilobites"
+    },
+    {
+        "title": "Radiometric Dating",
+        "description": "Dating fossils using radioactive decay\nExample: Carbon-14 Dating"
+    },
+    {
+        "title": "Relative Dating",
+        "description": "Estimating fossil age using rock layers\nExample: Stratigraphy"
+    },
+    {
+        "title": "Index Fossil",
+        "description": "Fossils used for dating rock layers\nExample: Ammonites"
+    },
+    {
+        "title": "Permineralization",
+        "description": "Minerals replacing organic material in fossils\nExample: Petrified Wood"
+    },
+    {
+        "title": "Taphonomy",
+        "description": "Study of fossilization processes\nExample: Fossilization Process"
+    },
+    {
+        "title": "Cambrian Explosion",
+        "description": "Explosion of diverse life forms in Cambrian period\nExample: Burgess Shale"
+    },
+    {
+        "title": "Extinct Megafauna",
+        "description": "Large extinct prehistoric animals\nExample: Woolly Mammoth"
+    },
+    {
+        "title": "Pleistocene Extinction",
+        "description": "Mass extinction of Ice Age megafauna\nExample: Saber-Toothed Cat"
+    },
+    {
+        "title": "Fossil Record",
+        "description": "Collection of all known fossils\nExample: Dinosaur Skeletons"
+    },
+    {
+        "title": "Social Behavior",
+        "description": "Interactions influencing survival and reproduction\nExample: Chimpanzee Groups"
+    },
+    {
+        "title": "Altruism",
+        "description": "Sacrificing for the benefit of others\nExample: Vampire Bat Sharing"
+    },
+    {
+        "title": "Kin Selection",
+        "description": "Helping relatives survive to pass on genes\nExample: Honeybee Kin Selection"
+    },
+    {
+        "title": "Cooperative Hunting",
+        "description": "Hunting strategy involving teamwork\nExample: Wolves"
+    },
+    {
+        "title": "Dominance Hierarchy",
+        "description": "Social ranking influencing resource access\nExample: Gorilla Troops"
+    },
+    {
+        "title": "Territoriality",
+        "description": "Defending a specific area\nExample: Wolf Packs"
+    },
+    {
+        "title": "Aggressive Mimicry",
+        "description": "Mimicry used by predators to catch prey\nExample: Anglerfish Lure"
+    },
+    {
+        "title": "Eusociality",
+        "description": "Highest level of social organization\nExample: Ant Colonies"
+    },
+    {
+        "title": "Mimicry",
+        "description": "Resembling another species for survival\nExample: Viceroy Butterfly"
+    },
+    {
+        "title": "Communication",
+        "description": "Exchange of information between organisms\nExample: Dolphin Clicks"
+    },
+    {
+        "title": "Migration",
+        "description": "Seasonal movement of animals\nExample: Wildebeest Journey"
+    },
+    {
+        "title": "Hibernation",
+        "description": "Metabolic slowdown to survive harsh conditions\nExample: Bear Winter Sleep"
+    },
+    {
+        "title": "Aestivation",
+        "description": "Dormancy in hot, dry conditions\nExample: Desert Snail"
+    },
+    {
+        "title": "Diapause",
+        "description": "Developmental pause due to environmental stress\nExample: Insect Eggs"
+    },
+    {
+        "title": "Philopatry",
+        "description": "Returning to birthplace for breeding\nExample: Salmon Spawning"
+    },
+    {
+        "title": "Nomadism",
+        "description": "Moving without a fixed home range\nExample: Caribou Herds"
+    },
+    {
+        "title": "Torpor",
+        "description": "Short-term energy-saving state\nExample: Bats"
+    },
+    {
+        "title": "Site Fidelity",
+        "description": "Returning to the same location repeatedly\nExample: Bird Migration"
+    },
+    {
+        "title": "Imprinting",
+        "description": "Early-life learning of strong associations\nExample: Ducklings"
+    },
+    {
+        "title": "Territorial Dispute",
+        "description": "Conflict over territorial ownership\nExample: Songbirds"
+    },
+    {
+        "title": "Foraging Behavior",
+        "description": "Strategies for food collection\nExample: Squirrel Caching"
+    },
+    {
+        "title": "Parental Investment",
+        "description": "Energy and resources devoted to offspring\nExample: Penguin Care"
+    },
+    {
+        "title": "Sexual Selection",
+        "description": "Traits increasing reproductive success\nExample: Peacock Feathers"
+    },
+    {
+        "title": "Mate Guarding",
+        "description": "Preventing rivals from mating\nExample: Dragonflies"
+    },
+    {
+        "title": "Lek Behavior",
+        "description": "Males gathering for mating displays\nExample: Sage Grouse"
+    },
+    {
+        "title": "Courtship Display",
+        "description": "Ritualized behaviors to attract mates\nExample: Bird Dance"
+    },
+    {
+        "title": "Polygamy",
+        "description": "One individual having multiple mates\nExample: Lions"
+    },
+    {
+        "title": "Monogamy",
+        "description": "Pairing with only one mate\nExample: Swans"
+    },
+    {
+        "title": "Infanticide",
+        "description": "Killing offspring to increase mating chances\nExample: Lions"
+    },
+    {
+        "title": "Cooperative Breeding",
+        "description": "Helping non-kin raise young\nExample: Meerkats"
+    },
+    {
+        "title": "Brood Parasitism",
+        "description": "Laying eggs in other species' nests\nExample: Cuckoo Bird"
+    },
+    {
+        "title": "Group Living",
+        "description": "Living in organized social groups\nExample: Baboons"
+    },
+    {
+        "title": "Predator-Prey Interaction",
+        "description": "Interaction between predator and prey\nExample: Wolves & Deer"
+    },
+    {
+        "title": "Alarm Calls",
+        "description": "Vocal warnings of predators\nExample: Prairie Dogs"
+    },
+    {
+        "title": "Camouflage",
+        "description": "Blending into the environment\nExample: Chameleons"
+    },
+    {
+        "title": "Crypsis",
+        "description": "Avoiding detection using camouflage\nExample: Stick Insects"
+    },
+    {
+        "title": "Aposematism",
+        "description": "Bright colors warning of toxicity\nExample: Poison Dart Frog"
+    },
+    {
+        "title": "Batesian Mimicry",
+        "description": "Harmless species mimicking harmful ones\nExample: Hoverfly"
+    },
+    {
+        "title": "Müllerian Mimicry",
+        "description": "Harmful species mimicking each other\nExample: Monarch & Viceroy Butterflies"
+    },
+    {
+        "title": "Habitat Selection",
+        "description": "Choosing habitats based on resources\nExample: Nesting Birds"
+    },
+    {
+        "title": "Niche Partitioning",
+        "description": "Species dividing resources to avoid competition\nExample: Anole Lizards"
+    },
+    {
+        "title": "Mutualism",
+        "description": "Both species benefit from interaction\nExample: Clownfish & Anemone"
+    },
+    {
+        "title": "Commensalism",
+        "description": "One species benefits, the other is unaffected\nExample: Barnacles & Whales"
+    },
+    {
+        "title": "Parasitism",
+        "description": "One species benefits at another’s expense\nExample: Ticks"
+    },
+    {
+        "title": "Intraspecific Competition",
+        "description": "Competition within a species\nExample: Deer Fighting"
+    },
+    {
+        "title": "Interspecific Competition",
+        "description": "Competition between different species\nExample: Wolves & Coyotes"
+    },
+    {
+        "title": "Territorial Marking",
+        "description": "Using signals to mark territory\nExample: Tiger Scratches"
+    },
+    {
+        "title": "Flocking Behavior",
+        "description": "Coordinated group movement\nExample: Starlings"
+    },
+    {
+        "title": "Swarming",
+        "description": "Large groups moving together\nExample: Locusts"
+    },
+    {
+        "title": "Schooling",
+        "description": "Synchronized fish movement\nExample: Sardines"
+    },
+    {
+        "title": "Pack Behavior",
+        "description": "Cooperative group hunting and living\nExample: Wolves"
+    },
+    {
+        "title": "Dominance Display",
+        "description": "Asserting social status\nExample: Gorilla Chest Beating"
+    },
+    {
+        "title": "Submissive Behavior",
+        "description": "Signals of surrender\nExample: Dog Rolling Over"
+    },
+    {
+        "title": "Chemical Communication",
+        "description": "Using pheromones for communication\nExample: Ant Trails"
+    },
+    {
+        "title": "Visual Communication",
+        "description": "Using body movements or colors\nExample: Fireflies"
+    },
+    {
+        "title": "Acoustic Communication",
+        "description": "Using sound for communication\nExample: Dolphin Clicks"
+    },
+    {
+        "title": "Tactile Communication",
+        "description": "Using touch for interaction\nExample: Grooming in Monkeys"
+    },
+    {
+        "title": "Migration Corridor",
+        "description": "Consistently used migration route\nExample: Serengeti Pathway"
+    },
+    {
+        "title": "Flyway",
+        "description": "Specific bird migration path\nExample: Arctic Tern Route"
+    },
+    {
+        "title": "Partial Migration",
+        "description": "Only part of a population migrates\nExample: American Robins"
+    },
+    {
+        "title": "Altitudinal Migration",
+        "description": "Migration between different elevations\nExample: Mountain Goats"
+    },
+    {
+        "title": "Reverse Migration",
+        "description": "Unexpected migration direction\nExample: Monarch Butterflies"
+    },
+    {
+        "title": "Nomadic Migration",
+        "description": "Unpredictable movement following resources\nExample: Wildebeests"
+    },
+    {
+        "title": "Irruptive Migration",
+        "description": "Irregular migration due to resource changes\nExample: Snowy Owls"
+    },
+    {
+        "title": "Long-Distance Migration",
+        "description": "Vast seasonal movements\nExample: Arctic Terns"
+    },
+    {
+        "title": "Short-Distance Migration",
+        "description": "Migration within a small range\nExample: Elk"
+    },
+    {
+        "title": "Endogenous Rhythms",
+        "description": "Internal biological clocks for migration\nExample: Circadian Rhythms"
+    },
+    {
+        "title": "Zugunruhe",
+        "description": "Restlessness before migration\nExample: Songbirds"
+    },
+    {
+        "title": "Navigational Cues",
+        "description": "Using environmental cues to navigate\nExample: Earth’s Magnetic Field"
+    },
+    {
+        "title": "Orientation",
+        "description": "Maintaining direction in migration\nExample: Sea Turtles"
+    },
+    {
+        "title": "True Navigation",
+        "description": "Reaching a location without external cues\nExample: Homing Pigeons"
+    },
+    {
+        "title": "Hibernaculum",
+        "description": "Shelter for hibernating animals\nExample: Snake Dens"
+    },
+    {
+        "title": "Fat Reserves",
+        "description": "Stored fat for energy\nExample: Bears"
+    },
+    {
+        "title": "Thermoregulation",
+        "description": "Regulating body temperature\nExample: Penguins"
+    },
+    {
+        "title": "Daily Torpor",
+        "description": "Short-term metabolic slowdown\nExample: Hummingbirds"
+    },
+    {
+        "title": "Seasonal Torpor",
+        "description": "Seasonal dormancy\nExample: Hedgehogs"
+    },
+    {
+        "title": "Hyperphagia",
+        "description": "Excessive eating before hibernation\nExample: Bears in Autumn"
+    },
+    {
+        "title": "Brumation",
+        "description": "Dormancy in cold-blooded animals\nExample: Snakes"
+    },
+    {
+        "title": "Cryptobiosis",
+        "description": "Suspended animation in extreme conditions\nExample: Tardigrades"
+    },
+    {
+        "title": "Estivation",
+        "description": "Dormancy in heat\nExample: Desert Frogs"
+    },
+    {
+        "title": "Photoperiodism",
+        "description": "Response to seasonal daylight changes\nExample: Plant Blooming"
+    },
+    {
+        "title": "Homing Instinct",
+        "description": "Returning to a location instinctively\nExample: Salmon"
+    },
+    {
+        "title": "Dispersal",
+        "description": "Moving away to avoid inbreeding\nExample: Juvenile Wolves"
+    },
+    {
+        "title": "Natal Philopatry",
+        "description": "Returning to birthplace to breed\nExample: Sea Turtles"
+    }
+]

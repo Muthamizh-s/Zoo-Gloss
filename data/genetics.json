@@ -1,0 +1,542 @@
+[
+    {
+        "title": "Allele",
+        "description": "A variant form of a gene\nExample: Eye color allele"
+    },
+    {
+        "title": "Genotype",
+        "description": "Genetic makeup of an organism\nExample: AA, Aa, or aa"
+    },
+    {
+        "title": "Phenotype",
+        "description": "Observable traits of an organism\nExample: Brown eyes"
+    },
+    {
+        "title": "Dominant Trait",
+        "description": "A trait that masks another\nExample: Brown eye color"
+    },
+    {
+        "title": "Recessive Trait",
+        "description": "A trait that is masked by a dominant trait\nExample: Blue eye color"
+    },
+    {
+        "title": "Homozygous",
+        "description": "Having two identical alleles\nExample: AA or aa"
+    },
+    {
+        "title": "Heterozygous",
+        "description": "Having two different alleles\nExample: Aa"
+    },
+    {
+        "title": "Codominance",
+        "description": "Both alleles are equally expressed\nExample: AB blood type"
+    },
+    {
+        "title": "Incomplete Dominance",
+        "description": "Blended phenotype in heterozygotes\nExample: Pink flowers from red and white parents"
+    },
+    {
+        "title": "Polygenic Inheritance",
+        "description": "Traits controlled by multiple genes\nExample: Skin color"
+    },
+    {
+        "title": "Epistasis",
+        "description": "One gene affects another\nExample: Albinism affecting pigmentation"
+    },
+    {
+        "title": "Pleiotropy",
+        "description": "One gene affects multiple traits\nExample: Sickle cell disease affecting multiple traits"
+    },
+    {
+        "title": "Mutation",
+        "description": "A change in DNA sequence\nExample: Cystic fibrosis mutation"
+    },
+    {
+        "title": "Point Mutation",
+        "description": "A single nucleotide change\nExample: Sickle cell mutation"
+    },
+    {
+        "title": "Frameshift Mutation",
+        "description": "Insertion or deletion shifting the reading frame\nExample: Tay-Sachs disease mutation"
+    },
+    {
+        "title": "Silent Mutation",
+        "description": "Mutation that does not affect protein\nExample: Silent change in hemoglobin gene"
+    },
+    {
+        "title": "Missense Mutation",
+        "description": "Mutation changing one amino acid\nExample: Sickle cell anemia"
+    },
+    {
+        "title": "Nonsense Mutation",
+        "description": "Mutation creating a stop codon\nExample: Duchenne muscular dystrophy"
+    },
+    {
+        "title": "Gene Expression",
+        "description": "Process of using DNA instructions to make proteins\nExample: Insulin production"
+    },
+    {
+        "title": "Transcription",
+        "description": "Conversion of DNA to RNA\nExample: RNA polymerase activity"
+    },
+    {
+        "title": "Translation",
+        "description": "RNA to protein process\nExample: Ribosome function"
+    },
+    {
+        "title": "RNA Splicing",
+        "description": "Editing of RNA before translation\nExample: mRNA editing"
+    },
+    {
+        "title": "Promoter Region",
+        "description": "DNA sequence controlling gene expression\nExample: TATA box in promoter"
+    },
+    {
+        "title": "Enhancer Sequence",
+        "description": "DNA sequence enhancing transcription\nExample: Enhancer regulating growth genes"
+    },
+    {
+        "title": "Operon Model",
+        "description": "Gene regulation model in bacteria\nExample: Lac operon in bacteria"
+    },
+    {
+        "title": "Repressor Protein",
+        "description": "Protein that inhibits gene expression\nExample: Repressor blocking transcription"
+    },
+    {
+        "title": "Inducer",
+        "description": "Molecule that activates gene expression\nExample: Lactose inducing lac operon"
+    },
+    {
+        "title": "Exon",
+        "description": "Protein-coding sequence of a gene\nExample: Exons in hemoglobin gene"
+    },
+    {
+        "title": "Intron",
+        "description": "Non-coding sequence removed during splicing\nExample: Introns in globin genes"
+    },
+    {
+        "title": "Spliceosome",
+        "description": "Complex that removes introns\nExample: Spliceosome removing introns"
+    },
+    {
+        "title": "Messenger RNA",
+        "description": "RNA carrying genetic information\nExample: mRNA carrying hemoglobin code"
+    },
+    {
+        "title": "Ribosomal RNA",
+        "description": "RNA making up ribosomes\nExample: rRNA forming ribosomes"
+    },
+    {
+        "title": "Transfer RNA",
+        "description": "RNA delivering amino acids\nExample: tRNA delivering methionine"
+    },
+    {
+        "title": "Genetic Code",
+        "description": "Set of rules translating RNA into protein\nExample: AUG for methionine"
+    },
+    {
+        "title": "Codon",
+        "description": "Three-letter RNA sequence coding for an amino acid\nExample: UAA stop codon"
+    },
+    {
+        "title": "Anticodon",
+        "description": "Three-letter sequence on tRNA complementary to codon\nExample: DNA polymerase copying DNA"
+    },
+    {
+        "title": "Start Codon",
+        "description": "AUG codon that starts translation\nExample: Okazaki fragments on lagging strand"
+    },
+    {
+        "title": "Stop Codon",
+        "description": "UAA, UAG, or UGA codon ending translation\nExample: Leading strand in replication"
+    },
+    {
+        "title": "DNA Replication",
+        "description": "Process of copying DNA\nExample: Lagging strand in replication"
+    },
+    {
+        "title": "Okazaki Fragment",
+        "description": "Short DNA segments synthesized on the lagging strand\nExample: Telomere shortening with age"
+    },
+    {
+        "title": "Leading Strand",
+        "description": "Continuously synthesized DNA strand\nExample: Telomerase in stem cells"
+    },
+    {
+        "title": "Lagging Strand",
+        "description": "Discontinuous DNA strand\nExample: DNA polymerase proofreading"
+    },
+    {
+        "title": "Telomere",
+        "description": "Protective ends of chromosomes\nExample: RNA polymerase transcribing RNA"
+    },
+    {
+        "title": "Telomerase",
+        "description": "Enzyme maintaining telomeres\nExample: Helicase unwinding DNA"
+    },
+    {
+        "title": "DNA Polymerase",
+        "description": "Enzyme synthesizing new DNA strands\nExample: Topoisomerase preventing DNA knots"
+    },
+    {
+        "title": "RNA Polymerase",
+        "description": "Enzyme synthesizing RNA\nExample: Ligase joining Okazaki fragments"
+    },
+    {
+        "title": "Helicase",
+        "description": "Enzyme unwinding DNA\nExample: Chromatin in cell nuclei"
+    },
+    {
+        "title": "Topoisomerase",
+        "description": "Enzyme preventing DNA supercoiling\nExample: Histones in nucleosomes"
+    },
+    {
+        "title": "Ligase",
+        "description": "Enzyme sealing DNA fragments\nExample: Nucleosome compacting DNA"
+    },
+    {
+        "title": "Chromatin",
+        "description": "DNA-protein complex in the nucleus\nExample: Euchromatin in active genes"
+    },
+    {
+        "title": "Histones",
+        "description": "Proteins around which DNA winds\nExample: Heterochromatin in inactive genes"
+    },
+    {
+        "title": "Nucleosome",
+        "description": "DNA-histone complex forming chromatin units\nExample: Chromosome 21 mapped for Down syndrome"
+    },
+    {
+        "title": "Euchromatin",
+        "description": "Loosely packed chromatin\nExample: Huntington’s disease"
+    },
+    {
+        "title": "Heterochromatin",
+        "description": "Densely packed chromatin\nExample: Cystic fibrosis"
+    },
+    {
+        "title": "Chromosome Mapping",
+        "description": "Method to determine gene locations on chromosomes\nExample: Hemophilia"
+    },
+    {
+        "title": "Autosomal Dominant Disorder",
+        "description": "A disorder inherited from a single dominant allele\nExample: Leber’s hereditary optic neuropathy"
+    },
+    {
+        "title": "Autosomal Recessive Disorder",
+        "description": "A disorder requiring two recessive alleles\nExample: Down syndrome"
+    },
+    {
+        "title": "X-linked Disorder",
+        "description": "A disorder linked to genes on the X chromosome\nExample: Trisomy 21"
+    },
+    {
+        "title": "Mitochondrial Disorder",
+        "description": "A disorder caused by mutations in mitochondrial DNA\nExample: XXY syndrome"
+    },
+    {
+        "title": "Chromosomal Aberration",
+        "description": "A structural change in chromosomes\nExample: Monosomy X"
+    },
+    {
+        "title": "Down Syndrome",
+        "description": "A condition with an extra chromosome 21\nExample: Extra fingers in cats"
+    },
+    {
+        "title": "Klinefelter Syndrome",
+        "description": "A condition with an extra X chromosome in males\nExample: Royal family hemophilia"
+    },
+    {
+        "title": "Turner Syndrome",
+        "description": "A condition where females have only one X chromosome\nExample: Thick mucus in lungs"
+    },
+    {
+        "title": "Polydactyly",
+        "description": "Extra fingers or toes\nExample: White tigers"
+    },
+    {
+        "title": "Hemophilia",
+        "description": "Blood clotting disorder due to a missing protein\nExample: Sickle-shaped RBCs"
+    },
+    {
+        "title": "Cystic Fibrosis",
+        "description": "A disorder affecting lung mucus production\nExample: Duchenne muscular dystrophy"
+    },
+    {
+        "title": "Albinism",
+        "description": "Lack of melanin causing pale skin and vision issues\nExample: Brain lipid accumulation"
+    },
+    {
+        "title": "Sickle Cell Anemia",
+        "description": "Red blood cells becoming sickle-shaped\nExample: Motor dysfunction in adults"
+    },
+    {
+        "title": "Muscular Dystrophy",
+        "description": "Progressive muscle degeneration\nExample: Tall individuals with long limbs"
+    },
+    {
+        "title": "Tay-Sachs Disease",
+        "description": "Lipid accumulation in the brain leading to death\nExample: Phenylalanine buildup"
+    },
+    {
+        "title": "Huntington’s Disease",
+        "description": "A degenerative brain disorder\nExample: Weak muscles in dogs"
+    },
+    {
+        "title": "Marfan Syndrome",
+        "description": "A disorder affecting connective tissue\nExample: Copper buildup in liver"
+    },
+    {
+        "title": "PKU (Phenylketonuria)",
+        "description": "A metabolic disorder affecting phenylalanine breakdown\nExample: Low thyroid hormones"
+    },
+    {
+        "title": "Spinal Muscular Atrophy",
+        "description": "A genetic disorder causing muscle wasting\nExample: Mental impairment"
+    },
+    {
+        "title": "Wilson’s Disease",
+        "description": "Copper metabolism disorder\nExample: Benign tumors on nerves"
+    },
+    {
+        "title": "Congenital Hypothyroidism",
+        "description": "A thyroid hormone deficiency present at birth\nExample: Red-green color blindness"
+    },
+    {
+        "title": "Fragile X Syndrome",
+        "description": "An inherited intellectual disability disorder\nExample: Dwarfism in dogs"
+    },
+    {
+        "title": "Neurofibromatosis",
+        "description": "A genetic disorder causing tumors in the nervous system\nExample: Eye tumor in children"
+    },
+    {
+        "title": "Color Blindness",
+        "description": "A vision disorder where certain colors can't be distinguished\nExample: Short fingers"
+    },
+    {
+        "title": "Achondroplasia",
+        "description": "A disorder causing short-limbed dwarfism\nExample: Cat-like cry in infants"
+    },
+    {
+        "title": "Retinoblastoma",
+        "description": "A childhood eye cancer\nExample: Insatiable hunger"
+    },
+    {
+        "title": "Brachydactyly",
+        "description": "A condition causing short, broad fingers\nExample: Frequent laughter"
+    },
+    {
+        "title": "Cri-du-chat Syndrome",
+        "description": "A chromosomal deletion disorder affecting development\nExample: Hyperflexible joints"
+    },
+    {
+        "title": "Prader-Willi Syndrome",
+        "description": "A disorder causing excessive hunger and obesity\nExample: Hearing loss and blue eyes"
+    },
+    {
+        "title": "Angelman Syndrome",
+        "description": "A disorder causing developmental delays and laughter\nExample: Bone marrow failure"
+    },
+    {
+        "title": "Ehlers-Danlos Syndrome",
+        "description": "A disorder affecting connective tissue flexibility\nExample: Enlarged liver"
+    },
+    {
+        "title": "Waardenburg Syndrome",
+        "description": "A disorder affecting hearing and pigmentation\nExample: Seizures in German Shepherds"
+    },
+    {
+        "title": "Fanconi Anemia",
+        "description": "A disorder causing bone marrow failure\nExample: Kidney cysts in Persian cats"
+    },
+    {
+        "title": "Gaucher’s Disease",
+        "description": "A disorder affecting lipid metabolism\nExample: Small ponies"
+    },
+    {
+        "title": "Canine Epilepsy",
+        "description": "A hereditary seizure disorder in dogs\nExample: PSS in pigs"
+    },
+    {
+        "title": "Feline Polycystic Kidney Disease",
+        "description": "A genetic kidney disease in cats\nExample: Immune deficiency in cattle"
+    },
+    {
+        "title": "Equine Dwarfism",
+        "description": "A dwarfism condition in horses\nExample: Dolly the sheep"
+    },
+    {
+        "title": "Porcine Stress Syndrome",
+        "description": "A stress-related muscle disorder in pigs\nExample: Cloning livestock"
+    },
+    {
+        "title": "Bovine Leukocyte Adhesion Deficiency",
+        "description": "An immune system disorder in cattle\nExample: Stem cell research"
+    },
+    {
+        "title": "Somatic Cell Nuclear Transfer",
+        "description": "A cloning technique transferring a nucleus from a somatic cell into an egg cell\nExample: Curing genetic disorders"
+    },
+    {
+        "title": "Reproductive Cloning",
+        "description": "Cloning to create an identical organism\nExample: Bt cotton"
+    },
+    {
+        "title": "Therapeutic Cloning",
+        "description": "Cloning for medical treatments\nExample: GloFish"
+    },
+    {
+        "title": "Gene Therapy",
+        "description": "Treatment by correcting defective genes\nExample: Knockout mice"
+    },
+    {
+        "title": "Genetically Modified Organism (GMO)",
+        "description": "Organism modified with foreign DNA\nExample: CRISPR gene therapy"
+    },
+    {
+        "title": "Transgenic Animal",
+        "description": "Animal with genes from another species\nExample: Editing disease genes"
+    },
+    {
+        "title": "Knockout Gene",
+        "description": "Gene intentionally deactivated\nExample: Crime scene DNA analysis"
+    },
+    {
+        "title": "Gene Editing",
+        "description": "Altering genes for specific traits\nExample: Insulin production in goats"
+    },
+    {
+        "title": "CRISPR-Cas9",
+        "description": "Tool for precise DNA modification\nExample: Biotech fermentation"
+    },
+    {
+        "title": "DNA Fingerprinting",
+        "description": "DNA analysis for identification\nExample: Regenerating tissues"
+    },
+    {
+        "title": "Biopharming",
+        "description": "Using animals to produce pharmaceuticals\nExample: Embryo-derived stem cells"
+    },
+    {
+        "title": "Bioreactor",
+        "description": "System for growing biotech products\nExample: Reprogrammed skin cells"
+    },
+    {
+        "title": "Stem Cell Therapy",
+        "description": "Using stem cells for regeneration\nExample: Plasmid cloning"
+    },
+    {
+        "title": "Embryonic Stem Cells",
+        "description": "Cells from embryos capable of becoming any cell\nExample: Bacterial plasmids"
+    },
+    {
+        "title": "Induced Pluripotent Stem Cells (iPSCs)",
+        "description": "Adult cells reprogrammed to stem-like state\nExample: Forensic DNA testing"
+    },
+    {
+        "title": "Cloning Vector",
+        "description": "DNA molecule carrying foreign DNA\nExample: DNA profiling"
+    },
+    {
+        "title": "Plasmid",
+        "description": "Small circular DNA in bacteria\nExample: Genetic screening"
+    },
+    {
+        "title": "Polymerase Chain Reaction (PCR)",
+        "description": "Technique to amplify DNA\nExample: GM mouse production"
+    },
+    {
+        "title": "Gel Electrophoresis",
+        "description": "Method to separate DNA fragments\nExample: Introducing DNA via electricity"
+    },
+    {
+        "title": "Southern Blot",
+        "description": "Technique to detect specific DNA sequences\nExample: Silencing viral genes"
+    },
+    {
+        "title": "Microinjection",
+        "description": "Direct injection of DNA into cells\nExample: Genetic research"
+    },
+    {
+        "title": "Electroporation",
+        "description": "Using electricity to introduce DNA into cells\nExample: X-chromosome inactivation"
+    },
+    {
+        "title": "Gene Silencing",
+        "description": "Shutting down gene expression\nExample: Cancer epigenetics"
+    },
+    {
+        "title": "RNA Interference (RNAi)",
+        "description": "Using small RNA molecules to block gene function\nExample: Histone acetylation"
+    },
+    {
+        "title": "Epigenetic Modification",
+        "description": "Changes to gene expression without altering DNA sequence\nExample: Human genome library"
+    },
+    {
+        "title": "DNA Methylation",
+        "description": "Adding methyl groups to DNA to regulate genes\nExample: Hybridoma cell lines"
+    },
+    {
+        "title": "Histone Modification",
+        "description": "Modifying histones to influence gene activity\nExample: Therapeutic antibodies"
+    },
+    {
+        "title": "Genomic Library",
+        "description": "Collection of cloned DNA fragments\nExample: Pig organ transplants"
+    },
+    {
+        "title": "Hybridoma Technology",
+        "description": "Fusing cells to produce hybrid antibodies\nExample: Tracking cancer cells"
+    },
+    {
+        "title": "Monoclonal Antibodies",
+        "description": "Antibodies from a single cell clone\nExample: Building artificial genes"
+    },
+    {
+        "title": "Xenotransplantation",
+        "description": "Transplanting animal organs into humans\nExample: Improving enzymes"
+    },
+    {
+        "title": "Bioluminescence Imaging",
+        "description": "Using glowing proteins to track genes\nExample: Human genome sequencing"
+    },
+    {
+        "title": "Synthetic Biology",
+        "description": "Designing new biological systems\nExample: Microbial community sequencing"
+    },
+    {
+        "title": "Protein Engineering",
+        "description": "Modifying proteins for specific functions\nExample: Malaria gene drive"
+    },
+    {
+        "title": "DNA Sequencing",
+        "description": "Determining the sequence of DNA bases\nExample: Cancer biomarkers"
+    },
+    {
+        "title": "Whole Genome Sequencing",
+        "description": "Sequencing the entire genome\nExample: Genomic medicine"
+    },
+    {
+        "title": "Metagenomics",
+        "description": "Studying genetic material from environmental samples\nExample: Human cloning debate"
+    },
+    {
+        "title": "Gene Drive",
+        "description": "Spreading genetic modifications in populations\nExample: FDA regulations"
+    },
+    {
+        "title": "Biomarker",
+        "description": "Molecule indicating disease or condition\nExample: Laboratory safety"
+    },
+    {
+        "title": "Personalized Medicine",
+        "description": "Tailoring treatments to an individual's genes\nExample: Milk-producing GM cows"
+    },
+    {
+        "title": "Cloning Ethics",
+        "description": "Debates over cloning morality\nExample: 3D-printed tissues"
+    }
+]

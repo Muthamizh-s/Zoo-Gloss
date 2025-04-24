@@ -1,0 +1,414 @@
+[
+    {
+        "title": "Neuroethology",
+        "description": "Study of how neural mechanisms control behavior\nExample: Studying bird song neural mechanisms"
+    },
+    {
+        "title": "Sensory processing",
+        "description": "How animals process sensory inputs\nExample: Analyzing bat echolocation"
+    },
+    {
+        "title": "Neural circuits",
+        "description": "Networks of neurons performing specific functions\nExample: Neurons in spinal reflex arcs"
+    },
+    {
+        "title": "Electroreception",
+        "description": "Sensing electrical fields\nExample: Electric fish sensing environment"
+    },
+    {
+        "title": "Echolocation",
+        "description": "Using sound to locate objects\nExample: Bats navigating in the dark"
+    },
+    {
+        "title": "Magnetoreception",
+        "description": "Detecting Earth's magnetic field\nExample: Bird migration using Earth's magnetic field"
+    },
+    {
+        "title": "Behavioral ecology",
+        "description": "Interaction of behavior and environment\nExample: Investigating predator avoidance"
+    },
+    {
+        "title": "Action potential",
+        "description": "Electrical signal in neurons\nExample: Neuron firing during reflex"
+    },
+    {
+        "title": "Synaptic plasticity",
+        "description": "Ability of synapses to change\nExample: Changes in learning synapses"
+    },
+    {
+        "title": "Neurotransmitters",
+        "description": "Chemical messengers in the nervous system\nExample: Dopamine signaling in rewards"
+    },
+    {
+        "title": "Olfactory processing",
+        "description": "Processing smells\nExample: Dogs detecting odors"
+    },
+    {
+        "title": "Auditory localization",
+        "description": "Determining sound origin\nExample: Owls localizing prey by sound"
+    },
+    {
+        "title": "Visual perception",
+        "description": "Interpreting visual information\nExample: Processing images in primates"
+    },
+    {
+        "title": "Motor control",
+        "description": "Control of movement\nExample: Limb movement in walking"
+    },
+    {
+        "title": "Central pattern generator",
+        "description": "Neurons generating rhythmic patterns\nExample: Breathing rhythm control in the brainstem"
+    },
+    {
+        "title": "Neural adaptation",
+        "description": "Adjustment of neurons to stimuli\nExample: Eye adaptation to darkness"
+    },
+    {
+        "title": "Reflex arcs",
+        "description": "Simple neural responses\nExample: Knee-jerk reflex"
+    },
+    {
+        "title": "Brain plasticity",
+        "description": "Brain's ability to reorganize\nExample: Brain rewiring after injury"
+    },
+    {
+        "title": "Cognitive mapping",
+        "description": "Mental representation of spaces\nExample: Rats navigating mazes"
+    },
+    {
+        "title": "Spatial memory",
+        "description": "Memory of spatial locations\nExample: Birds remembering food cache locations"
+    },
+    {
+        "title": "Escape behavior",
+        "description": "Quick escape mechanisms\nExample: Fish escaping predators"
+    },
+    {
+        "title": "Predator evasion",
+        "description": "Avoiding predators\nExample: Rabbits evading foxes"
+    },
+    {
+        "title": "Courtship display",
+        "description": "Mating behaviors\nExample: Peacocks displaying feathers"
+    },
+    {
+        "title": "Social signaling",
+        "description": "Signals for social interaction\nExample: Honeybee waggle dance"
+    },
+    {
+        "title": "Proprioception",
+        "description": "Sense of body position\nExample: Standing balance while walking"
+    },
+    {
+        "title": "Multisensory integration",
+        "description": "Combining inputs from multiple senses\nExample: Combining sight and sound in owls"
+    },
+    {
+        "title": "Neuroethological model",
+        "description": "Animal models for neural behavior studies\nExample: Using mice for vision studies"
+    },
+    {
+        "title": "Neural encoding",
+        "description": "Representation of stimuli by neurons\nExample: Visual cortex encoding patterns"
+    },
+    {
+        "title": "Learning and memory",
+        "description": "Processes of learning and memory\nExample: Memory in honeybees"
+    },
+    {
+        "title": "Homing behavior",
+        "description": "Return to a specific location\nExample: Pigeons returning to nests"
+    },
+    {
+        "title": "Neural oscillations",
+        "description": "Rhythmic neuronal activity\nExample: Brain waves during sleep"
+    },
+    {
+        "title": "Neural computation",
+        "description": "Mathematical processing by neurons\nExample: Visual processing in frog retina"
+    },
+    {
+        "title": "Neuroethological techniques",
+        "description": "Methods for studying neural behavior\nExample: EEG to study neural activity"
+    },
+    {
+        "title": "Electrophysiology",
+        "description": "Recording electrical signals in neurons\nExample: MRI scanning brain areas"
+    },
+    {
+        "title": "Neuroimaging",
+        "description": "Imaging brain activity\nExample: Classical conditioning in Pavlov's dogs"
+    },
+    {
+        "title": "Behavioral conditioning",
+        "description": "Learning behavior through stimuli\nExample: Sleep-wake cycles in mammals"
+    },
+    {
+        "title": "Circadian rhythms",
+        "description": "Daily biological rhythms\nExample: Light-sensitive retinal neurons"
+    },
+    {
+        "title": "Sensory neurons",
+        "description": "Neurons detecting sensory input\nExample: Neurons linking sensory and motor"
+    },
+    {
+        "title": "Interneurons",
+        "description": "Neurons connecting other neurons\nExample: Motor cortex neurons controlling hands"
+    },
+    {
+        "title": "Motor neurons",
+        "description": "Neurons causing movements\nExample: Serotonin modulating mood"
+    },
+    {
+        "title": "Neuromodulation",
+        "description": "Modifying neuronal activity\nExample: Spinal cord pathways"
+    },
+    {
+        "title": "Neural pathways",
+        "description": "Connections transmitting signals\nExample: Birds changing song patterns"
+    },
+    {
+        "title": "Behavioral plasticity",
+        "description": "Behavior changes with experience\nExample: Squirrels searching for nuts"
+    },
+    {
+        "title": "Foraging behavior",
+        "description": "Behavior related to feeding\nExample: Foxes stalking rabbits"
+    },
+    {
+        "title": "Predator-prey dynamics",
+        "description": "Interaction between predator and prey\nExample: Filtering background noise"
+    },
+    {
+        "title": "Sensory filtering",
+        "description": "Ignoring irrelevant sensory inputs\nExample: Jumping when startled"
+    },
+    {
+        "title": "Stimulus-response mechanism",
+        "description": "Direct response to a stimulus\nExample: Amygdala in fear response"
+    },
+    {
+        "title": "Neural substrates",
+        "description": "Brain areas associated with behavior\nExample: Monkeys solving puzzles"
+    },
+    {
+        "title": "Cognitive ethology",
+        "description": "Study of animal cognition\nExample: Birdsong during mating"
+    },
+    {
+        "title": "Auditory communication",
+        "description": "Communication using sounds\nExample: Development of optic nerves"
+    },
+    {
+        "title": "Neural development",
+        "description": "Development of neural systems\nExample: Cats tracking prey movement"
+    },
+    {
+        "title": "Visual tracking",
+        "description": "Tracking objects visually\nExample: No example available"
+    },
+    {
+        "title": "Neural integration",
+        "description": "Processing multiple neural signals\nExample: Combining visual and auditory inputs"
+    },
+    {
+        "title": "Sensory modalities",
+        "description": "Different types of sensory inputs\nExample: Hearing, vision, touch in animals"
+    },
+    {
+        "title": "Neuroethological experiments",
+        "description": "Testing neural and behavioral interactions\nExample: Testing predator responses"
+    },
+    {
+        "title": "Electrocommunication",
+        "description": "Communication using electric signals\nExample: Electric eels communicating"
+    },
+    {
+        "title": "Chemoreception",
+        "description": "Detecting chemical stimuli\nExample: Dogs detecting scents"
+    },
+    {
+        "title": "Photoreception",
+        "description": "Responding to light stimuli\nExample: Insects detecting light"
+    },
+    {
+        "title": "Mechanoreception",
+        "description": "Detecting mechanical changes\nExample: Frogs sensing vibrations"
+    },
+    {
+        "title": "Thermoreception",
+        "description": "Sensing temperature changes\nExample: Snakes detecting heat"
+    },
+    {
+        "title": "Neural representation",
+        "description": "Brain's organization of stimuli\nExample: Brain mapping touch and vision"
+    },
+    {
+        "title": "Behavioral circuits",
+        "description": "Neural networks linked to behavior\nExample: Circuits controlling bird songs"
+    },
+    {
+        "title": "Escape reflexes",
+        "description": "Quick reflex responses\nExample: Frogs jumping when threatened"
+    },
+    {
+        "title": "Neuroplasticity",
+        "description": "Brain's ability to change connections\nExample: Birdsong changes with learning"
+    },
+    {
+        "title": "Auditory cortex",
+        "description": "Area processing sound information\nExample: Identifying sound in owls"
+    },
+    {
+        "title": "Somatosensory cortex",
+        "description": "Brain area processing touch\nExample: Sensing touch in primates"
+    },
+    {
+        "title": "Neural tuning",
+        "description": "Neurons responding to specific frequencies\nExample: Frequencies processed in bats"
+    },
+    {
+        "title": "Stimulus generalization",
+        "description": "Transferring learned responses\nExample: Adapting to new smells"
+    },
+    {
+        "title": "Motor coordination",
+        "description": "Coordination of muscle movements\nExample: Coordinating swimming in fish"
+    },
+    {
+        "title": "Neural inhibition",
+        "description": "Suppressing neuron activity\nExample: Neural suppression in reflexes"
+    },
+    {
+        "title": "Neural excitation",
+        "description": "Activating neuron activity\nExample: Excitation in sensory neurons"
+    },
+    {
+        "title": "Neurodevelopmental processes",
+        "description": "Development of the nervous system\nExample: Formation of neural synapses"
+    },
+    {
+        "title": "Cognitive processing",
+        "description": "Thinking and decision making\nExample: Problem-solving in primates"
+    },
+    {
+        "title": "Hippocampal navigation",
+        "description": "Hippocampus guiding spatial navigation\nExample: Rats navigating mazes using hippocampus"
+    },
+    {
+        "title": "Neural coding",
+        "description": "Encoding sensory information in the brain\nExample: Encoding odors in the brain"
+    },
+    {
+        "title": "Behavioral response latency",
+        "description": "Time delay in behavior after stimulus\nExample: Delay in fish escaping after sensing danger"
+    },
+    {
+        "title": "Innate behavior",
+        "description": "Inborn behaviors\nExample: Spiders building webs"
+    },
+    {
+        "title": "Learned behavior",
+        "description": "Behaviors acquired from experience\nExample: Birds learning songs"
+    },
+    {
+        "title": "Sensory threshold",
+        "description": "Minimum stimulus needed for detection\nExample: Detecting faint smells"
+    },
+    {
+        "title": "Sensory transduction",
+        "description": "Conversion of stimuli to neural signals\nExample: Photoreceptors in eyes"
+    },
+    {
+        "title": "Behavioral rhythms",
+        "description": "Regular patterns in behavior\nExample: Circadian sleep cycles"
+    },
+    {
+        "title": "Neural networks",
+        "description": "Interconnected neurons processing inputs\nExample: Neurons in retina processing light"
+    },
+    {
+        "title": "Perception-action loop",
+        "description": "Loop between sensing and acting\nExample: Lions sensing prey and acting"
+    },
+    {
+        "title": "Neuroethological modeling",
+        "description": "Using models for behavior prediction\nExample: Predicting frog escape behavior"
+    },
+    {
+        "title": "Neural correlates",
+        "description": "Brain areas linked to behavior\nExample: Brain activity linked to memory"
+    },
+    {
+        "title": "Visual system",
+        "description": "Neurons involved in vision\nExample: Eagle vision neurons"
+    },
+    {
+        "title": "Tactile sensing",
+        "description": "Sensing through touch\nExample: Cat whisker sensitivity"
+    },
+    {
+        "title": "Acoustic signaling",
+        "description": "Producing sound signals\nExample: Dolphins communicating via clicks"
+    },
+    {
+        "title": "Pheromone signaling",
+        "description": "Using scents for communication\nExample: Ants detecting pheromones"
+    },
+    {
+        "title": "Predator recognition",
+        "description": "Recognizing predators from cues\nExample: Deer recognizing predators"
+    },
+    {
+        "title": "Prey capture",
+        "description": "Capturing prey using senses\nExample: Owls catching mice in the dark"
+    },
+    {
+        "title": "Behavioral sequencing",
+        "description": "Organized patterns of actions\nExample: Hunting sequences in cheetahs"
+    },
+    {
+        "title": "Neural efficiency",
+        "description": "Effective use of neural resources\nExample: Efficient energy use by neurons"
+    },
+    {
+        "title": "Neurochemical pathways",
+        "description": "Chemical messengers affecting behavior\nExample: Dopamine in reward pathways"
+    },
+    {
+        "title": "Behavioral reinforcement",
+        "description": "Learning by rewards\nExample: Rats pressing levers for food"
+    },
+    {
+        "title": "Conditioned reflexes",
+        "description": "Conditioned response to stimuli\nExample: Pavlov's dogs salivating"
+    },
+    {
+        "title": "Habituation",
+        "description": "Decreased response to repeated stimuli\nExample: Ignoring repetitive background noise"
+    },
+    {
+        "title": "Neural plasticity mechanisms",
+        "description": "Mechanisms enabling brain adaptation\nExample: Brain reorganization in blind individuals"
+    },
+    {
+        "title": "Sensory deprivation",
+        "description": "Reduced input from a sense\nExample: Fish in dark caves adapting"
+    },
+    {
+        "title": "Behavioral optimization",
+        "description": "Improving behaviors for survival\nExample: Chimps optimizing tool use"
+    },
+    {
+        "title": "Social behaviors",
+        "description": "Interactions in social groups\nExample: Wolves interacting in packs"
+    },
+    {
+        "title": "Communication pathways",
+        "description": "Routes for communication\nExample: Neuron pathways for bird calls"
+    },
+    {
+        "title": "Neural lateralization",
+        "description": "Division of brain function by side\nExample: Humans using dominant hand"
+    }
+]

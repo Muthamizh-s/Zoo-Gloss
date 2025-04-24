@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Ornithology",
+        "description": "The scientific study of birds, including their biology and behavior.\nExample: Bird Science"
+    },
+    {
+        "title": "Avian Evolution",
+        "description": "The evolutionary history and origin of birds from reptilian ancestors.\nExample: Dinosaur-Bird Connection"
+    },
+    {
+        "title": "Feathers",
+        "description": "Specialized structures made of keratin that aid in flight and insulation.\nExample: Eagle Feathers"
+    },
+    {
+        "title": "Flight Adaptations",
+        "description": "Structural and physiological traits enabling birds to fly.\nExample: Hummingbird Wings"
+    },
+    {
+        "title": "Avian Skeletal System",
+        "description": "The lightweight, fused bone structure that supports flight.\nExample: Hollow Bones"
+    },
+    {
+        "title": "Bird Respiration",
+        "description": "A highly efficient respiratory system that allows sustained flight.\nExample: Air Sacs in Birds"
+    },
+    {
+        "title": "Endothermy",
+        "description": "The ability to maintain a constant body temperature internally.\nExample: Warm-Blooded Birds"
+    },
+    {
+        "title": "Avian Brain",
+        "description": "The advanced brain structure in birds supporting learning and navigation.\nExample: Crow Intelligence"
+    },
+    {
+        "title": "Beak Adaptations",
+        "description": "Modifications of the beak for feeding on various food sources.\nExample: Hawk Beak Shape"
+    },
+    {
+        "title": "Bird Vision",
+        "description": "Exceptional vision adapted for detecting prey and navigation.\nExample: Owl Night Vision"
+    },
+    {
+        "title": "Bird Hearing",
+        "description": "Highly developed hearing, crucial for communication and hunting.\nExample: Parrot Sound Detection"
+    },
+    {
+        "title": "Plumage",
+        "description": "Colorful or cryptic feather patterns used for signaling and camouflage.\nExample: Peacock Feathers"
+    },
+    {
+        "title": "Molting",
+        "description": "The process of shedding old feathers to grow new ones.\nExample: Eagle Molting"
+    },
+    {
+        "title": "Migratory Behavior",
+        "description": "The periodic, large-scale movement of birds between breeding and wintering grounds.\nExample: Swallow Migration"
+    },
+    {
+        "title": "Seasonal Migration",
+        "description": "The seasonal relocation of birds to exploit different climates and resources.\nExample: Arctic Tern Travel"
+    },
+    {
+        "title": "Navigation in Birds",
+        "description": "The mechanisms birds use to find their way during migration.\nExample: Pigeon Homing Instinct"
+    },
+    {
+        "title": "Magnetoreception",
+        "description": "The ability to detect Earth's magnetic field for orientation.\nExample: Migratory Compass"
+    },
+    {
+        "title": "Bird Banding",
+        "description": "The practice of tagging birds to study migration and lifespan.\nExample: Tracking Bird Movements"
+    },
+    {
+        "title": "Stopover Sites",
+        "description": "Critical resting and feeding areas used by migratory birds.\nExample: Wetland Rest Areas"
+    },
+    {
+        "title": "Flyways",
+        "description": "Well-defined flight paths used by migratory birds.\nExample: Pacific Flyway"
+    },
+    {
+        "title": "Resident Birds",
+        "description": "Birds that stay in one location year-round.\nExample: City Pigeons"
+    },
+    {
+        "title": "Altitudinal Migration",
+        "description": "The movement of birds up and down mountains based on seasons.\nExample: Mountain Quails"
+    },
+    {
+        "title": "Partial Migration",
+        "description": "A migration pattern where only some individuals migrate.\nExample: European Robins"
+    },
+    {
+        "title": "Nomadic Movement",
+        "description": "Irregular movement patterns in response to food availability.\nExample: Waxwing Movements"
+    },
+    {
+        "title": "Avian Ecology",
+        "description": "The interactions between birds and their environment.\nExample: Tropical Rainforest Birds"
+    },
+    {
+        "title": "Bird Nesting",
+        "description": "The construction and selection of nests for egg-laying.\nExample: Sparrow Nests"
+    },
+    {
+        "title": "Egg Incubation",
+        "description": "The period of warming and protecting eggs until hatching.\nExample: Penguin Egg Care"
+    },
+    {
+        "title": "Brood Parasitism",
+        "description": "A reproductive strategy where birds lay eggs in other birds' nests.\nExample: Cuckoo Egg Laying"
+    },
+    {
+        "title": "Precocial Chicks",
+        "description": "Hatchlings born with feathers and mobility.\nExample: Ducklings"
+    },
+    {
+        "title": "Altricial Chicks",
+        "description": "Hatchlings born blind and dependent on parental care.\nExample: Songbird Nestlings"
+    },
+    {
+        "title": "Clutch Size",
+        "description": "The number of eggs laid per nesting attempt.\nExample: Owl Egg Clutch"
+    },
+    {
+        "title": "Courtship Displays",
+        "description": "Elaborate visual and auditory performances to attract mates.\nExample: Bird-of-Paradise Display"
+    },
+    {
+        "title": "Song Learning",
+        "description": "The ability of birds to learn songs from conspecifics.\nExample: Mockingbird Song Learning"
+    },
+    {
+        "title": "Bird Territoriality",
+        "description": "The defense of an area against rivals for nesting and feeding.\nExample: Robin Territory Defense"
+    },
+    {
+        "title": "Parental Care",
+        "description": "Care provided by bird parents to their young.\nExample: Flamingo Parenting"
+    },
+    {
+        "title": "Raptors",
+        "description": "Birds of prey with sharp talons and keen vision.\nExample: Bald Eagles"
+    },
+    {
+        "title": "Shorebirds",
+        "description": "Birds adapted to coastal and wetland environments.\nExample: Sandpipers"
+    },
+    {
+        "title": "Waterfowl",
+        "description": "Ducks, geese, and swans that inhabit aquatic habitats.\nExample: Mallard Ducks"
+    },
+    {
+        "title": "Passerines",
+        "description": "Perching birds that often have complex vocalizations.\nExample: Sparrows"
+    },
+    {
+        "title": "Non-Passerines",
+        "description": "Birds that do not belong to the passerine group.\nExample: Parrots"
+    },
+    {
+        "title": "Bird Extinction",
+        "description": "The disappearance of bird species due to environmental changes.\nExample: Dodo Extinction"
+    },
+    {
+        "title": "Fossil Birds",
+        "description": "Ancient birds known from fossil records.\nExample: Fossilized Bird Imprints"
+    },
+    {
+        "title": "Archaeopteryx",
+        "description": "A transitional fossil between dinosaurs and modern birds.\nExample: Archaeopteryx Fossils"
+    },
+    {
+        "title": "Avian Dinosaurs",
+        "description": "Dinosaur ancestors that gave rise to birds.\nExample: Feathered Raptors"
+    },
+    {
+        "title": "Neornithes",
+        "description": "A clade that includes all modern birds.\nExample: Modern Birds"
+    },
+    {
+        "title": "Adaptive Radiation in Birds",
+        "description": "Rapid evolution of bird species into diverse forms.\nExample: Darwin’s Finches"
+    },
+    {
+        "title": "Island Biogeography",
+        "description": "The study of bird distributions on islands.\nExample: Galápagos Island Birds"
+    },
+    {
+        "title": "Speciation in Birds",
+        "description": "The formation of new bird species over time.\nExample: Hawaiian Honeycreepers"
+    },
+    {
+        "title": "Bird Phylogeny",
+        "description": "The evolutionary relationships among bird species.\nExample: Avian Family Tree"
+    },
+    {
+        "title": "Avian Taxonomy",
+        "description": "The classification and naming of bird species.\nExample: Taxonomic Bird Orders"
+    },
+    {
+        "title": "Bird Song",
+        "description": "Complex vocalizations used for territory defense and mate attraction.\nExample: Nightingale Song"
+    },
+    {
+        "title": "Call Notes",
+        "description": "Simple sounds used for communication among flock members.\nExample: Sparrow Chirps"
+    },
+    {
+        "title": "Alarm Calls",
+        "description": "Sharp sounds to alert others of danger.\nExample: Robin Alarm Call"
+    },
+    {
+        "title": "Mimicry in Birds",
+        "description": "The ability to copy sounds from other species.\nExample: Mockingbird Imitations"
+    },
+    {
+        "title": "Vocal Learning",
+        "description": "Learning vocalizations from parents or conspecifics.\nExample: Lyrebird Mimicry"
+    },
+    {
+        "title": "Duetting",
+        "description": "Pairs of birds singing together in synchrony.\nExample: Lovebird Duets"
+    },
+    {
+        "title": "Non-Vocal Communication",
+        "description": "Communication using body movements and feather displays.\nExample: Peacock Feather Displays"
+    },
+    {
+        "title": "Territorial Calls",
+        "description": "Sounds produced to warn intruders.\nExample: Crow Warning Calls"
+    },
+    {
+        "title": "Nestling Begging Calls",
+        "description": "Sounds made by chicks to beg for food.\nExample: Hatchling Hunger Calls"
+    },
+    {
+        "title": "Courtship Songs",
+        "description": "Elaborate vocal performances used in courtship.\nExample: Warbler Serenades"
+    },
+    {
+        "title": "Bird Dialects",
+        "description": "Regional variations in bird songs.\nExample: Canary Accents"
+    },
+    {
+        "title": "Sonation",
+        "description": "Non-vocal sounds made by wings or feathers.\nExample: Hummingbird Wing Sounds"
+    },
+    {
+        "title": "Syrinx",
+        "description": "The vocal organ of birds, responsible for sound production.\nExample: Goose Syrinx"
+    },
+    {
+        "title": "Avian Communication",
+        "description": "Various forms of bird communication.\nExample: Parrot Conversations"
+    },
+    {
+        "title": "Songbird Repertoire",
+        "description": "The variety of songs a songbird can sing.\nExample: Blackbird Song Variety"
+    },
+    {
+        "title": "Social Learning in Birds",
+        "description": "Passing down knowledge through observation and imitation.\nExample: Owl Teaching Behavior"
+    },
+    {
+        "title": "Group Living",
+        "description": "Living in organized bird communities.\nExample: Penguin Colonies"
+    },
+    {
+        "title": "Flocking Behavior",
+        "description": "Large groups of birds moving together for safety and foraging.\nExample: Starling Murmurations"
+    },
+    {
+        "title": "Mixed-Species Flocks",
+        "description": "Flocks containing different species for mutual benefits.\nExample: Jungle Bird Mixes"
+    },
+    {
+        "title": "Colonial Nesting",
+        "description": "Birds nesting in large communal areas.\nExample: Flamingo Nesting Sites"
+    },
+    {
+        "title": "Predator Mobbing",
+        "description": "Cooperative aggression against predators.\nExample: Hawk Mob Attacks"
+    },
+    {
+        "title": "Foraging Strategies",
+        "description": "Techniques birds use to find food.\nExample: Kingfisher Hunting"
+    },
+    {
+        "title": "Cooperative Breeding",
+        "description": "Birds raising young in cooperative groups.\nExample: Bee-Eater Social Care"
+    },
+    {
+        "title": "Monogamy in Birds",
+        "description": "Pair bonding for breeding season or life.\nExample: Swan Mates for Life"
+    },
+    {
+        "title": "Polygamy in Birds",
+        "description": "Having multiple mates in a breeding season.\nExample: Red-Winged Blackbird Harems"
+    },
+    {
+        "title": "Lek Mating",
+        "description": "Males displaying in groups to attract females.\nExample: Sage Grouse Leks"
+    },
+    {
+        "title": "Sexual Selection in Birds",
+        "description": "Selection of traits that increase reproductive success.\nExample: Peacock Tail Displays"
+    },
+    {
+        "title": "Dimorphism in Birds",
+        "description": "Physical differences between male and female birds.\nExample: Eagle Sex Differences"
+    },
+    {
+        "title": "Brood Reduction",
+        "description": "Reduction in clutch size due to limited resources.\nExample: Heron Egg Reduction"
+    },
+    {
+        "title": "Siblicide",
+        "description": "Killing of weaker siblings in the nest.\nExample: Booby Chick Conflict"
+    },
+    {
+        "title": "Bird Longevity",
+        "description": "The lifespan of birds in the wild and captivity.\nExample: Albatross Old Age"
+    },
+    {
+        "title": "Seasonal Plumage Changes",
+        "description": "Seasonal feather color changes.\nExample: Snow Bunting Winter Feathers"
+    },
+    {
+        "title": "Bird Migration Tracking",
+        "description": "Monitoring bird migration using modern technology.\nExample: Satellite Tracking"
+    },
+    {
+        "title": "Telemetry in Birds",
+        "description": "Using GPS and radio tracking to study birds.\nExample: Peregrine Falcon GPS Study"
+    },
+    {
+        "title": "Radar Ornithology",
+        "description": "Using radar to detect bird movements.\nExample: Radar Bird Migration"
+    },
+    {
+        "title": "Climate Change and Birds",
+        "description": "Effects of climate shifts on bird populations.\nExample: Arctic Bird Decline"
+    },
+    {
+        "title": "Urban Adaptations",
+        "description": "How birds adapt to city life.\nExample: Pigeon City Nests"
+    },
+    {
+        "title": "Birds and Agriculture",
+        "description": "Bird interactions with farming and pest control.\nExample: Barn Owl Farmland"
+    },
+    {
+        "title": "Birdwatching",
+        "description": "Observing and identifying birds as a hobby.\nExample: Hawk-Watching Events"
+    },
+    {
+        "title": "Citizen Science",
+        "description": "Public participation in bird data collection.\nExample: Christmas Bird Counts"
+    },
+    {
+        "title": "Bird Conservation",
+        "description": "Efforts to protect bird populations.\nExample: Bald Eagle Recovery"
+    },
+    {
+        "title": "Endangered Birds",
+        "description": "Bird species at risk of extinction.\nExample: Kakapo Endangerment"
+    },
+    {
+        "title": "Habitat Fragmentation",
+        "description": "Destruction of bird habitats due to human activities.\nExample: Deforestation and Birds"
+    },
+    {
+        "title": "Invasive Species Impact",
+        "description": "The impact of non-native species on bird communities.\nExample: House Sparrow Invasion"
+    },
+    {
+        "title": "Captive Breeding Programs",
+        "description": "Breeding birds in captivity to prevent extinction.\nExample: Condor Breeding Centers"
+    },
+    {
+        "title": "Reintroduction Efforts",
+        "description": "Releasing captive birds into the wild.\nExample: Whooping Crane Release"
+    },
+    {
+        "title": "Protected Areas",
+        "description": "Setting aside land for bird protection.\nExample: Amazon Bird Reserves"
+    },
+    {
+        "title": "International Bird Treaties",
+        "description": "Global agreements to protect migratory birds.\nExample: Migratory Bird Treaty Act"
+    },
+    {
+        "title": "Ecotourism and Birds",
+        "description": "Tourism focused on bird observation and conservation.\nExample: Birding Tourism"
+    },
+    {
+        "title": "Avian Ethics",
+        "description": "Ethical considerations in bird study and conservation.\nExample: Bird-Friendly Policies"
+    },
+    {
+        "title": "Nest Predation",
+        "description": "Predators consuming bird eggs or chicks.\nExample: Snake Eating Eggs"
+    },
+    {
+        "title": "Bird Brooding",
+        "description": "Keeping eggs warm for incubation.\nExample: Owl Incubation"
+    },
+    {
+        "title": "Cavity Nesters",
+        "description": "Birds that nest inside tree holes or cavities.\nExample: Woodpecker Holes"
+    },
+    {
+        "title": "Ground Nesters",
+        "description": "Birds that lay eggs on the ground.\nExample: Plover Camouflage Nests"
+    },
+    {
+        "title": "Platform Nesters",
+        "description": "Birds that construct large, flat nests.\nExample: Stork Nest Platforms"
+    },
+    {
+        "title": "Cup Nests",
+        "description": "Small, bowl-shaped nests built by many songbirds.\nExample: Robin Cup Nests"
+    },
+    {
+        "title": "Bird Roosting",
+        "description": "Birds gathering in groups to sleep.\nExample: Crow Roosting Groups"
+    },
+    {
+        "title": "Nest Parasitism",
+        "description": "Laying eggs in another bird's nest for incubation.\nExample: Cuckoo Nest Parasitism"
+    },
+    {
+        "title": "Egg Dumping",
+        "description": "Placing eggs in foreign nests without care.\nExample: Duck Egg Dumping"
+    },
+    {
+        "title": "Cliff Nesting",
+        "description": "Birds nesting on cliffs for protection.\nExample: Seagull Cliff Colonies"
+    },
+    {
+        "title": "Colonial Breeding",
+        "description": "Breeding in large social groups.\nExample: Pelican Breeding Colonies"
+    },
+    {
+        "title": "Avian Migration Barriers",
+        "description": "Man-made or natural obstacles affecting migration.\nExample: Mountains Blocking Migration"
+    },
+    {
+        "title": "Bird Wind Collisions",
+        "description": "Birds colliding with wind turbines.\nExample: Eagle Wind Farm Deaths"
+    },
+    {
+        "title": "Glass Window Strikes",
+        "description": "Birds striking reflective glass surfaces.\nExample: Sparrow Window Hits"
+    },
+    {
+        "title": "Light Pollution Effects",
+        "description": "Disruptions in bird migration due to artificial lighting.\nExample: Night Migrants and Lights"
+    },
+    {
+        "title": "Birds and Pesticides",
+        "description": "Effects of chemicals on bird populations.\nExample: DDT and Eagles"
+    },
+    {
+        "title": "Wetland Conservation",
+        "description": "Protection of wetland bird habitats.\nExample: Heron Wetland Habitat"
+    },
+    {
+        "title": "Deforestation Impact",
+        "description": "Loss of forests affecting bird diversity.\nExample: Amazon Deforestation"
+    },
+    {
+        "title": "Grassland Birds",
+        "description": "Birds adapted to open grassland habitats.\nExample: Prairie Chickens"
+    },
+    {
+        "title": "Sea Birds and Pollution",
+        "description": "Seabirds suffering from oceanic pollution.\nExample: Albatross Plastic Intake"
+    },
+    {
+        "title": "Avian Epidemiology",
+        "description": "Study of diseases affecting bird populations.\nExample: Bird Virus Studies"
+    },
+    {
+        "title": "Avian Influenza",
+        "description": "A highly contagious viral disease in birds.\nExample: H5N1 Outbreaks"
+    },
+    {
+        "title": "West Nile Virus in Birds",
+        "description": "A mosquito-borne virus affecting birds.\nExample: Corvid West Nile Deaths"
+    },
+    {
+        "title": "Bird Malaria",
+        "description": "A parasitic disease impacting birds worldwide.\nExample: Hawaiian Bird Malaria"
+    },
+    {
+        "title": "Lead Poisoning in Birds",
+        "description": "Toxicity from ingesting lead-contaminated materials.\nExample: Lead Poisoning in Ducks"
+    },
+    {
+        "title": "Plastic Ingestion in Birds",
+        "description": "Consumption of plastic debris by birds.\nExample: Seagulls Eating Plastic"
+    },
+    {
+        "title": "Oil Spills and Birds",
+        "description": "Oil pollution harming seabirds.\nExample: Pelicans in Oil Spills"
+    },
+    {
+        "title": "Seabird Declines",
+        "description": "Decline of seabird populations due to environmental stressors.\nExample: Puffin Declines"
+    },
+    {
+        "title": "Urban Noise and Birds",
+        "description": "Impact of city noise on bird communication.\nExample: City Noise Affecting Songs"
+    },
+    {
+        "title": "Bird-Friendly Architecture",
+        "description": "Architectural designs that prevent bird collisions.\nExample: Glass Panel Prevention"
+    },
+    {
+        "title": "Artificial Nesting Sites",
+        "description": "Artificial nesting aids for bird conservation.\nExample: Swift Nesting Boxes"
+    },
+    {
+        "title": "Pollinator Birds",
+        "description": "Birds that assist in pollination.\nExample: Hummingbirds and Flowers"
+    },
+    {
+        "title": "Frugivorous Birds",
+        "description": "Birds that consume and disperse fruit seeds.\nExample: Toucans and Seed Dispersal"
+    },
+    {
+        "title": "Granivorous Birds",
+        "description": "Birds that primarily eat seeds.\nExample: Finch Beak Adaptations"
+    },
+    {
+        "title": "Carnivorous Birds",
+        "description": "Birds that prey on other animals.\nExample: Hawks Hunting Prey"
+    },
+    {
+        "title": "Scavenging Birds",
+        "description": "Birds feeding on carrion.\nExample: Vulture Carrion Consumption"
+    },
+    {
+        "title": "Nocturnal Birds",
+        "description": "Birds active at night.\nExample: Owl Night Adaptations"
+    },
+    {
+        "title": "Diurnal Birds",
+        "description": "Birds active during the day.\nExample: Eagle Day Hunting"
+    },
+    {
+        "title": "Crepuscular Birds",
+        "description": "Birds active at dawn and dusk.\nExample: Nighthawk Dusk Activity"
+    },
+    {
+        "title": "Avian Sleep Patterns",
+        "description": "Patterns of sleep in different bird species.\nExample: REM Sleep in Birds"
+    },
+    {
+        "title": "Bird Hibernation",
+        "description": "Deep sleep-like state in some birds.\nExample: Hummingbird Hibernation"
+    },
+    {
+        "title": "Torpor in Birds",
+        "description": "Temporary metabolic slowdown for survival.\nExample: Poorwill Torpor"
+    },
+    {
+        "title": "Arctic Birds",
+        "description": "Birds adapted to extreme cold environments.\nExample: Snowy Owl Arctic Life"
+    },
+    {
+        "title": "Desert Bird Adaptations",
+        "description": "Bird adaptations to desert environments.\nExample: Roadrunner Desert Living"
+    },
+    {
+        "title": "Rainforest Bird Diversity",
+        "description": "Diverse bird species found in rainforests.\nExample: Macaw Rainforest Habitat"
+    },
+    {
+        "title": "Island Endemism in Birds",
+        "description": "Bird species unique to islands.\nExample: Kiwi in New Zealand"
+    },
+    {
+        "title": "Bird Ringing",
+        "description": "Tagging birds for scientific research.\nExample: Banding Shorebirds"
+    },
+    {
+        "title": "Satellite Telemetry",
+        "description": "Using satellites to track bird movement.\nExample: Satellite-Tagged Falcons"
+    },
+    {
+        "title": "Eagle Conservation Programs",
+        "description": "Efforts to conserve eagle species.\nExample: Bald Eagle Recovery"
+    },
+    {
+        "title": "Penguin Population Studies",
+        "description": "Studies of penguin populations and threats.\nExample: Emperor Penguin Census"
+    }
+]

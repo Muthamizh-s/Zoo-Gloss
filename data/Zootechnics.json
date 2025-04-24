@@ -1,0 +1,410 @@
+[
+    {
+        "title": "Selective breeding",
+        "description": "Choosing parents to enhance traits\nExample: Selective mating of dairy cows"
+    },
+    {
+        "title": "Inbreeding",
+        "description": "Mating related individuals\nExample: Breeding close relatives in dogs"
+    },
+    {
+        "title": "Outbreeding",
+        "description": "Mating unrelated individuals\nExample: Mating unrelated livestock"
+    },
+    {
+        "title": "Crossbreeding",
+        "description": "Combining different breeds\nExample: Crossbreeding Holstein with Jersey cows"
+    },
+    {
+        "title": "Linebreeding",
+        "description": "Mating within a specific line\nExample: Pure Arabian horses"
+    },
+    {
+        "title": "Purebred",
+        "description": "Animals of known ancestry\nExample: Registered breeds like Labrador Retriever"
+    },
+    {
+        "title": "Hybrid",
+        "description": "Offspring of two different breeds\nExample: Mule (horse x donkey)"
+    },
+    {
+        "title": "Backcross",
+        "description": "Crossing hybrid with a parent breed\nExample: Hybrid cow back to Holstein"
+    },
+    {
+        "title": "Grading up",
+        "description": "Improving a breed by crossing with superior animals\nExample: Crossing local cows with exotic bulls"
+    },
+    {
+        "title": "Pedigree analysis",
+        "description": "Recording ancestors of an animal\nExample: Dog pedigree registration"
+    },
+    {
+        "title": "Natural selection",
+        "description": "Survival of the fittest\nExample: Wolves adapting to environments"
+    },
+    {
+        "title": "Artificial selection",
+        "description": "Human selection of traits\nExample: Cattle selected for milk production"
+    },
+    {
+        "title": "Reproductive isolation",
+        "description": "Separation preventing reproduction\nExample: Mountain goats separated by terrain"
+    },
+    {
+        "title": "Domestication",
+        "description": "Human-led taming of animals\nExample: Domestication of dogs from wolves"
+    },
+    {
+        "title": "Taming",
+        "description": "Teaching wild animals to accept humans\nExample: Elephants taught for human interaction"
+    },
+    {
+        "title": "Wild ancestors",
+        "description": "Origins of domesticated species\nExample: Wild aurochs to domestic cattle"
+    },
+    {
+        "title": "Breed standard",
+        "description": "Traits defining a breed\nExample: Defined dog breeds"
+    },
+    {
+        "title": "Landrace",
+        "description": "Locally adapted breeds\nExample: Indian Gir cows"
+    },
+    {
+        "title": "Exotic breeds",
+        "description": "Non-native animal breeds\nExample: Jersey cows in India"
+    },
+    {
+        "title": "Indigenous breeds",
+        "description": "Native animal breeds\nExample: Gir cows in India"
+    },
+    {
+        "title": "Domesticated animals",
+        "description": "Animals under human care\nExample: Dogs, cats, livestock"
+    },
+    {
+        "title": "Animal adaptation",
+        "description": "Changes adapting animals to new environments\nExample: Adaptation of yaks to cold"
+    },
+    {
+        "title": "Genetic drift",
+        "description": "Random changes in genetics\nExample: Random allele shifts in breeds"
+    },
+    {
+        "title": "Artificial insemination",
+        "description": "Manually depositing sperm into female animals\nExample: Artificial insemination in goats"
+    },
+    {
+        "title": "Embryo transfer",
+        "description": "Transferring embryos between females\nExample: Embryo transfer in buffalo"
+    },
+    {
+        "title": "Cloning",
+        "description": "Producing genetic copies of animals\nExample: Cloning Dolly the sheep"
+    },
+    {
+        "title": "Molecular markers",
+        "description": "Genetic markers identifying traits\nExample: SNP markers in sheep genetics"
+    },
+    {
+        "title": "Genomic selection",
+        "description": "Selection using genetic data\nExample: Genomic selection in pigs"
+    },
+    {
+        "title": "Heterosis",
+        "description": "Improved traits in hybrids\nExample: Hybrid vigor in chicken breeds"
+    },
+    {
+        "title": "Trait heritability",
+        "description": "Degree to which traits are inherited\nExample: Milk production heritability in cows"
+    },
+    {
+        "title": "Behavioral domestication",
+        "description": "Changing behavior for human use\nExample: Dogs becoming companions"
+    },
+    {
+        "title": "Domestication syndrome",
+        "description": "Common traits in domestic animals\nExample: Floppy ears in domestic rabbits"
+    },
+    {
+        "title": "Feral animals",
+        "description": "Wild animals returning to natural state\nExample: Feral horses in wild"
+    },
+    {
+        "title": "Livestock breeds",
+        "description": "Domesticated animal categories\nExample: Holstein, Jersey"
+    },
+    {
+        "title": "Companion animals",
+        "description": "Animals kept as pets\nExample: Labradors, Poodles"
+    },
+    {
+        "title": "Reproductive behavior",
+        "description": "Reproductive patterns of species\nExample: Estrus cycle in goats"
+    },
+    {
+        "title": "Species-specific traits",
+        "description": "Unique characteristics per species\nExample: Camel adaptations"
+    },
+    {
+        "title": "Zoonotic potential",
+        "description": "Disease risk between animals and humans\nExample: Rabies spread from animals"
+    },
+    {
+        "title": "Breed conservation",
+        "description": "Protecting endangered breeds\nExample: Conservation of Vechur cows"
+    },
+    {
+        "title": "Ethical breeding",
+        "description": "Fair practices in breeding\nExample: Animal welfare laws"
+    },
+    {
+        "title": "Population bottleneck",
+        "description": "Reduction in genetic diversity\nExample: Genetic bottleneck in cheetahs"
+    },
+    {
+        "title": "Hybrid vigor",
+        "description": "Superiority in hybrids\nExample: Crossbreeding increases size"
+    },
+    {
+        "title": "Mutation breeding",
+        "description": "Induced mutations for traits\nExample: Mutant coat colors in cats"
+    },
+    {
+        "title": "Fossil evidence",
+        "description": "Evidence of domestication from fossils\nExample: Horse remains in ancient sites"
+    },
+    {
+        "title": "Historical domestication",
+        "description": "Study of past domestication processes\nExample: Domestication of horses in Asia"
+    },
+    {
+        "title": "Paleogenetics",
+        "description": "Study of ancient animal DNA\nExample: Woolly mammoth DNA studies"
+    },
+    {
+        "title": "Co-evolution",
+        "description": "Joint evolution with humans\nExample: Cattle and humans co-evolving"
+    },
+    {
+        "title": "Domestication pathways",
+        "description": "Pathways to domestication\nExample: Pigs domesticated from wild boar"
+    },
+    {
+        "title": "Phenotypic plasticity",
+        "description": "Flexibility in traits due to environment\nExample: Diverse traits in domestic dogs"
+    },
+    {
+        "title": "Domestication centers",
+        "description": "Locations where animals were first domesticated\nExample: Indus Valley domestication sites"
+    },
+    {
+        "title": "Animal archeology",
+        "description": "Excavation of ancient animal remains\nExample: Animal bones in ancient cities"
+    },
+    {
+        "title": "Artificial insemination",
+        "description": "Non-natural deposition of sperm\nExample: Artificial insemination in cattle"
+    },
+    {
+        "title": "Superovulation",
+        "description": "Inducing ovulation in females\nExample: Using FSH in goats"
+    },
+    {
+        "title": "Embryo transfer",
+        "description": "Moving embryos between animals\nExample: Embryo transfer in sheep"
+    },
+    {
+        "title": "In vitro fertilization",
+        "description": "Fertilizing eggs outside the body\nExample: IVF in livestock"
+    },
+    {
+        "title": "Cryopreservation",
+        "description": "Preserving biological material in cold storage\nExample: Preserved bull sperm"
+    },
+    {
+        "title": "Semen extenders",
+        "description": "Extending sperm viability\nExample: Semen stored for days"
+    },
+    {
+        "title": "Heat detection",
+        "description": "Identifying when females are ready to breed\nExample: Heat sensing in dairy cows"
+    },
+    {
+        "title": "Synchronizing estrus",
+        "description": "Aligning reproductive cycles\nExample: Aligning cycles in a herd"
+    },
+    {
+        "title": "Genetic engineering",
+        "description": "Manipulating DNA for traits\nExample: CRISPR pigs for organ donation"
+    },
+    {
+        "title": "Marker-assisted selection",
+        "description": "Using DNA markers in selection\nExample: SNP markers in chickens"
+    },
+    {
+        "title": "Cloning",
+        "description": "Creating genetic replicas\nExample: Dolly the sheep"
+    },
+    {
+        "title": "Genomic editing",
+        "description": "Editing genes using CRISPR\nExample: Gene-edited salmon"
+    },
+    {
+        "title": "Reproductive hormones",
+        "description": "Managing reproduction via hormones\nExample: LH injection for ovulation"
+    },
+    {
+        "title": "Hormonal implants",
+        "description": "Implanting hormones for fertility\nExample: Hormonal implants for cows"
+    },
+    {
+        "title": "Laparoscopic insemination",
+        "description": "Insemination using minimal invasion\nExample: Minimal-invasive insemination in goats"
+    },
+    {
+        "title": "Ovulation induction",
+        "description": "Stimulating ovary for egg release\nExample: Inducing eggs in rabbits"
+    },
+    {
+        "title": "Semen collection",
+        "description": "Collecting sperm from males\nExample: Sperm collection from bulls"
+    },
+    {
+        "title": "Embryo splitting",
+        "description": "Splitting embryos into twins\nExample: Embryo division for twins"
+    },
+    {
+        "title": "Embryo freezing",
+        "description": "Freezing embryos for later use\nExample: Frozen embryos for future use"
+    },
+    {
+        "title": "Sexing embryos",
+        "description": "Determining embryo sex\nExample: Sorting embryos for gender"
+    },
+    {
+        "title": "Gamete intrafallopian transfer",
+        "description": "GIFT: Combining egg and sperm in fallopian tube\nExample: Combining gametes in IVF"
+    },
+    {
+        "title": "Multiple ovulation",
+        "description": "Increasing egg release for breeding\nExample: Superovulation techniques"
+    },
+    {
+        "title": "Controlled reproduction",
+        "description": "Planned control of reproduction\nExample: Controlling livestock breeding"
+    },
+    {
+        "title": "Zygote manipulation",
+        "description": "Altering fertilized eggs\nExample: Manipulating zygote DNA"
+    },
+    {
+        "title": "Genetic screening",
+        "description": "Checking animals for genetic issues\nExample: Genetic testing for defects"
+    },
+    {
+        "title": "Polycross breeding",
+        "description": "Mating among diverse strains\nExample: Hybridization in crops"
+    },
+    {
+        "title": "Disease-free breeding",
+        "description": "Breeding disease-resistant animals\nExample: TB-free cattle breeding"
+    },
+    {
+        "title": "Backcross breeding",
+        "description": "Breeding hybrids back to parent breed\nExample: Crossing hybrids with native species"
+    },
+    {
+        "title": "Semen banking",
+        "description": "Storing sperm for future breeding\nExample: Bull semen freezing"
+    },
+    {
+        "title": "Breed registry",
+        "description": "Registry to document breed heritage\nExample: Cattle breed standards"
+    },
+    {
+        "title": "Genetic counselling",
+        "description": "Guiding genetic pairings\nExample: Advising farmers on breeding"
+    },
+    {
+        "title": "Progeny testing",
+        "description": "Testing offspring for trait inheritance\nExample: Calf milk yield testing"
+    },
+    {
+        "title": "Performance testing",
+        "description": "Assessing animal performance traits\nExample: Evaluating bull performance"
+    },
+    {
+        "title": "DNA fingerprinting",
+        "description": "DNA identification of animals\nExample: Genetic identification of livestock"
+    },
+    {
+        "title": "Transgenic animals",
+        "description": "Animals with inserted genes\nExample: Pigs with omega-3 genes"
+    },
+    {
+        "title": "Gene knockout",
+        "description": "Disabling specific genes\nExample: Removing undesirable genes"
+    },
+    {
+        "title": "Trait evaluation",
+        "description": "Measuring inherited traits\nExample: Milk production analysis"
+    },
+    {
+        "title": "Cross-fostering",
+        "description": "Switching offspring between mothers\nExample: Raising piglets in foster sows"
+    },
+    {
+        "title": "Hatchery management",
+        "description": "Managing hatcheries for breeding\nExample: Fish hatcheries"
+    },
+    {
+        "title": "Behavioral breeding",
+        "description": "Using behavior to enhance breeding\nExample: Using animal instincts in breeding"
+    },
+    {
+        "title": "Hybrid embryo transfer",
+        "description": "Implanting hybrid embryos\nExample: Hybrid embryos in cattle"
+    },
+    {
+        "title": "Surgical sterilization",
+        "description": "Preventing reproduction surgically\nExample: Neutering farm animals"
+    },
+    {
+        "title": "Hormonal therapies",
+        "description": "Using hormones for breeding\nExample: Hormonal injections in sheep"
+    },
+    {
+        "title": "Mating programs",
+        "description": "Programs to guide mating\nExample: Automated breeding schedules"
+    },
+    {
+        "title": "Breed improvement",
+        "description": "Enhancing breed qualities\nExample: Crossbreed optimization"
+    },
+    {
+        "title": "DNA barcoding",
+        "description": "Identifying species through DNA\nExample: DNA sequencing for species"
+    },
+    {
+        "title": "Animal surrogacy",
+        "description": "Using animals for surrogate breeding\nExample: Using cows for embryo hosting"
+    },
+    {
+        "title": "Population genetics",
+        "description": "Analyzing genetic variation\nExample: Population studies in livestock"
+    },
+    {
+        "title": "Semen cryobanking",
+        "description": "Freezing sperm for research\nExample: Sperm storage banks"
+    },
+    {
+        "title": "Embryo vitrification",
+        "description": "Rapid freezing of embryos\nExample: Embryos vitrified for storage"
+    },
+    {
+        "title": "Biotechnological breeding",
+        "description": "Using technology for breeding\nExample: Biotech tools in breeding"
+    }
+]

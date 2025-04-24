@@ -1,0 +1,606 @@
+[
+    {
+        "title": "Ichthyology",
+        "description": "The branch of zoology dedicated to the study of fish.\nExample: Fish science"
+    },
+    {
+        "title": "Osteichthyes",
+        "description": "A class of bony fish characterized by a skeleton made of bone.\nExample: Salmon"
+    },
+    {
+        "title": "Chondrichthyes",
+        "description": "A class of cartilaginous fish including sharks, rays, and skates.\nExample: Shark"
+    },
+    {
+        "title": "Actinopterygii",
+        "description": "Ray-finned fish, the largest group of bony fish.\nExample: Goldfish"
+    },
+    {
+        "title": "Sarcopterygii",
+        "description": "Lobe-finned fish, including lungfish and coelacanths.\nExample: Coelacanth"
+    },
+    {
+        "title": "Elasmobranchii",
+        "description": "A subclass of cartilaginous fish including sharks and rays.\nExample: Great white shark"
+    },
+    {
+        "title": "Holocephali",
+        "description": "A subclass of cartilaginous fish including chimaeras.\nExample: Chimaera"
+    },
+    {
+        "title": "Teleostei",
+        "description": "A diverse group of advanced bony fish.\nExample: Tuna"
+    },
+    {
+        "title": "Cypriniformes",
+        "description": "An order including carps and minnows.\nExample: Carp"
+    },
+    {
+        "title": "Perciformes",
+        "description": "The largest order of fish, including perches and cichlids.\nExample: Tilapia"
+    },
+    {
+        "title": "Siluriformes",
+        "description": "An order including catfish, which have barbels.\nExample: Catfish"
+    },
+    {
+        "title": "Salmoniformes",
+        "description": "An order including salmon and trout.\nExample: Trout"
+    },
+    {
+        "title": "Clupeiformes",
+        "description": "An order including herrings and sardines.\nExample: Herring"
+    },
+    {
+        "title": "Anguilliformes",
+        "description": "An order including eels and morays.\nExample: Eel"
+    },
+    {
+        "title": "Scorpaeniformes",
+        "description": "An order including scorpionfish and lionfish.\nExample: Lionfish"
+    },
+    {
+        "title": "Gadiformes",
+        "description": "An order including cod and haddock.\nExample: Cod"
+    },
+    {
+        "title": "Lophiiformes",
+        "description": "An order including anglerfish.\nExample: Anglerfish"
+    },
+    {
+        "title": "Tetraodontiformes",
+        "description": "An order including pufferfish and boxfish.\nExample: Pufferfish"
+    },
+    {
+        "title": "Fish Morphology",
+        "description": "The study of external and internal structures of fish.\nExample: Fish anatomy"
+    },
+    {
+        "title": "Lateral Line System",
+        "description": "A sensory system detecting water movements and vibrations.\nExample: Shark lateral line"
+    },
+    {
+        "title": "Swim Bladder",
+        "description": "A gas-filled organ aiding in buoyancy control.\nExample: Goldfish swim bladder"
+    },
+    {
+        "title": "Operculum",
+        "description": "A bony plate covering and protecting the gills.\nExample: Trout operculum"
+    },
+    {
+        "title": "Gill Rakers",
+        "description": "Comb-like structures in gills filtering food particles.\nExample: Whale shark gill rakers"
+    },
+    {
+        "title": "Barbels",
+        "description": "Whisker-like sensory organs on some fish.\nExample: Catfish barbels"
+    },
+    {
+        "title": "Nares",
+        "description": "Fish nostrils used for detecting chemicals in water.\nExample: Salmon nares"
+    },
+    {
+        "title": "Fish Scales",
+        "description": "The protective outer covering of fish bodies.\nExample: Fish scales"
+    },
+    {
+        "title": "Ctenoid Scales",
+        "description": "Scales with tiny comb-like edges, found in perch.\nExample: Bass scales"
+    },
+    {
+        "title": "Cycloid Scales",
+        "description": "Scales with smooth edges, found in salmon.\nExample: Salmon scales"
+    },
+    {
+        "title": "Ganoid Scales",
+        "description": "Diamond-shaped hard scales found in garfish.\nExample: Gar scales"
+    },
+    {
+        "title": "Placoid Scales",
+        "description": "Tooth-like scales found in sharks.\nExample: Shark scales"
+    },
+    {
+        "title": "Countershading",
+        "description": "A coloration pattern with a dark top and light belly.\nExample: Shark camouflage"
+    },
+    {
+        "title": "Cryptic Coloration",
+        "description": "A coloration pattern helping fish blend with surroundings.\nExample: Flounder"
+    },
+    {
+        "title": "Mimicry in Fish",
+        "description": "Imitating other species for survival advantages.\nExample: Cleaner wrasse"
+    },
+    {
+        "title": "Bioluminescence",
+        "description": "The production of light by marine organisms.\nExample: Deep-sea anglerfish"
+    },
+    {
+        "title": "Electroreception",
+        "description": "The ability to sense electrical fields in water.\nExample: Electric eel"
+    },
+    {
+        "title": "Ampullae of Lorenzini",
+        "description": "Specialized electroreceptive organs in cartilaginous fish.\nExample: Shark ampullae"
+    },
+    {
+        "title": "Fish Vision",
+        "description": "The ability of fish to perceive colors and shapes.\nExample: Betta fish vision"
+    },
+    {
+        "title": "Tapetum Lucidum",
+        "description": "A reflective layer behind the retina enhancing vision.\nExample: Shark eye"
+    },
+    {
+        "title": "Fish Hearing",
+        "description": "The detection of sound vibrations in water.\nExample: Carp hearing"
+    },
+    {
+        "title": "Weberian Apparatus",
+        "description": "A set of bones aiding in hearing in some fish.\nExample: Catfish Weberian apparatus"
+    },
+    {
+        "title": "Otoliths",
+        "description": "Ear stones in fish used for balance and age determination.\nExample: Fish ear stones"
+    },
+    {
+        "title": "Fish Osmoregulation",
+        "description": "The process of regulating water and salt balance.\nExample: Tilapia osmoregulation"
+    },
+    {
+        "title": "Stenohaline Fish",
+        "description": "Fish that can tolerate only a narrow range of salinity.\nExample: Goldfish"
+    },
+    {
+        "title": "Euryhaline Fish",
+        "description": "Fish that can tolerate a wide range of salinity.\nExample: Salmon"
+    },
+    {
+        "title": "Anadromous Fish",
+        "description": "Fish that migrate from saltwater to freshwater to spawn.\nExample: Eel"
+    },
+    {
+        "title": "Catadromous Fish",
+        "description": "Fish that migrate from freshwater to saltwater to spawn.\nExample: Barramundi"
+    },
+    {
+        "title": "Diadromous Fish",
+        "description": "Fish that migrate between fresh and saltwater environments.\nExample: Trout"
+    },
+    {
+        "title": "Fish Schooling",
+        "description": "The coordinated movement of fish in groups.\nExample: Herring school"
+    },
+    {
+        "title": "Shoaling Behavior",
+        "description": "The behavior of fish aggregating for social reasons.\nExample: Mackerel shoal"
+    },
+    {
+        "title": "Territoriality in Fish",
+        "description": "The defense of an area by a fish against intruders.\nExample: Betta fish"
+    },
+    {
+        "title": "Fish Migration",
+        "description": "The seasonal movement of fish for spawning or feeding.\nExample: Salmon migration"
+    },
+    {
+        "title": "Pelagic Fish",
+        "description": "Fish that live in the open ocean, away from the bottom.\nExample: Tuna"
+    },
+    {
+        "title": "Demersal Fish",
+        "description": "Fish that live near the sea floor.\nExample: Cod"
+    },
+    {
+        "title": "Benthic Fish",
+        "description": "Fish that dwell at the bottom of water bodies.\nExample: Flounder"
+    },
+    {
+        "title": "Reef Fish",
+        "description": "Fish that inhabit coral reef ecosystems.\nExample: Clownfish"
+    },
+    {
+        "title": "Abyssal Fish",
+        "description": "Fish that live in the deepest parts of the ocean.\nExample: Anglerfish"
+    },
+    {
+        "title": "Epipelagic Zone",
+        "description": "The uppermost oceanic zone where sunlight penetrates.\nExample: Shallow ocean"
+    },
+    {
+        "title": "Mesopelagic Zone",
+        "description": "The twilight zone of the ocean with limited light.\nExample: Twilight zone"
+    },
+    {
+        "title": "Bathypelagic Zone",
+        "description": "A deep-sea zone where no sunlight reaches.\nExample: Deep ocean"
+    },
+    {
+        "title": "Abyssopelagic Zone",
+        "description": "A near-bottom zone in the deep ocean.\nExample: Abyssal plains"
+    },
+    {
+        "title": "Hadalpelagic Zone",
+        "description": "The deepest oceanic zone, beyond abyssal depths.\nExample: Trench zone"
+    },
+    {
+        "title": "Ram Ventilation",
+        "description": "A ventilation process where fish must swim to breathe.\nExample: Sharks"
+    },
+    {
+        "title": "Buccal Pumping",
+        "description": "A breathing method using mouth muscles to force water over gills.\nExample: Goldfish"
+    },
+    {
+        "title": "Obligate Ram Ventilators",
+        "description": "Fish that must continuously swim to respire.\nExample: Tuna"
+    },
+    {
+        "title": "Facultative Air Breather",
+        "description": "Fish that can switch between water and air breathing.\nExample: Betta fish"
+    },
+    {
+        "title": "Obligate Air Breather",
+        "description": "Fish that must breathe air to survive.\nExample: Lungfish"
+    },
+    {
+        "title": "Lungfish",
+        "description": "A type of fish with primitive lungs for air breathing.\nExample: Australian lungfish"
+    },
+    {
+        "title": "Labyrinth Organ",
+        "description": "An organ in some fish allowing aerial respiration.\nExample: Gourami"
+    },
+    {
+        "title": "Gill Filaments",
+        "description": "Thin structures in gills that extract oxygen from water.\nExample: Salmon gills"
+    },
+    {
+        "title": "Gill Arches",
+        "description": "Bony structures that support the gills.\nExample: Fish skeleton"
+    },
+    {
+        "title": "Gill Lamellae",
+        "description": "Microscopic structures on gill filaments enhancing gas exchange.\nExample: Gill surface"
+    },
+    {
+        "title": "Fish Respiration",
+        "description": "The process by which fish extract oxygen from water.\nExample: Goldfish breathing"
+    },
+    {
+        "title": "Countercurrent Exchange",
+        "description": "A mechanism enhancing oxygen uptake in gills.\nExample: Trout oxygen exchange"
+    },
+    {
+        "title": "Hyperosmotic Regulation",
+        "description": "The regulation of water balance in freshwater fish.\nExample: Freshwater fish"
+    },
+    {
+        "title": "Hypoosmotic Regulation",
+        "description": "The regulation of water balance in marine fish.\nExample: Marine fish"
+    },
+    {
+        "title": "Eurythermal Fish",
+        "description": "Fish that can tolerate a wide range of temperatures.\nExample: Tilapia"
+    },
+    {
+        "title": "Stenothermal Fish",
+        "description": "Fish that can only survive in a narrow temperature range.\nExample: Icefish"
+    },
+    {
+        "title": "Thermocline",
+        "description": "A layer where temperature changes rapidly with depth.\nExample: Deep-sea fish"
+    },
+    {
+        "title": "Upwelling",
+        "description": "The process of nutrient-rich water rising to the surface.\nExample: Sardine migration"
+    },
+    {
+        "title": "Fish Metabolism",
+        "description": "The biochemical processes sustaining fish life.\nExample: Tuna energy"
+    },
+    {
+        "title": "Poikilothermic",
+        "description": "Having a body temperature that fluctuates with surroundings.\nExample: Catfish metabolism"
+    },
+    {
+        "title": "Homeothermic Fish",
+        "description": "Fish maintaining a stable internal temperature.\nExample: Moonfish"
+    },
+    {
+        "title": "Regional Endothermy",
+        "description": "Maintaining higher internal temperatures in specific body regions.\nExample: Shark muscles"
+    },
+    {
+        "title": "Gigantothermy",
+        "description": "A phenomenon where large-bodied fish retain heat.\nExample: Great white shark"
+    },
+    {
+        "title": "Antifreeze Proteins",
+        "description": "Proteins preventing ice formation in polar fish.\nExample: Icefish blood"
+    },
+    {
+        "title": "Lateral Compression",
+        "description": "A body shape adapted for quick maneuvering in water.\nExample: Angelfish"
+    },
+    {
+        "title": "Dorso-Ventral Compression",
+        "description": "A flattened body shape suited for bottom dwelling.\nExample: Skates"
+    },
+    {
+        "title": "Fusiform Body Shape",
+        "description": "A streamlined body shape for fast swimming.\nExample: Marlin"
+    },
+    {
+        "title": "Depressed Body Shape",
+        "description": "A flattened body adapted for resting on the bottom.\nExample: Stingray"
+    },
+    {
+        "title": "Anguilliform Body Shape",
+        "description": "An elongated body shape used by eels.\nExample: Eel"
+    },
+    {
+        "title": "Sagittiform Body Shape",
+        "description": "A torpedo-like body shape suited for rapid swimming.\nExample: Pike"
+    },
+    {
+        "title": "Globiform Body Shape",
+        "description": "A rounded body shape found in slow-moving fish.\nExample: Pufferfish"
+    },
+    {
+        "title": "Ostraciiform Motion",
+        "description": "A tail-driven swimming motion seen in boxfish.\nExample: Boxfish"
+    },
+    {
+        "title": "Amiiform Motion",
+        "description": "A motion using undulations of the dorsal fin.\nExample: Knifefish"
+    },
+    {
+        "title": "Labriform Motion",
+        "description": "A motion relying on pectoral fin movements.\nExample: Wrasse"
+    },
+    {
+        "title": "Rajiform Motion",
+        "description": "A motion where fish swim by undulating their bodies.\nExample: Ray"
+    },
+    {
+        "title": "Carangiform Motion",
+        "description": "A motion involving side-to-side tail beats.\nExample: Mackerel"
+    },
+    {
+        "title": "Thunniform Motion",
+        "description": "A motion used by tunas for fast swimming.\nExample: Tuna"
+    },
+    {
+        "title": "Oviparous Fish",
+        "description": "Fish that lay eggs which develop externally.\nExample: Salmon eggs"
+    },
+    {
+        "title": "Ovoviviparous Fish",
+        "description": "Fish that retain eggs inside the body until hatching.\nExample: Guppy"
+    },
+    {
+        "title": "Viviparous Fish",
+        "description": "Fish that give birth to live young.\nExample: Shark birth"
+    },
+    {
+        "title": "Fish Reproductive Strategies",
+        "description": "Different methods fish use for reproduction.\nExample: Fish reproduction"
+    },
+    {
+        "title": "Broadcast Spawning",
+        "description": "A reproductive method where fish release eggs and sperm into water.\nExample: Cod spawning"
+    },
+    {
+        "title": "Mouthbrooding",
+        "description": "A method where fish protect and carry eggs in their mouths.\nExample: Cichlid"
+    },
+    {
+        "title": "Nest Building",
+        "description": "Fish build structures to protect their eggs.\nExample: Stickleback"
+    },
+    {
+        "title": "Parental Care",
+        "description": "Any effort by fish to protect and raise offspring.\nExample: Seahorse"
+    },
+    {
+        "title": "Hermaphroditic Fish",
+        "description": "Fish that have both male and female reproductive organs.\nExample: Clownfish"
+    },
+    {
+        "title": "Sequential Hermaphroditism",
+        "description": "Changing sex during different life stages.\nExample: Grouper"
+    },
+    {
+        "title": "Protandry",
+        "description": "Fish that start as males and later become females.\nExample: Anemonefish"
+    },
+    {
+        "title": "Protogyny",
+        "description": "Fish that start as females and later become males.\nExample: Wrasse"
+    },
+    {
+        "title": "Gynogenesis",
+        "description": "A form of asexual reproduction requiring sperm but not genes from males.\nExample: Amazon molly"
+    },
+    {
+        "title": "Hybridogenesis",
+        "description": "A reproductive process where hybrids reproduce clonally.\nExample: Hybrid fish"
+    },
+    {
+        "title": "Unisexual Fish",
+        "description": "Fish that reproduce without males.\nExample: Poecilia formosa"
+    },
+    {
+        "title": "Parthenogenesis",
+        "description": "Asexual reproduction where embryos develop without fertilization.\nExample: Whiptail lizard"
+    },
+    {
+        "title": "Fish Growth",
+        "description": "The process of fish increasing in size.\nExample: Trout growth"
+    },
+    {
+        "title": "Indeterminate Growth",
+        "description": "A growth pattern where fish continue to grow throughout life.\nExample: Carp"
+    },
+    {
+        "title": "Fish Longevity",
+        "description": "The lifespan of fish species.\nExample: Shark lifespan"
+    },
+    {
+        "title": "Age Determination in Fish",
+        "description": "Methods used to determine the age of fish.\nExample: Otolith rings"
+    },
+    {
+        "title": "Fish Larvae",
+        "description": "The early stage of fish development.\nExample: Tuna larvae"
+    },
+    {
+        "title": "Fry",
+        "description": "Young fish that have recently hatched.\nExample: Goldfish fry"
+    },
+    {
+        "title": "Juvenile Fish",
+        "description": "A transitional stage between fry and adulthood.\nExample: Bass juvenile"
+    },
+    {
+        "title": "Metamorphosis in Fish",
+        "description": "Transformation from larval to adult fish form.\nExample: Flatfish"
+    },
+    {
+        "title": "Fish Eggs",
+        "description": "Reproductive cells of fish.\nExample: Salmon eggs"
+    },
+    {
+        "title": "Fish Hatchery",
+        "description": "Facilities for artificial breeding of fish.\nExample: Hatchery salmon"
+    },
+    {
+        "title": "Aquaculture",
+        "description": "The cultivation of fish for food.\nExample: Tilapia"
+    },
+    {
+        "title": "Fish Farming",
+        "description": "The commercial breeding and harvesting of fish.\nExample: Catfish farming"
+    },
+    {
+        "title": "Mariculture",
+        "description": "The farming of fish in marine environments.\nExample: Shrimp farming"
+    },
+    {
+        "title": "Ornamental Fish Trade",
+        "description": "The trade of decorative fish for aquariums.\nExample: Guppies"
+    },
+    {
+        "title": "Fish Stock Assessment",
+        "description": "Analyzing fish populations for conservation.\nExample: Cod population"
+    },
+    {
+        "title": "Fishery Management",
+        "description": "The regulation of fish populations for sustainability.\nExample: Lobster fishery"
+    },
+    {
+        "title": "Overfishing",
+        "description": "Excessive fishing reducing fish populations.\nExample: Tuna depletion"
+    },
+    {
+        "title": "Bycatch",
+        "description": "Unintended marine species caught during fishing.\nExample: Shark finning"
+    },
+    {
+        "title": "Sustainable Fishing",
+        "description": "Harvesting fish in a way that ensures future stocks.\nExample: MSC-certified fish"
+    },
+    {
+        "title": "Fish Conservation",
+        "description": "Efforts to protect fish populations and habitats.\nExample: Coral reef protection"
+    },
+    {
+        "title": "Endangered Fish Species",
+        "description": "Fish species at risk of extinction.\nExample: Sturgeon"
+    },
+    {
+        "title": "Invasive Fish Species",
+        "description": "Non-native fish species affecting ecosystems.\nExample: Lionfish"
+    },
+    {
+        "title": "Fish Diseases",
+        "description": "Diseases affecting fish health.\nExample: Koi herpesvirus"
+    },
+    {
+        "title": "Ichthyophthirius multifiliis",
+        "description": "A common fish disease caused by protozoan parasites.\nExample: Ich disease"
+    },
+    {
+        "title": "Fish Parasites",
+        "description": "Organisms that live on or inside fish causing harm.\nExample: Leeches on fish"
+    },
+    {
+        "title": "Gill Flukes",
+        "description": "Parasitic worms that infest fish gills.\nExample: Fluke-infected fish"
+    },
+    {
+        "title": "Anchor Worms",
+        "description": "Crustacean parasites attaching to fish skin.\nExample: Carp anchor worms"
+    },
+    {
+        "title": "Fish Immune System",
+        "description": "The defense system protecting fish from infections.\nExample: Trout immune response"
+    },
+    {
+        "title": "Fish Antibodies",
+        "description": "Proteins that help fish fight infections.\nExample: Carp immunity"
+    },
+    {
+        "title": "Stress in Fish",
+        "description": "Physiological responses in fish due to environmental factors.\nExample: Overcrowding stress"
+    },
+    {
+        "title": "Fish Hormones",
+        "description": "Chemical messengers regulating fish bodily functions.\nExample: Growth hormone"
+    },
+    {
+        "title": "Cortisol in Fish",
+        "description": "A stress hormone in fish.\nExample: Salmon cortisol"
+    },
+    {
+        "title": "Fish Toxicology",
+        "description": "The study of pollutants affecting fish health.\nExample: Pesticide impact"
+    },
+    {
+        "title": "Bioaccumulation",
+        "description": "The accumulation of toxins in fish tissues over time.\nExample: Mercury in fish"
+    },
+    {
+        "title": "Biomagnification",
+        "description": "The increase of toxin concentration through the food chain.\nExample: Tuna mercury levels"
+    },
+    {
+        "title": "Heavy Metal Pollution",
+        "description": "Harmful metal contaminants affecting fish health.\nExample: Lead pollution"
+    },
+    {
+        "title": "Microplastic Contamination",
+        "description": "The presence of plastic particles in fish ecosystems.\nExample: Plastic ingestion"
+    }
+]

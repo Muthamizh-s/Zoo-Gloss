@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - Zoology Dictionary App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary-green: #4C9A2A;
+      --secondary-green: #A3C586;
+      --earth-brown: #6A4E2E;
+      --golden-beige: #F7E7B6;
+      --text-dark: #2F2F2F;
+      --accent-light: #F1F9F1;
+      --cream-white: #ffffff;
+      --accent-lime: #A3C586;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(135deg, var(--primary-green), var(--earth-brown));
+      color: var(--accent-light);
+      line-height: 1.7;
+      padding-bottom: 60px; /* space for bottom nav */
+    }
+
+    .hero {
+      text-align: center;
+      padding: 4rem 2rem 3rem;
+      color: var(--golden-beige);
+      background-color: #F1F9F1;
+      color: #000;
+      animation: fadeIn 1.5s ease-in-out;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      text-shadow: 2px 2px var(--accent-lime);
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+      color: var(--text-dark);
+    }
+
+    .container {
+      max-width: 1000px;
+      margin-bottom: 20px;
+      padding: 2rem;
+      background-color: rgba(255, 255, 255, 0.07);
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      animation: fadeIn 1.5s ease-in-out;
+    }
+
+    section {
+      margin-bottom: 5rem;
+    }
+
+    h2 {
+      color: var(--golden-beige);
+      margin-bottom: 1rem;
+      font-size: 1.8rem;
+    }
+
+    p {
+      color: var(--cream-white);
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 2.2rem;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+      }
+    }
+
+    .bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  backdrop-filter: blur(12px);
+  display: flex;
+  color: #000;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0;
+  box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.35);
+  z-index: 1000;
+}
+
+.bottom-nav a {
+  flex: 1;
+  color: #111;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.9rem;
+  padding: 12px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.bottom-nav a svg {
+  width: 76px;
+  height: 76px;
+  fill: #111;
+  margin-bottom: 8px;
+  transition: fill 0.3s ease;
+}
+
+.bottom-nav a:hover{
+  color: var(--accent-lime);
+}
+.bottom-nav a:hover svg{
+  fill: var(--accent-lime);
+}
+
+/* Hide bottom nav on wider screens */
+@media (max-width: 768px) {
+  .bottom-nav {
+    display: none;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <h1>About the Zoology Dictionary App</h1>
+    <p>Explore. Learn. Understand the Animal Kingdom.</p>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Our Mission</h2>
+      <p>
+        The Zoology Dictionary App is built with one goal in mind: to make zoological knowledge accessible, enjoyable, and trustworthy. Whether you're studying for exams, conducting research, or just curious about the natural world—we’re here to fuel that curiosity.
+      </p>
+    </section>
+
+    <section>
+      <h2>What You'll Find</h2>
+      <p>
+        Thousands of entries covering everything from animal anatomy to behavior, ecology, and evolutionary science. Each term is enriched with illustrations, pronunciation guides, and interactive features to make learning immersive.
+      </p>
+    </section>
+
+    <section>
+      <h2>Expert-Approved</h2>
+      <p>
+        Developed by a team of academic experts and practicing zoologists, the app sources content from credible peer-reviewed journals and academic institutions. You can trust what you learn here.
+      </p>
+    </section>
+
+    <section>
+      <h2>Why It Stands Out</h2>
+      <p>
+        Mobile-friendly, offline-ready, and constantly updated — this app is your pocket zoology guide. It's designed to be intuitive, fast, and beautiful. Learning about animals has never felt this natural.
+      </p>
+    </section>
+  </main>
+
+  <div class="bottom-nav">
+    <a href="index.html" class="active">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+      <div>Home</div>
+    </a>
+    <a href="search.html">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+      <div>Search</div>
+    </a>
+    <a href="contact.html">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z"/></svg>
+      <div>Contact</div>
+    </a>
+  </div>
+</body>
+</html>

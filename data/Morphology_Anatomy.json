@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Morphology",
+        "description": "The study of the form and structure of organisms.\nExample: Comparing the wings of bats and birds."
+    },
+    {
+        "title": "Comparative Anatomy",
+        "description": "The study of similarities and differences in the anatomy of organisms.\nExample: Comparison of human and chimpanzee skeletons."
+    },
+    {
+        "title": "Homologous Structures",
+        "description": "Structures derived from a common ancestor but serving different functions.\nExample: Forelimbs of humans and whales."
+    },
+    {
+        "title": "Analogous Structures",
+        "description": "Structures with similar functions but different evolutionary origins.\nExample: Wings of insects and birds."
+    },
+    {
+        "title": "Histology",
+        "description": "The study of tissues under a microscope.\nExample: Examination of epithelial tissue."
+    },
+    {
+        "title": "Epithelial Tissue",
+        "description": "Tissue that lines the surfaces of organs and structures.\nExample: Skin epidermis."
+    },
+    {
+        "title": "Connective Tissue",
+        "description": "Tissue that supports, binds, or separates other tissues.\nExample: Bone and blood."
+    },
+    {
+        "title": "Muscle Tissue",
+        "description": "Tissue capable of contracting to produce movement.\nExample: Skeletal muscles in the arms."
+    },
+    {
+        "title": "Nervous Tissue",
+        "description": "Tissue responsible for transmitting electrical impulses.\nExample: Neurons in the brain."
+    },
+    {
+        "title": "Exoskeleton",
+        "description": "An external skeleton supporting and protecting an organism.\nExample: The shell of a crab."
+    },
+    {
+        "title": "Endoskeleton",
+        "description": "An internal skeleton supporting the body.\nExample: The human skeleton."
+    },
+    {
+        "title": "Axial Skeleton",
+        "description": "The part of the skeleton consisting of the skull, spine, and ribcage.\nExample: Human vertebral column."
+    },
+    {
+        "title": "Appendicular Skeleton",
+        "description": "The skeleton of limbs and girdles.\nExample: Arms and legs in humans."
+    },
+    {
+        "title": "Cartilage",
+        "description": "Flexible connective tissue in the body.\nExample: Cartilage in the ear."
+    },
+    {
+        "title": "Osteoblasts",
+        "description": "Cells that produce new bone material.\nExample: Bone repair after a fracture."
+    },
+    {
+        "title": "Vertebrae",
+        "description": "The series of bones forming the spine.\nExample: Cervical vertebrae in humans."
+    },
+    {
+        "title": "Amphibian Skeleton",
+        "description": "Skeleton adapted for life on land and water.\nExample: Frog skeleton."
+    },
+    {
+        "title": "Bird Skeleton",
+        "description": "Lightweight skeleton adapted for flight.\nExample: Hollow bones in pigeons."
+    },
+    {
+        "title": "Invertebrate Anatomy",
+        "description": "Study of internal and external structures of invertebrates.\nExample: Anatomy of earthworms."
+    },
+    {
+        "title": "Vertebrate Anatomy",
+        "description": "Study of internal and external structures of vertebrates.\nExample: Anatomy of fishes."
+    },
+    {
+        "title": "Muscle Fiber",
+        "description": "The basic unit of muscle tissue.\nExample: Skeletal muscle fibers in arms."
+    },
+    {
+        "title": "Myofibrils",
+        "description": "Thread-like structures in muscle cells responsible for contraction.\nExample: Actin and myosin filaments."
+    },
+    {
+        "title": "Cardiac Muscle",
+        "description": "Involuntary muscle tissue found in the heart.\nExample: Heart muscles beating rhythmically."
+    },
+    {
+        "title": "Smooth Muscle",
+        "description": "Involuntary muscle tissue found in organs.\nExample: Muscle in the stomach wall."
+    },
+    {
+        "title": "Skeletal Muscle",
+        "description": "Voluntary muscle tissue attached to bones.\nExample: Biceps contracting to lift weight."
+    },
+    {
+        "title": "Neuron",
+        "description": "The basic unit of the nervous system.\nExample: Nerve cells transmitting signals."
+    },
+    {
+        "title": "Axon",
+        "description": "The part of a neuron that carries electrical impulses.\nExample: Axon of a motor neuron."
+    },
+    {
+        "title": "Synapse",
+        "description": "The gap between two neurons for signal transmission.\nExample: Chemical transmission at the synapse."
+    },
+    {
+        "title": "Brainstem",
+        "description": "The part of the brain connecting to the spinal cord.\nExample: Controls basic life functions like breathing."
+    },
+    {
+        "title": "Cerebrum",
+        "description": "The largest part of the brain controlling voluntary actions.\nExample: Cerebrum for decision-making."
+    },
+    {
+        "title": "Cerebellum",
+        "description": "The brain region responsible for coordination and balance.\nExample: Maintaining posture while walking."
+    },
+    {
+        "title": "Heart Chambers",
+        "description": "Compartments of the heart pumping blood.\nExample: Four chambers in human hearts."
+    },
+    {
+        "title": "Arteries",
+        "description": "Blood vessels carrying oxygenated blood from the heart.\nExample: The aorta."
+    },
+    {
+        "title": "Veins",
+        "description": "Blood vessels carrying deoxygenated blood to the heart.\nExample: The vena cava."
+    },
+    {
+        "title": "Capillaries",
+        "description": "Small blood vessels where gas exchange occurs.\nExample: Capillaries in lungs exchanging oxygen."
+    },
+    {
+        "title": "Hemoglobin",
+        "description": "Protein in red blood cells carrying oxygen.\nExample: Hemoglobin binding oxygen in the lungs."
+    },
+    {
+        "title": "Lymphatic System",
+        "description": "System collecting and returning interstitial fluid to blood.\nExample: Lymph nodes fighting infections."
+    },
+    {
+        "title": "Open Circulatory System",
+        "description": "Circulatory system where blood is not confined to vessels.\nExample: Found in insects."
+    },
+    {
+        "title": "Closed Circulatory System",
+        "description": "Circulatory system where blood is confined to vessels.\nExample: Found in vertebrates."
+    },
+    {
+        "title": "Respiratory System",
+        "description": "System responsible for gas exchange in organisms.\nExample: Lungs in humans."
+    },
+    {
+        "title": "Gill",
+        "description": "Respiratory organ in aquatic animals.\nExample: Fish gills extracting oxygen from water."
+    },
+    {
+        "title": "Tracheal System",
+        "description": "Network of tubes for respiration in insects.\nExample: Found in grasshoppers."
+    },
+    {
+        "title": "Lung",
+        "description": "Respiratory organ in terrestrial vertebrates.\nExample: Human lungs breathing air."
+    },
+    {
+        "title": "Diaphragm",
+        "description": "Muscle aiding in breathing in mammals.\nExample: Diaphragm contracting during inhalation."
+    },
+    {
+        "title": "Spinal Cord",
+        "description": "Part of the central nervous system transmitting signals.\nExample: Reflex actions controlled by the spinal cord."
+    },
+    {
+        "title": "Peripheral Nervous System",
+        "description": "Nervous system outside the brain and spinal cord.\nExample: Nerves in arms and legs."
+    },
+    {
+        "title": "Sensory Neurons",
+        "description": "Neurons carrying signals from sense organs to the brain.\nExample: Signals from the eye to the brain."
+    },
+    {
+        "title": "Motor Neurons",
+        "description": "Neurons carrying signals from the brain to muscles.\nExample: Controlling hand movement."
+    },
+    {
+        "title": "Interneurons",
+        "description": "Neurons connecting sensory and motor neurons.\nExample: Processing reflex actions."
+    },
+    {
+        "title": "Endocrine System",
+        "description": "System of glands secreting hormones.\nExample: Pituitary gland regulating growth."
+    },
+    {
+        "title": "Excretory System",
+        "description": "System responsible for removing waste from the body.\nExample: Kidneys filtering blood in humans."
+    },
+    {
+        "title": "Nephrons",
+        "description": "Functional units of the kidney.\nExample: Nephrons filtering blood in mammals."
+    },
+    {
+        "title": "Urea",
+        "description": "Nitrogenous waste excreted by mammals.\nExample: Urea in human urine."
+    },
+    {
+        "title": "Malpighian Tubules",
+        "description": "Excretory structures in insects.\nExample: Malpighian tubules in grasshoppers."
+    },
+    {
+        "title": "Flame Cells",
+        "description": "Excretory structures in flatworms.\nExample: Flame cells in planaria."
+    },
+    {
+        "title": "Homeostasis",
+        "description": "Maintenance of stable internal conditions.\nExample: Regulation of body temperature in humans."
+    },
+    {
+        "title": "Metamorphosis",
+        "description": "Developmental transformation in animals.\nExample: Caterpillars becoming butterflies."
+    },
+    {
+        "title": "Ectotherms",
+        "description": "Organisms relying on external sources for body heat.\nExample: Reptiles basking in the sun."
+    },
+    {
+        "title": "Endotherms",
+        "description": "Organisms generating internal heat to regulate temperature.\nExample: Birds maintaining constant body temperature."
+    },
+    {
+        "title": "Digestive System",
+        "description": "System breaking down food for nutrient absorption.\nExample: Stomach and intestines in humans."
+    },
+    {
+        "title": "Alimentary Canal",
+        "description": "The whole passage food travels through the digestive system.\nExample: Esophagus, stomach, and intestines."
+    },
+    {
+        "title": "Liver",
+        "description": "Organ producing bile and aiding in metabolism.\nExample: Liver detoxifying substances in humans."
+    },
+    {
+        "title": "Pancreas",
+        "description": "Gland producing digestive enzymes and hormones.\nExample: Insulin production by the pancreas."
+    },
+    {
+        "title": "Gills in Mollusks",
+        "description": "Respiratory organs in aquatic mollusks.\nExample: Clams using gills to filter water."
+    },
+    {
+        "title": "Radial Symmetry",
+        "description": "Symmetry around a central axis.\nExample: Starfish exhibiting radial symmetry."
+    },
+    {
+        "title": "Bilateral Symmetry",
+        "description": "Body divided into two identical halves.\nExample: Humans with bilateral symmetry."
+    },
+    {
+        "title": "Asymmetry",
+        "description": "No specific symmetry in body structure.\nExample: Sponges with asymmetrical bodies."
+    },
+    {
+        "title": "Notochord",
+        "description": "A flexible rod supporting the body in embryonic stages.\nExample: Notochord in vertebrate embryos."
+    },
+    {
+        "title": "Coelom",
+        "description": "Body cavity housing internal organs.\nExample: Coelom in earthworms."
+    },
+    {
+        "title": "Pseudocoelomates",
+        "description": "Animals with a body cavity not completely lined by mesoderm.\nExample: Roundworms as pseudocoelomates."
+    },
+    {
+        "title": "Acoelomates",
+        "description": "Animals lacking a body cavity.\nExample: Flatworms as acoelomates."
+    },
+    {
+        "title": "Amphibian Circulation",
+        "description": "Circulatory system with three heart chambers.\nExample: Frogs with mixed blood circulation."
+    },
+    {
+        "title": "Reptilian Circulation",
+        "description": "Circulatory system with partially divided ventricles.\nExample: Crocodiles with a four-chambered heart."
+    },
+    {
+        "title": "Bird Circulation",
+        "description": "Efficient double circulation with four heart chambers.\nExample: Oxygenated blood supply in sparrows."
+    },
+    {
+        "title": "Gill Slits",
+        "description": "Openings for respiration in aquatic animals.\nExample: Sharks with gill slits."
+    },
+    {
+        "title": "Spiracles",
+        "description": "Openings in arthropods for respiration.\nExample: Spiracles in grasshoppers."
+    },
+    {
+        "title": "Larynx",
+        "description": "Voice box in vertebrates.\nExample: Human larynx producing speech sounds."
+    },
+    {
+        "title": "Alveoli",
+        "description": "Tiny air sacs in lungs for gas exchange.\nExample: Oxygen exchange in human alveoli."
+    },
+    {
+        "title": "Exocrine Glands",
+        "description": "Glands secreting substances via ducts.\nExample: Sweat glands in the skin."
+    },
+    {
+        "title": "Endocrine Glands",
+        "description": "Ductless glands secreting hormones.\nExample: Thyroid gland regulating metabolism."
+    },
+    {
+        "title": "Adrenal Glands",
+        "description": "Glands producing adrenaline and corticosteroids.\nExample: Adrenal glands responding to stress."
+    },
+    {
+        "title": "Pituitary Gland",
+        "description": "Master gland controlling other glands.\nExample: Secreting growth hormone."
+    },
+    {
+        "title": "Thyroid Gland",
+        "description": "Gland regulating metabolism.\nExample: Thyroid secreting thyroxine."
+    },
+    {
+        "title": "Excretory Organs in Annelids",
+        "description": "Structures removing waste in segmented worms.\nExample: Nephridia in earthworms."
+    },
+    {
+        "title": "Chitinous Exoskeleton",
+        "description": "External skeleton made of chitin in arthropods.\nExample: Exoskeleton of crabs."
+    },
+    {
+        "title": "Segmentation",
+        "description": "Division of body into segments.\nExample: Segments in earthworms."
+    },
+    {
+        "title": "Cephalization",
+        "description": "Development of a head region with sensory organs.\nExample: Cephalization in flatworms."
+    },
+    {
+        "title": "Hydrostatic Skeleton",
+        "description": "Skeleton formed by fluid pressure.\nExample: Hydrostatic skeleton in jellyfish."
+    },
+    {
+        "title": "Oviparous",
+        "description": "Animals laying eggs.\nExample: Birds and reptiles as oviparous species."
+    },
+    {
+        "title": "Viviparous",
+        "description": "Animals giving live birth.\nExample: Humans and mammals as viviparous species."
+    },
+    {
+        "title": "Ovoviviparous",
+        "description": "Animals with eggs hatching inside the body.\nExample: Sharks as ovoviviparous species."
+    },
+    {
+        "title": "Plasma",
+        "description": "Liquid component of blood.\nExample: Plasma transporting nutrients in humans."
+    },
+    {
+        "title": "Platelets",
+        "description": "Blood cells aiding in clotting.\nExample: Platelets forming clots to stop bleeding."
+    },
+    {
+        "title": "Red Blood Cells",
+        "description": "Blood cells carrying oxygen.\nExample: RBCs transporting oxygen via hemoglobin."
+    },
+    {
+        "title": "White Blood Cells",
+        "description": "Blood cells fighting infections.\nExample: WBCs attacking pathogens."
+    },
+    {
+        "title": "Haversian Canal",
+        "description": "Microscopic tubes in bones carrying blood vessels.\nExample: Haversian canals in compact bones."
+    },
+    {
+        "title": "Cartilaginous Fish",
+        "description": "Fish with skeletons made of cartilage.\nExample: Sharks and rays."
+    },
+    {
+        "title": "Bony Fish",
+        "description": "Fish with skeletons made of bone.\nExample: Salmon and trout."
+    },
+    {
+        "title": "Amniotic Egg",
+        "description": "Egg with a protective shell and membranes.\nExample: Reptilian and bird eggs."
+    },
+    {
+        "title": "Placenta",
+        "description": "Organ connecting mother and fetus during pregnancy.\nExample: Nutrient exchange in mammals."
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Taxonomy",
+        "description": "The science of classifying organisms based on shared characteristics.\nExample: Classification of lion as Panthera leo"
+    },
+    {
+        "title": "Systematics",
+        "description": "The study of biological diversity and evolutionary relationships among organisms.\nExample: Birds evolved from theropod dinosaurs"
+    },
+    {
+        "title": "Nomenclature",
+        "description": "Rules for naming organisms scientifically.\nExample: Humans are Homo sapiens"
+    },
+    {
+        "title": "Binomial Nomenclature",
+        "description": "Two-part scientific naming system including genus and species names.\nExample: Canis lupus for gray wolf"
+    },
+    {
+        "title": "Cladistics",
+        "description": "Classification method based on common ancestry and evolutionary branching.\nExample: Cladogram showing primates and rodents diverging"
+    },
+    {
+        "title": "Phylogeny",
+        "description": "Evolutionary history and relationships among species.\nExample: Phylogenetic tree of vertebrates"
+    },
+    {
+        "title": "Hierarchical Classification",
+        "description": "Ranking organisms into nested groups like Kingdom, Phylum, etc.\nExample: Birds belong to Class Aves"
+    },
+    {
+        "title": "Taxonomic Rank",
+        "description": "Levels of classification in biological hierarchy.\nExample: Order Carnivora for felines"
+    },
+    {
+        "title": "Monophyletic Group",
+        "description": "Group including a common ancestor and all its descendants.\nExample: Mammals as a monophyletic group"
+    },
+    {
+        "title": "Paraphyletic Group",
+        "description": "Group including a common ancestor but not all descendants.\nExample: Reptiles excluding birds"
+    },
+    {
+        "title": "Kingdom",
+        "description": "Highest taxonomic rank grouping organisms with fundamental similarities.\nExample: Animalia for animals"
+    },
+    {
+        "title": "Phylum",
+        "description": "Major division below Kingdom grouping organisms with similar body plans.\nExample: Chordata for animals with backbones"
+    },
+    {
+        "title": "Class",
+        "description": "Taxonomic group within a phylum.\nExample: Mammalia includes mammals"
+    },
+    {
+        "title": "Order",
+        "description": "Subdivision of class grouping families with shared traits.\nExample: Carnivora includes cats and dogs"
+    },
+    {
+        "title": "Family",
+        "description": "Taxonomic group containing related genera.\nExample: Felidae includes lions and tigers"
+    },
+    {
+        "title": "Genus",
+        "description": "Group of related species sharing common traits.\nExample: Canis includes wolves and dogs"
+    },
+    {
+        "title": "Species",
+        "description": "Most specific rank representing organisms that can interbreed.\nExample: Homo sapiens for humans"
+    },
+    {
+        "title": "Subspecies",
+        "description": "Division of species with minor genetic differences.\nExample: Panthera leo persica for Asiatic lions"
+    },
+    {
+        "title": "Superfamily",
+        "description": "Taxonomic rank above family grouping multiple related families.\nExample: Hominoidea includes humans and great apes"
+    },
+    {
+        "title": "Infraorder",
+        "description": "Taxonomic level between order and family.\nExample: Cetacea for whales and dolphins"
+    },
+    {
+        "title": "Convergent Evolution",
+        "description": "Process where unrelated species evolve similar traits.\nExample: Wings in birds and bats"
+    },
+    {
+        "title": "Divergent Evolution",
+        "description": "Evolution where related species develop different traits.\nExample: Darwin's finches"
+    },
+    {
+        "title": "Homology",
+        "description": "Traits inherited from a common ancestor.\nExample: Pentadactyl limb in mammals and birds"
+    },
+    {
+        "title": "Analogy",
+        "description": "Traits serving similar functions but from different origins.\nExample: Shark and dolphin fins"
+    },
+    {
+        "title": "Vestigial Structures",
+        "description": "Features that lost their original function over time.\nExample: Human appendix"
+    },
+    {
+        "title": "Adaptive Radiation",
+        "description": "Rapid diversification of a single lineage into multiple species.\nExample: Galápagos finches"
+    },
+    {
+        "title": "Phylogenetic Tree",
+        "description": "Diagram showing evolutionary relationships.\nExample: Tree illustrating primate evolution"
+    },
+    {
+        "title": "Clade",
+        "description": "Group of organisms including an ancestor and all descendants.\nExample: Tetrapoda includes amphibians and mammals"
+    },
+    {
+        "title": "Outgroup",
+        "description": "Species outside the primary study group, used for comparison.\nExample: Sharks as outgroup for bony fish"
+    },
+    {
+        "title": "Sister Taxa",
+        "description": "Two taxa sharing an immediate common ancestor.\nExample: Humans and chimpanzees"
+    },
+    {
+        "title": "Eutherian",
+        "description": "Placental mammals.\nExample: Dogs, whales, and humans"
+    },
+    {
+        "title": "Metatherian",
+        "description": "Marsupial mammals.\nExample: Kangaroos and koalas"
+    },
+    {
+        "title": "Monotreme",
+        "description": "Egg-laying mammals.\nExample: Platypus and echidna"
+    },
+    {
+        "title": "Arthropod",
+        "description": "Invertebrates with segmented bodies and exoskeletons.\nExample: Spiders, crabs, insects"
+    },
+    {
+        "title": "Cnidarian",
+        "description": "Aquatic animals with stinging cells.\nExample: Jellyfish and corals"
+    },
+    {
+        "title": "Mollusk",
+        "description": "Soft-bodied animals, many with shells.\nExample: Snails and octopuses"
+    },
+    {
+        "title": "Echinoderm",
+        "description": "Marine invertebrates with radial symmetry.\nExample: Starfish and sea urchins"
+    },
+    {
+        "title": "Chordate",
+        "description": "Animals with a notochord at some stage of development.\nExample: Frogs and birds"
+    },
+    {
+        "title": "Amphibian",
+        "description": "Cold-blooded vertebrates living in water and on land.\nExample: Frogs and salamanders"
+    },
+    {
+        "title": "Reptile",
+        "description": "Cold-blooded, scaly-skinned vertebrates.\nExample: Snakes and lizards"
+    },
+    {
+        "title": "Bird",
+        "description": "Warm-blooded vertebrates with feathers.\nExample: Sparrows and eagles"
+    },
+    {
+        "title": "Mammal",
+        "description": "Warm-blooded vertebrates with hair or fur.\nExample: Humans and lions"
+    },
+    {
+        "title": "Herpetology",
+        "description": "Study of amphibians and reptiles.\nExample: Study of snakes"
+    },
+    {
+        "title": "Ornithology",
+        "description": "Study of birds.\nExample: Migratory bird studies"
+    },
+    {
+        "title": "Ichthyology",
+        "description": "Study of fish.\nExample: Marine fish taxonomy"
+    },
+    {
+        "title": "Entomology",
+        "description": "Study of insects.\nExample: Ant behavior studies"
+    },
+    {
+        "title": "Paleontology",
+        "description": "Study of fossils to understand ancient life.\nExample: Dinosaur fossil studies"
+    },
+    {
+        "title": "Extinction",
+        "description": "Process where a species ceases to exist.\nExample: Dinosaurs"
+    },
+    {
+        "title": "Endemism",
+        "description": "Species restricted to specific regions.\nExample: Lemurs in Madagascar"
+    },
+    {
+        "title": "Invasive Species",
+        "description": "Non-native species disrupting ecosystems.\nExample: Cane toads in Australia"
+    },
+    {
+        "title": "Ecological Niche",
+        "description": "The role and position a species has in its environment.\nExample: Bees pollinating flowers."
+    },
+    {
+        "title": "Population Genetics",
+        "description": "Study of genetic variation within populations.\nExample: Genetic drift in island birds."
+    },
+    {
+        "title": "Speciation",
+        "description": "The process by which new species arise.\nExample: Darwin’s finches diverging on the Galápagos Islands."
+    },
+    {
+        "title": "Gene Flow",
+        "description": "Transfer of genetic material between populations.\nExample: Migration of wolves spreading genes."
+    },
+    {
+        "title": "Genetic Drift",
+        "description": "Random changes in allele frequencies in populations.\nExample: Bottleneck effect in cheetahs."
+    },
+    {
+        "title": "Biodiversity",
+        "description": "The variety of life forms in an ecosystem.\nExample: Rainforests with diverse species."
+    },
+    {
+        "title": "Phylogenetic Analysis",
+        "description": "Study of evolutionary relationships using genetic data.\nExample: Determining bird evolution using DNA."
+    },
+    {
+        "title": "Cladogram",
+        "description": "Diagram depicting evolutionary relationships.\nExample: A cladogram showing primate divergence."
+    },
+    {
+        "title": "Morphology",
+        "description": "The study of the form and structure of organisms.\nExample: Comparison of bird beak shapes."
+    },
+    {
+        "title": "Homologous Structures",
+        "description": "Features inherited from a common ancestor.\nExample: Forelimbs of bats and whales."
+    },
+    {
+        "title": "Analogous Structures",
+        "description": "Features with similar functions but different evolutionary origins.\nExample: Wings of birds and insects."
+    },
+    {
+        "title": "Vestigial Organs",
+        "description": "Structures with reduced or no function.\nExample: Human tailbone (coccyx)."
+    },
+    {
+        "title": "Adaptive Evolution",
+        "description": "Changes in traits that improve survival and reproduction.\nExample: Camouflage in chameleons."
+    },
+    {
+        "title": "Evolutionary Tree",
+        "description": "Diagram illustrating species divergence.\nExample: Tree showing mammal evolution."
+    },
+    {
+        "title": "Dichotomous Key",
+        "description": "Tool for identifying species using contrasting features.\nExample: Key to identify fish species."
+    },
+    {
+        "title": "Reproductive Isolation",
+        "description": "Mechanisms preventing species from interbreeding.\nExample: Temporal isolation in frogs."
+    },
+    {
+        "title": "Sympatric Speciation",
+        "description": "Speciation occurring in the same geographic area.\nExample: Cichlid fish in African lakes."
+    },
+    {
+        "title": "Allopatric Speciation",
+        "description": "Speciation due to geographic separation.\nExample: Squirrels separated by the Grand Canyon."
+    },
+    {
+        "title": "Molecular Phylogenetics",
+        "description": "Study of evolutionary relationships using molecular data.\nExample: Comparing DNA sequences in mammals."
+    },
+    {
+        "title": "Extinction Event",
+        "description": "Mass extinction of species.\nExample: Cretaceous-Paleogene extinction of dinosaurs."
+    },
+    {
+        "title": "Endemism",
+        "description": "Species restricted to a specific region.\nExample: Kangaroos in Australia."
+    },
+    {
+        "title": "Ecotype",
+        "description": "A population adapted to specific environmental conditions.\nExample: Alpine plants on mountain slopes."
+    },
+    {
+        "title": "Biogeography",
+        "description": "Study of species distribution across geographic areas.\nExample: Wallace's line separating Asian and Australian fauna."
+    },
+    {
+        "title": "Evolutionary Adaptation",
+        "description": "A trait that evolves due to natural selection.\nExample: Thick fur in Arctic foxes."
+    },
+    {
+        "title": "Coevolution",
+        "description": "Two or more species evolving in response to each other.\nExample: Flowers and their pollinators."
+    },
+    {
+        "title": "Habitat Fragmentation",
+        "description": "Breakup of habitat into smaller pieces.\nExample: Deforestation affecting tiger populations."
+    },
+    {
+        "title": "Conservation Biology",
+        "description": "Study to preserve biodiversity.\nExample: Efforts to save the Bengal tiger."
+    },
+    {
+        "title": "Mimicry",
+        "description": "One species evolving to resemble another.\nExample: Viceroy butterflies mimicking monarchs."
+    },
+    {
+        "title": "Cryptic Species",
+        "description": "Species that look identical but are genetically distinct.\nExample: Cryptic frogs in the Amazon."
+    },
+    {
+        "title": "Ecological Succession",
+        "description": "Gradual change in ecosystem structure over time.\nExample: Colonization of lava fields by plants."
+    },
+    {
+        "title": "Keystone Species",
+        "description": "A species with a disproportionate impact on its ecosystem.\nExample: Wolves controlling prey populations."
+    },
+    {
+        "title": "Founder Effect",
+        "description": "Loss of genetic variation in small populations.\nExample: Island populations of birds."
+    },
+    {
+        "title": "Bottleneck Effect",
+        "description": "Drastic reduction in population size affecting genetic diversity.\nExample: Northern elephant seals after hunting."
+    },
+    {
+        "title": "Natural Selection",
+        "description": "Process where organisms with favorable traits survive and reproduce.\nExample: Peppered moth color change."
+    },
+    {
+        "title": "Artificial Selection",
+        "description": "Human-driven selection of traits.\nExample: Breeding of domestic dogs."
+    },
+    {
+        "title": "Sexual Selection",
+        "description": "Selection based on traits that improve mating success.\nExample: Peacock tail feathers."
+    },
+    {
+        "title": "Mutation",
+        "description": "A change in DNA that creates genetic variation.\nExample: Mutation leading to antibiotic resistance."
+    },
+    {
+        "title": "Transitional Fossils",
+        "description": "Fossils showing intermediate traits between groups.\nExample: Archaeopteryx linking dinosaurs and birds."
+    },
+    {
+        "title": "Ecological Isolation",
+        "description": "Species in the same area but occupying different niches.\nExample: Bird species preferring different trees."
+    },
+    {
+        "title": "Temporal Isolation",
+        "description": "Species reproducing at different times.\nExample: Frogs mating in different seasons."
+    },
+    {
+        "title": "Behavioral Isolation",
+        "description": "Differences in mating behavior preventing interbreeding.\nExample: Birds with unique mating calls."
+    },
+    {
+        "title": "Hybridization",
+        "description": "Interbreeding of two different species.\nExample: Liger, offspring of a lion and tiger."
+    },
+    {
+        "title": "Genetic Divergence",
+        "description": "Accumulation of genetic differences between populations.\nExample: Genetic drift in isolated island species."
+    },
+    {
+        "title": "Polymorphism",
+        "description": "Occurrence of two or more forms within a species.\nExample: Color variations in peppered moths."
+    },
+    {
+        "title": "Phenotypic Plasticity",
+        "description": "Ability of an organism to change traits in response to environment.\nExample: Leaves adapting to light conditions."
+    },
+    {
+        "title": "Cline",
+        "description": "A gradual change in a trait across a geographic area.\nExample: Size variation in mammals along latitudes."
+    },
+    {
+        "title": "Parallel Evolution",
+        "description": "Independent evolution of similar traits in species with a common ancestor.\nExample: Flying squirrels in different continents."
+    },
+    {
+        "title": "Directional Selection",
+        "description": "Selection favoring one extreme of a trait.\nExample: Giraffes with longer necks."
+    },
+    {
+        "title": "Stabilizing Selection",
+        "description": "Selection favoring average traits.\nExample: Human birth weight extremes being unfavorable."
+    },
+    {
+        "title": "Disruptive Selection",
+        "description": "Selection favoring both extremes over the average.\nExample: Finches with small or large beaks."
+    }
+]
